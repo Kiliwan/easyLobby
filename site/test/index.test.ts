@@ -18,10 +18,10 @@ describe('index page', () => {
     }
   })
 
-  it('lists all 29 votations', () => {
+  it('lists every votation', () => {
     const html = page('fr/index.html')
     const links = html.match(/href="[^"]*\/fr\/objet\/[^"]+\/"/g) ?? []
-    expect(new Set(links).size).toBe(29)
+    expect(new Set(links).size).toBe(loadVotes().votes.length)
   })
 
   it('ships no JavaScript', () => {

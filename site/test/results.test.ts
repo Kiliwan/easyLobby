@@ -25,7 +25,8 @@ describe('result data', () => {
   })
 
   it('gives no result to a ballot date that has not happened', () => {
-    for (const v of votes.filter((x) => x.ballotDate >= '2026-09-27')) {
+    const today = new Date().toISOString().slice(0, 10)
+    for (const v of votes.filter((x) => x.ballotDate > today)) {
       expect(resultFor(v.id)).toBeNull()
     }
   })

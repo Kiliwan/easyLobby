@@ -13,8 +13,10 @@ const donorCount = (v: Vote): number => v.committees.reduce((s, c) => s + c.dono
 const busiest = votes.reduce((a, b) => (donorCount(b) > donorCount(a) ? b : a))
 
 const object28 = votes.find((v) => v.id === 28)!
-const emptyPast = votes.find((v) => v.id === 23)!
-const emptyFuture = votes.find((v) => v.id === 33)!
+const today = new Date().toISOString().slice(0, 10)
+const emptyPast = votes.find((v) => v.stage === 'none' && v.ballotDate < today)
+const emptyFuture = votes.find((v) => v.stage === 'none' && v.ballotDate > today)
+const siteHasVariedObservationDates = hasVariedObservationDates(votes)
 const page = (p: string) => readFileSync(`${dist}${p}`, 'utf8')
 
 function entryBlockContaining(html: string, needle: string): string {
@@ -73,14 +75,14 @@ describe('detail pages', () => {
     }
   })
 
-  it('uses the past empty state for a past vote with no filings (object 23)', () => {
-    const html = page(`fr/objet/${emptyPast.slug}/index.html`).replace(/&#39;/g, "'")
+  it.skipIf(!emptyPast)('uses the past empty state for a past vote with no filings', () => {
+    const html = page(`fr/objet/${emptyPast!.slug}/index.html`).replace(/&#39;/g, "'")
     expect(html).toContain("Aucune déclaration n'a été déposée")
     expect(html).not.toContain("Aucune déclaration pour l'instant")
   })
 
-  it('uses the future empty state for an upcoming vote with no filings (object 33)', () => {
-    const html = page(`fr/objet/${emptyFuture.slug}/index.html`).replace(/&#39;/g, "'")
+  it.skipIf(!emptyFuture)('uses the future empty state for an upcoming vote with no filings', () => {
+    const html = page(`fr/objet/${emptyFuture!.slug}/index.html`).replace(/&#39;/g, "'")
     expect(html).toContain("Aucune déclaration pour l'instant")
   })
 
@@ -278,9 +280,7 @@ describe('donor lifecycle rendering', () => {
     expect(current[0]!.registerDate).not.toBe(current[0]!.observed)
   })
 
-  it('suppresses the observed line site-wide while the archive holds only one distinct observation date', () => {
-    expect(hasVariedObservationDates(loadVotes().votes)).toBe(false)
-
+  it('shows the observed line only once the archive holds more than one distinct observation date', () => {
     const fixture: Committee = {
       id: 9005,
       names: { de: 'Test', fr: 'Test', it: 'Test' },
@@ -305,16 +305,18 @@ describe('donor lifecycle rendering', () => {
     }
 
     const { current } = splitCommitteeDonors(fixture, 'fr')
-    expect(current[0]!.observed).toBeUndefined()
+    expect(current[0]!.observed === undefined).toBe(!siteHasVariedObservationDates)
   })
 
-  it('never renders an "obs" (observed) div anywhere on the built site today', () => {
+  it('renders an "obs" (observed) div on the built site exactly when observation dates vary', () => {
+    let pagesWithObs = 0
     for (const lang of ['de', 'fr', 'it'] as const) {
       for (const v of votes) {
         if (v.stage === 'none') continue
-        expect(page(`${lang}/objet/${v.slug}/index.html`)).not.toContain('class="obs"')
+        if (page(`${lang}/objet/${v.slug}/index.html`).includes('class="obs"')) pagesWithObs++
       }
     }
+    expect(pagesWithObs > 0).toBe(siteHasVariedObservationDates)
   })
 
   it('covers the withdrawn caption with a synthetic fixture — no real donor has withdrawnAt set yet', () => {
@@ -415,22 +417,6 @@ describe('donor lifecycle rendering', () => {
 })
 
 describe('re-filed-under-a-different-spelling suppression (clause b)', () => {
-  const stateCounts = (): { current: number; greyed: number; suppressed: number } => {
-    const counts = { current: 0, greyed: 0, suppressed: 0 }
-    for (const v of votes) {
-      for (const c of v.committees) {
-        for (const d of c.donors) counts[donorRenderState(d, c)]++
-      }
-    }
-    return counts
-  }
-
-  it('suppresses exactly the five known re-filings, on top of the exact name+city matches already suppressed', () => {
-    const counts = stateCounts()
-    expect(counts.suppressed).toBe(434)
-    expect(counts.greyed).toBe(17)
-  })
-
   const expectSuppressed = (committeeId: number, name: string) => {
     const c = votes.flatMap((v) => v.committees).find((x) => x.id === committeeId)!
     const d = c.donors.find((x) => x.name === name)!

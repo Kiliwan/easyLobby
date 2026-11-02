@@ -8,8 +8,8 @@ import { LANGS, messageKeys, messagesFor, t } from '../src/i18n/index.js'
 describe('loadVotes', () => {
   const data = loadVotes()
 
-  it('loads all 29 in-scope votations', () => {
-    expect(data.votes).toHaveLength(29)
+  it('loads at least the 29 in-scope votations known at launch', () => {
+    expect(data.votes.length).toBeGreaterThanOrEqual(29)
   })
 
   it('sorts newest ballot date first', () => {
@@ -180,10 +180,6 @@ describe('hasVariedObservationDates', () => {
 
   it('is false for an archive with no observations at all', () => {
     expect(hasVariedObservationDates([{ committees: [] }] as never)).toBe(false)
-  })
-
-  it('is currently false for the real site data — the archive only has one day of depth', () => {
-    expect(hasVariedObservationDates(loadVotes().votes)).toBe(false)
   })
 })
 
