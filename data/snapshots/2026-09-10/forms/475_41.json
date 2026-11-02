@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/475/forms/41",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "ASLOCA Association suisse des locataires, Berne",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 605'000.00",
+        "monetary_allowances": "CHF 526'500.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 78'500.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "ee78a038a85992f5a62d0d31db8c51abee5a8911303bb512021402a19883e3ef"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/430/forms/26",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Ja zu mehr Natur, Landschaft und Baukultur, Basel",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Daniel",
+            "natural_name": "Brunner",
+            "natural_city": "Zug",
+            "living_abroad": false,
+            "value": "25'771.25",
+            "date": "24.05.2024"
+          }
+        ],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Pro Natura",
+            "juristic_city": "Basel",
+            "value": "1'300'000.00",
+            "date": "17.04.2024"
+          },
+          {
+            "juristic_name": "BirdLife Schweiz",
+            "juristic_city": "Zürich",
+            "value": "50'000.00",
+            "date": "17.04.2024"
+          },
+          {
+            "juristic_name": "Stiftung Landschaftsschutz (SL)",
+            "juristic_city": "Bern",
+            "value": "67'000.00",
+            "date": "17.04.2024"
+          },
+          {
+            "juristic_name": "Schweizer Heimatschutz (SHS)",
+            "juristic_city": "Zürich",
+            "value": "67'000.00",
+            "date": "17.04.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "BirdLife Schweiz",
+            "juristic_city": "Zürich",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeitsleistung",
+            "value": "68'000.00",
+            "date": "17.04.2024"
+          },
+          {
+            "juristic_name": "Pro Natura",
+            "juristic_city": "Basel",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeitsleistung",
+            "value": "453'000.00",
+            "date": "17.04.2024"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "53202b5d4ca0e77b96d9226f88c41227692b280eb291bebd792c014bfa4e808f"
+  }
+}

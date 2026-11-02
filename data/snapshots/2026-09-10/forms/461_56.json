@@ -1,0 +1,102 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/461/forms/56",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "2 x Ja zum Mietrecht / Bund für mehr Wohnraum, Zürich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "HEV Schweiz",
+            "juristic_city": "Zürich",
+            "value": "1'000'000.00",
+            "date": "09.07.2024"
+          },
+          {
+            "juristic_name": "CVI Chambre vaudoise immobilière",
+            "juristic_city": "Lausanne",
+            "value": "100'000.00",
+            "date": "30.09.2024"
+          },
+          {
+            "juristic_name": "FRI Fédération romande immobilière",
+            "juristic_city": "Lausanne",
+            "value": "150'000.00",
+            "date": "28.06.2024"
+          },
+          {
+            "juristic_name": "Chambre genevoise immobilière",
+            "juristic_city": "Genf",
+            "value": "25'000.00",
+            "date": "18.11.2024"
+          },
+          {
+            "juristic_name": "SVIT Schweiz",
+            "juristic_city": "Zürich",
+            "value": "25'000.00",
+            "date": "06.06.2024"
+          },
+          {
+            "juristic_name": "VIS Verband Immobilien Schweiz",
+            "juristic_city": "Bern",
+            "value": "60'000.00",
+            "date": "24.05.2024"
+          },
+          {
+            "juristic_name": "Centre Patronal",
+            "juristic_city": "Paudex",
+            "value": "10'000.00",
+            "date": "07.10.2024"
+          },
+          {
+            "juristic_name": "SVIT Romandie",
+            "juristic_city": "Lausanne",
+            "value": "5'000.00",
+            "date": "15.10.2024"
+          },
+          {
+            "juristic_name": "USPI Suisse",
+            "juristic_city": "Paudex",
+            "value": "15'000.00",
+            "date": "14.10.2024"
+          },
+          {
+            "juristic_name": "HEV Aargau",
+            "juristic_city": "Baden",
+            "value": "25'000.00",
+            "date": "19.07.2024"
+          },
+          {
+            "juristic_name": "USPI Vaud",
+            "juristic_city": "Paudex",
+            "value": "10'000.00",
+            "date": "23.10.2024"
+          },
+          {
+            "juristic_name": "Chambre vaudoise immobilière",
+            "juristic_city": "Lausanne",
+            "value": "8'500.00",
+            "date": "18.11.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "HEV Schweiz",
+            "juristic_city": "Zürich",
+            "service_type": "Prestation de services",
+            "service_description": "Eigenleistungen Kampagnenführung",
+            "value": "123'878.00",
+            "date": "24.11.2024"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "b6ad69377311ff15161d98f941ab47ba26f70fbbf5769f41683510d56131ec05"
+  }
+}

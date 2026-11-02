@@ -1,0 +1,29 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/447/forms/28",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Travail.Suisse, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Travail.Suisse",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Personalkosten",
+            "value": "15'000.00",
+            "date": "08.08.2024"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "cb1e43b624a87fc69054a3e5c9bacf6e3f76d1c2f8379491ae37fdaaa09106eb"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/469/forms/51",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Syndicat suisse des services publics (SSP), Zurich",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 131'292.04",
+        "monetary_allowances": "CHF 21'183.00",
+        "non_monetary_allowances": "CHF 52'760.42",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 57'348.62"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "06e7c1c350908578e5be8d8ed9399ad67429d7f404a1cdc1fd4184ae652d6b90"
+  }
+}

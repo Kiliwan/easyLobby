@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/472/forms/53",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "HEV Kanton Zürich, Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 97'098.58",
+        "monetary_allowances": "CHF 54'559.50",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 42'539.08"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "437101acf4e59828ee4e0588741bcec4736bc6199ed67205df5698407205c222"
+  }
+}

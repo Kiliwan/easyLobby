@@ -1,0 +1,75 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/457/forms/38",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Überparteiliches Komitee \"Ja zur Sicherung der Nationalstrassen SG/TG\", St. Gallen",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "KGV St.Gallen",
+            "juristic_city": "St.Gallen",
+            "value": "50'000.00",
+            "date": "17.09.2024"
+          },
+          {
+            "juristic_name": "IG Engpassbeseitigung",
+            "juristic_city": "St.Gallen",
+            "value": "90'000.00",
+            "date": "02.09.2024"
+          },
+          {
+            "juristic_name": "Thurgauer Gewerbeverband TGV",
+            "juristic_city": "Weinfelden",
+            "value": "10'000.00",
+            "date": "13.08.2024"
+          },
+          {
+            "juristic_name": "TCS St.Gallen-Appenzell AI",
+            "juristic_city": "St.Gallen",
+            "value": "50'000.00",
+            "date": "03.09.2024"
+          },
+          {
+            "juristic_name": "ACS St.Gallen",
+            "juristic_city": "St.Gallen",
+            "value": "7'500.00",
+            "date": "03.09.2024"
+          },
+          {
+            "juristic_name": "AGVS SG-AR-AI-FL",
+            "juristic_city": "St.Gallen",
+            "value": "15'000.00",
+            "date": "03.09.2024"
+          },
+          {
+            "juristic_name": "Gewerbe Stadt St.Gallen",
+            "juristic_city": "St.Gallen",
+            "value": "5'000.00",
+            "date": "10.10.2024"
+          },
+          {
+            "juristic_name": "Wirtschaftregion St.Gallen WISG",
+            "juristic_city": "St.Gallen",
+            "value": "5'000.00",
+            "date": "10.10.2024"
+          },
+          {
+            "juristic_name": "HEV Stadt St.Gallen",
+            "juristic_city": "St.Gallen",
+            "value": "20'000.00",
+            "date": "10.10.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "3782556f99d5f1d10b4ccbec2984c676d618269ebfa4a53e244b08b9e2a95d28"
+  }
+}

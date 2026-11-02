@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/472/forms/41",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "HEV Kanton Zürich, Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 95'000.00",
+        "monetary_allowances": "CHF 54'000.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 41'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "feacf9b8ce37808ff2bfcf0db646966a5d2adb7758bef19abf7d99278408f851"
+  }
+}

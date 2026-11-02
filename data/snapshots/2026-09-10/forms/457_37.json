@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/457/forms/37",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Überparteiliches Komitee \"Ja zur Sicherung der Nationalstrassen SG/TG\", St. Gallen",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 252'500.00",
+        "monetary_allowances": "CHF 252'500.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "0db2e8520b5f267903e479f38495f253dcfc2a827a3be3b8c8f771371d36782e"
+  }
+}

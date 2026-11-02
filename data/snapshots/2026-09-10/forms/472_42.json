@@ -1,0 +1,27 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/472/forms/42",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "HEV Kanton Zürich, Zürich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Hauseigentümerverband Schweiz",
+            "juristic_city": "Zürich",
+            "value": "54'000.00",
+            "date": "28.06.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "79379b0c685d50c9d5a0d9fe35ae51431621308c9ad3347136058cb5efe9b481"
+  }
+}

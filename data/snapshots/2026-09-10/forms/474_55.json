@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/474/forms/55",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "ASLOCA Association suisse des locataires, Berne",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 1'088'663.00",
+        "monetary_allowances": "CHF 1'076'343.00",
+        "non_monetary_allowances": "CHF 12'320.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "48495ec27858d074ebc3d9572a3a207099a2c00ffdd08ecbec978f875ea27b12"
+  }
+}

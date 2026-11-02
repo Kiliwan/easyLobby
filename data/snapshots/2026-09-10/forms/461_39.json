@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/461/forms/39",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "2 x Ja zum Mietrecht / Bund für mehr Wohnraum, Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 1'540'000.00",
+        "monetary_allowances": "CHF 1'415'000.00",
+        "non_monetary_allowances": "CHF 125'000.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "f3abd09f2598bfbfb970e0d8490c2ab1998da2bb15901398dbe945109cae1ef9"
+  }
+}

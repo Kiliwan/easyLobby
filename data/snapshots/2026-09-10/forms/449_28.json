@@ -1,0 +1,78 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/449/forms/28",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Allianz \"Ja zur BVG-Reform\", Zürich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "Zürich",
+            "value": "1'405'500.00",
+            "date": "25.07.2024"
+          },
+          {
+            "juristic_name": "Schweizerischer Versicherungsverband",
+            "juristic_city": "Zürich",
+            "value": "655'900.00",
+            "date": "19.06.2024"
+          },
+          {
+            "juristic_name": "AXA Versicherungen",
+            "juristic_city": "Winterthur",
+            "value": "187'400.00",
+            "date": "05.06.2024"
+          },
+          {
+            "juristic_name": "Asset Management Association Switzerland",
+            "juristic_city": "Basel",
+            "value": "18'740.00",
+            "date": "25.07.2024"
+          },
+          {
+            "juristic_name": "Zürcher Handelskammer",
+            "juristic_city": "Zürich",
+            "value": "10'000.00",
+            "date": "24.07.2024"
+          },
+          {
+            "juristic_name": "Schweizerischer Arbeitgeberverband",
+            "juristic_city": "Zürich",
+            "value": "1'000'000.00",
+            "date": "13.09.2023"
+          },
+          {
+            "juristic_name": "Schweizerischer Versicherungsverband",
+            "juristic_city": "Zürich",
+            "value": "46'850.00",
+            "date": "10.09.2024"
+          },
+          {
+            "juristic_name": "AXA Versicherungen",
+            "juristic_city": "Winterthur",
+            "value": "14'055.00",
+            "date": "10.09.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Zürcher Handelskammer",
+            "juristic_city": "Zürich",
+            "service_type": "Livraison de biens",
+            "service_description": "Veranstaltung",
+            "value": "5'000.00",
+            "date": "24.07.2024"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "57e5d3ca880e9f5be46e51f478a9e267bd68ddf94ef633acd536197907df88ea"
+  }
+}

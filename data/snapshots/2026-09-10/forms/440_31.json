@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/440/forms/31",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Ärztegesellschaft des Kantons St. Gallen, Oberuzwil",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 57'546.50",
+        "monetary_allowances": "CHF 0.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 57'546.50"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "e5f1d06bd20c8729162c50991daab6ea353ca5f4a162e76c315f3fa3e9ed0b75"
+  }
+}

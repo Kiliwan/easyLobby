@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/449/forms/27",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Allianz \"Ja zur BVG-Reform\", Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 3'282'540.00",
+        "monetary_allowances": "CHF 3'277'540.00",
+        "non_monetary_allowances": "CHF 5'000.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "2818a60d7059e9bb3ac4420e9024c5c3314cb4af8e0a0cba06615e085af82fdb"
+  }
+}

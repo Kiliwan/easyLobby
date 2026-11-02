@@ -1,0 +1,29 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/469/forms/52",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Syndicat suisse des services publics (SSP), Zurich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Schweizerischer Verband der Personals öffentlicher Dienste",
+            "juristic_city": "Zürich",
+            "service_type": "Prestation de services",
+            "service_description": "Interne Personalaufwände",
+            "value": "52'760.42",
+            "date": "09.10.2024"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "50e32f7ef0be2cd24b0277191afc416349bf8e6e481c7b1e47db1404795eb8fe"
+  }
+}
