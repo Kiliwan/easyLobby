@@ -1,0 +1,48 @@
+---
+import Base from '../../layouts/Base.astro'
+import HeroBar from '../../components/HeroBar.astro'
+import ResultBar from '../../components/ResultBar.astro'
+import { LANGS, loadVotes, resultFor, sideTotals, type Lang } from '../../lib/data.js'
+import { formatChf, formatDate } from '../../lib/format.js'
+import { t } from '../../i18n/index.js'
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }))
+}
+
+const lang = Astro.params.lang as Lang
+const { votes } = loadVotes()
+const base = import.meta.env.BASE_URL.replace(/\/$/, '')
+
+const groups = new Map<string, typeof votes>()
+for (const v of votes) {
+  const list = groups.get(v.ballotDate) ?? []
+  list.push(v)
+  groups.set(v.ballotDate, list)
+}
+---
+<Base lang={lang} title={t(lang, 'site.title')} description={t(lang, 'site.tagline')} home>
+
+  {[...groups].map(([date, group]) => (
+    <section>
+      <p class="kicker">{formatDate(date, lang)}</p>
+      {group.map((vote) => {
+        const totals = sideTotals(vote)
+        const declaredTotal = (totals.yes ?? 0) + (totals.no ?? 0)
+        const result = resultFor(vote.id)
+        return (
+          <article class="row">
+            <h2><a href={`${base}/${lang}/objet/${vote.slug}/`}>{vote.titles[lang]}</a></h2>
+            <p class="sub">
+              {vote.stage === 'none'
+                ? t(lang, new Date(`${vote.ballotDate}T00:00:00Z`) < new Date() ? 'empty.past' : 'empty.future')
+                : `${t(lang, `vote.stage.${vote.stage}`)} · ${vote.committees.length} ${t(lang, 'vote.committees').toLowerCase()} · CHF ${formatChf(declaredTotal, lang)}`}
+            </p>
+            {vote.stage !== 'none' && <HeroBar yes={totals.yes} no={totals.no} lang={lang} />}
+            {result && <ResultBar result={result} lang={lang} compact />}
+          </article>
+        )
+      })}
+    </section>
+  ))}
+</Base>

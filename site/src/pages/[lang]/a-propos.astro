@@ -1,0 +1,38 @@
+---
+import Base from '../../layouts/Base.astro'
+import { LANGS, loadVotes, REGISTER_APP_BASE, type Lang } from '../../lib/data.js'
+import { t } from '../../i18n/index.js'
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }))
+}
+
+const lang = Astro.params.lang as Lang
+const { generatedAt } = loadVotes()
+const observedDate = generatedAt.slice(0, 10)
+const sourceHref = `${REGISTER_APP_BASE}/${lang}/campaign-financings`
+---
+<Base lang={lang} title={`${t(lang, 'about.title')} — ${t(lang, 'site.title')}`} path="a-propos/">
+  <h1>{t(lang, 'about.title')}</h1>
+
+  <p>
+    {t(lang, 'about.p1')}
+    {' '}
+    <a href={sourceHref} rel="nofollow">{t(lang, 'about.sourceLinkText')}</a>
+  </p>
+  <p>{t(lang, 'about.p2')}</p>
+
+  <h2>{t(lang, 'about.listsIntro')}</h2>
+  <p>{t(lang, 'about.committees')}</p>
+  <p>{t(lang, 'about.donations')}</p>
+
+  <p>{t(lang, 'about.p3')}</p>
+  <p>{t(lang, 'about.p9')}</p>
+  <p>{t(lang, 'about.p6')}</p>
+
+  <h2>{t(lang, 'about.p8header')}</h2>
+  <p>{t(lang, 'about.p8superseded')}</p>
+  <p>{t(lang, 'about.p8withdrawn')}</p>
+
+  <p class="dek">{observedDate}</p>
+</Base>

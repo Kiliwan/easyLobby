@@ -1,0 +1,71 @@
+---
+import Base from '../../../layouts/Base.astro'
+import HeroBar from '../../../components/HeroBar.astro'
+import ButterflyColumn from '../../../components/ButterflyColumn.astro'
+import EmptyState from '../../../components/EmptyState.astro'
+import ResultBar from '../../../components/ResultBar.astro'
+import { LANGS, loadVotes, resultFor, sideTotals, type Lang } from '../../../lib/data.js'
+import { formatChf, formatChfCompact, formatDate } from '../../../lib/format.js'
+import { pageScale } from '../../../lib/scale.js'
+import { t } from '../../../i18n/index.js'
+
+export function getStaticPaths() {
+  const { votes } = loadVotes()
+  return LANGS.flatMap((lang) => votes.map((vote) => ({ params: { lang, slug: vote.slug }, props: { vote } })))
+}
+
+const lang = Astro.params.lang as Lang
+const { vote } = Astro.props
+
+const totals = sideTotals(vote)
+const declaredTotal = (totals.yes ?? 0) + (totals.no ?? 0)
+const scale = pageScale(vote)
+const past = new Date(`${vote.ballotDate}T00:00:00Z`) < new Date()
+const result = resultFor(vote.id)
+
+const yesCommittees = vote.committees.filter((c) => c.side === 'yes')
+const noCommittees = vote.committees.filter((c) => c.side === 'no')
+
+const budgetTotal = (vote.totals.yes.budget ?? 0) + (vote.totals.no.budget ?? 0)
+const finalTotal = (vote.totals.yes.final ?? 0) + (vote.totals.no.final ?? 0)
+const showDelta = budgetTotal > 0 && finalTotal > 0
+const deltaPct = showDelta ? Math.round(((finalTotal - budgetTotal) / budgetTotal) * 1000) / 10 : 0
+---
+<Base lang={lang} title={`${vote.titles[lang]} — ${t(lang, 'site.title')}`} path={`objet/${vote.slug}/`}>
+  <p class="crumb">{formatDate(vote.ballotDate, lang)}</p>
+  <h1>{vote.titles[lang]}</h1>
+
+  {vote.stage === 'none' ? (
+    <EmptyState lang={lang} past={past} />
+  ) : (
+    <>
+      <p class="dek">
+        {t(lang, `vote.stage.${vote.stage}`)} · {vote.committees.length} {t(lang, 'vote.committees').toLowerCase()}
+        · CHF {formatChf(declaredTotal, lang)} {t(lang, 'vote.totalDeclared')}
+      </p>
+      <hr class="rule" />
+      <HeroBar yes={totals.yes} no={totals.no} lang={lang} />
+
+      {showDelta && (
+        <p class="delta">
+          {t(lang, 'vote.budgetVsFinal', {
+            budget: `CHF ${formatChfCompact(budgetTotal, lang)}`,
+            final: `CHF ${formatChfCompact(finalTotal, lang)}`,
+            delta: `${deltaPct > 0 ? '+' : ''}${deltaPct} %`,
+          })}
+        </p>
+      )}
+
+      <hr class="thin" />
+      <div class="bfly">
+        <ButterflyColumn side="yes" committees={yesCommittees} total={totals.yes} scale={scale} lang={lang} />
+        <ButterflyColumn side="no" committees={noCommittees} total={totals.no} scale={scale} lang={lang} />
+      </div>
+      <p class="scalenote">{t(lang, 'vote.scaleNote')} CHF {formatChf(scale, lang)}</p>
+    </>
+  )}
+
+  {result && <ResultBar result={result} lang={lang} />}
+
+  <p class="source"><a href={vote.sourceUrl} rel="nofollow">{t(lang, 'source.link')}</a></p>
+</Base>

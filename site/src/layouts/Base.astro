@@ -1,0 +1,38 @@
+---
+import { LANGS, type Lang } from '../lib/data.js'
+import { t } from '../i18n/index.js'
+import '../styles/editorial.css'
+
+interface Props { lang: Lang; title: string; description?: string; path?: string; home?: boolean }
+const { lang, title, description, path = '', home = false } = Astro.props
+const base = import.meta.env.BASE_URL.replace(/\/$/, '')
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+  </head>
+  <body>
+    <div class="wrap">
+      <header class="site-head">
+        {home
+          ? <h1 class="masthead"><a class="site-name" href={`${base}/${lang}/`}>{t(lang, 'site.title')}</a></h1>
+          : <a class="site-name" href={`${base}/${lang}/`}>{t(lang, 'site.title')}</a>}
+        <nav>
+          <a href={`${base}/${lang}/a-propos/`}>{t(lang, 'nav.about')}</a>
+          <ul class="langs">
+            {LANGS.map((l) => (
+              <li>{l === lang ? <span aria-current="true">{l.toUpperCase()}</span>
+                              : <a href={`${base}/${l}/${path}`}>{l.toUpperCase()}</a>}</li>
+            ))}
+          </ul>
+        </nav>
+      </header>
+      <main><slot /></main>
+      <footer class="site-foot"><p>{t(lang, 'disclaimer')}</p></footer>
+    </div>
+  </body>
+</html>

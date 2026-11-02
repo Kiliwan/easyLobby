@@ -1,0 +1,27 @@
+---
+import type { Lang, Side } from '../lib/data.js'
+import { formatChf } from '../lib/format.js'
+import { barWidth } from '../lib/scale.js'
+
+interface Props {
+  name: string; sub?: string; amount: number; scale: number
+  side: Side; lang: Lang; pale?: boolean; dim?: boolean
+  caption?: string; observed?: string; registerDate?: string; noBar?: boolean
+}
+const {
+  name, sub, amount, scale, side, lang, pale = false, dim = false,
+  caption, observed, registerDate, noBar = false,
+} = Astro.props
+const fillClass = ['fill', pale ? 'pale' : '', side === 'yes' ? 'f-yes' : 'f-no'].filter(Boolean).join(' ')
+---
+<div class:list={['e', { dim }]}>
+  <div class="line">
+    <span class="nm">{name}</span>
+    <span class="amt">{formatChf(amount, lang)}</span>
+  </div>
+  {sub && <div class="city">{sub}</div>}
+  {registerDate && <div class="regdate">{registerDate}</div>}
+  {caption && <div class="note">{caption}</div>}
+  {observed && <div class="obs">{observed}</div>}
+  {!noBar && <div class="track"><div class={fillClass} style={`width:${barWidth(amount, scale)}`}></div></div>}
+</div>

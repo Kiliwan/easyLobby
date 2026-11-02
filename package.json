@@ -1,0 +1,11 @@
+{
+  "name": "swiss-campaign-finance",
+  "private": true,
+  "type": "module",
+  "workspaces": ["ingest", "site"],
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "npm run test --workspaces --if-present",
+    "ingest": "npm run start --workspace ingest"
+  }
+}

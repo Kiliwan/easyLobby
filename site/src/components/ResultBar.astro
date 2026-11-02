@@ -1,0 +1,73 @@
+---
+import {
+  cantonMajorityFailed, formatCantons, type BallotObject, type Lang, type VoteResult,
+} from '../lib/data.js'
+import { formatPercent1 } from '../lib/format.js'
+import { t } from '../i18n/index.js'
+
+interface Props { result: VoteResult; lang: Lang; compact?: boolean }
+const { result, lang, compact = false } = Astro.props
+
+const bars = result.bars
+const showKinds = bars.length > 1
+const main = result.bars.find((b) => b.kind === 'main')
+
+const yesLabel = t(lang, 'result.yes')
+const noLabel = t(lang, 'result.no')
+
+const hasVerdict = (b: BallotObject): boolean => b.accepted !== null && b.kind !== 'subsidiary'
+
+const ariaFor = (b: BallotObject): string => {
+  const kind = showKinds ? `${t(lang, `result.kind.${b.kind}` as 'result.kind.counterProject')} · ` : ''
+  if (b.yesPct === null) return `${kind}${t(lang, 'result.heading')}`
+  return `${kind}${yesLabel} ${formatPercent1(b.yesPct, lang)} %, ` +
+    `${noLabel} ${formatPercent1(100 - b.yesPct, lang)} %`
+}
+
+const cantonsFailedText = (b: BallotObject): string =>
+  t(lang, 'result.cantonsFailed', {
+    yes: formatCantons(b.cantonsYes, b.cantonsYesHalf),
+    no: formatCantons(b.cantonsNo, b.cantonsNoHalf),
+  })
+---
+<section class="resblock">
+  <p class="bhead">{t(lang, 'result.heading')}</p>
+
+  {bars.map((b) => (
+    <div class="resrow">
+      {showKinds && (
+        <p class="reskind">{t(lang, `result.kind.${b.kind}` as 'result.kind.counterProject')}</p>
+      )}
+      <div class:list={['res', cantonMajorityFailed(b) && 'defeated']} role="img"
+           aria-label={ariaFor(b)}>
+        <div class="ry" style={`flex:${b.yesVotes ?? 0}`}></div>
+        <div class="rn" style={`flex:${b.noVotes ?? 0}`}></div>
+        <span class="restick" aria-hidden="true"></span>
+      </div>
+      <div class="restxt">
+        <span class="ty">{yesLabel} · {b.yesPct === null ? '—' : `${formatPercent1(b.yesPct, lang)} %`}</span>
+        <span class="tn">{b.yesPct === null ? '—' : `${formatPercent1(100 - b.yesPct, lang)} %`} · {noLabel}</span>
+      </div>
+      {hasVerdict(b) && (
+        <p class="resverdict">
+          {cantonMajorityFailed(b) ? (
+            <><span class="badge">{t(lang, 'result.rejected')}</span>{cantonsFailedText(b)}</>
+          ) : (
+            t(lang, b.accepted ? 'result.accepted' : 'result.rejected')
+          )}
+        </p>
+      )}
+      {b.kind === 'subsidiary' && <p class="resnote">{t(lang, 'result.subsidiaryNote')}</p>}
+    </div>
+  ))}
+
+  {!compact && (
+    <p class="ressrc">
+      {main?.turnoutPct != null && (
+        <>{t(lang, 'result.turnout', { pct: formatPercent1(main.turnoutPct, lang) })} · </>
+      )}
+      {t(lang, 'result.source')}
+      {result.provisional && <><br />{t(lang, 'result.provisional')}</>}
+    </p>
+  )}
+</section>

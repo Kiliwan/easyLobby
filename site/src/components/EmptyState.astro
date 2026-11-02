@@ -1,0 +1,8 @@
+---
+import type { Lang } from '../lib/data.js'
+import { t } from '../i18n/index.js'
+
+interface Props { lang: Lang; past: boolean }
+const { lang, past } = Astro.props
+---
+<p class="empty">{t(lang, past ? 'empty.past' : 'empty.future')}</p>

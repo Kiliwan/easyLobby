@@ -1,0 +1,21 @@
+{
+  "name": "site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "test": "astro build && vitest run",
+    "typecheck": "astro check"
+  },
+  "dependencies": {
+    "astro": "7.3.2"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.4",
+    "linkedom": "^0.18.0",
+    "typescript": "^5.7.0",
+    "vitest": "^4.1.11"
+  }
+}

@@ -1,0 +1,32 @@
+---
+import type { Lang } from '../lib/data.js'
+import { formatChfCompact, formatPercent } from '../lib/format.js'
+import { t } from '../i18n/index.js'
+
+interface Props { yes: number | null; no: number | null; lang: Lang }
+const { yes, no, lang } = Astro.props
+const total = (yes ?? 0) + (no ?? 0)
+
+const yesLabel = yes === null
+  ? `${t(lang, 'vote.for')} · ${t(lang, 'vote.side.noDeclaration')}`
+  : `${t(lang, 'vote.for')} · CHF ${formatChfCompact(yes, lang)}`
+const noLabel = no === null
+  ? `${t(lang, 'vote.side.noDeclaration')} · ${t(lang, 'vote.against')}`
+  : `CHF ${formatChfCompact(no, lang)} · ${t(lang, 'vote.against')}`
+const ariaYes = yes === null ? t(lang, 'vote.side.noDeclaration') : `CHF ${formatChfCompact(yes, lang)}`
+const ariaNo = no === null ? t(lang, 'vote.side.noDeclaration') : `CHF ${formatChfCompact(no, lang)}`
+---
+<p class="bhead">{t(lang, 'funding.heading')}</p>
+<div class="hero" role="img"
+     aria-label={`${t(lang, 'vote.for')} ${ariaYes}, ${t(lang, 'vote.against')} ${ariaNo}`}>
+  <div class="hy" style={`flex:${yes === null ? '0' : yes || 1}`}></div>
+  <div class="hn" style={`flex:${no === null ? '0' : no || 1}`}></div>
+</div>
+<div class="herotxt">
+  <span class="ty">{yesLabel}</span>
+  <span class="tn">{noLabel}</span>
+</div>
+<div class="herolab">
+  <span>{yes === null ? '' : `${formatPercent(yes, total)} %`}</span>
+  <span>{no === null ? '' : `${formatPercent(no, total)} %`}</span>
+</div>

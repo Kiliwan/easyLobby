@@ -1,0 +1,54 @@
+---
+import EntryRow from './EntryRow.astro'
+import { committeeTotal, type Committee, type Lang, type Side } from '../lib/data.js'
+import { splitCommitteeDonors } from '../lib/donors.js'
+import { formatChf, formatPercent } from '../lib/format.js'
+import { t } from '../i18n/index.js'
+
+interface Props { side: Side; committees: Committee[]; total: number | null; scale: number; lang: Lang }
+const { side, committees, total, scale, lang } = Astro.props
+
+const perCommittee = committees.map((c) => splitCommitteeDonors(c, lang))
+const currentDonors = perCommittee.flatMap((x) => x.current).sort((a, b) => b.amount - a.amount)
+const greyedDonors = perCommittee.flatMap((x) => x.greyed).sort((a, b) => b.amount - a.amount)
+
+const undeclared = committees.reduce((s, c) => s + (c.undeclaredRemainder ?? 0), 0)
+const headLabel = side === 'yes' ? t(lang, 'vote.for') : t(lang, 'vote.against')
+---
+<div class={side === 'yes' ? 'L' : 'R'}>
+  <div class:list={['colhead', side === 'yes' ? 'cy' : 'cn']}>
+    <span>{headLabel}</span>
+    <span>{total === null ? t(lang, 'vote.side.noDeclaration') : `CHF ${formatChf(total, lang)}`}</span>
+  </div>
+
+  {total !== null && (
+    <>
+      <p class="sechead">{t(lang, 'vote.committees')} · {committees.length}</p>
+      {committees.map((c) => (
+        <EntryRow name={c.names[lang]} amount={committeeTotal(c) ?? 0}
+                  scale={scale} side={side} lang={lang} />
+      ))}
+
+      {(currentDonors.length > 0 || greyedDonors.length > 0) && (
+        <>
+          <p class="sechead">{t(lang, 'vote.donors')} · {currentDonors.length}</p>
+          {currentDonors.map((d) => (
+            <EntryRow name={d.name} sub={d.sub} observed={d.observed} registerDate={d.registerDate}
+                      amount={d.amount} scale={scale} side={side} lang={lang} />
+          ))}
+          {greyedDonors.map((d) => (
+            <EntryRow name={d.name} sub={d.sub} observed={d.observed} registerDate={d.registerDate} caption={d.caption}
+                      amount={d.amount} scale={scale} side={side} lang={lang} pale dim noBar={d.amount > scale} />
+          ))}
+        </>
+      )}
+
+      <EntryRow name={t(lang, 'vote.undeclared')} amount={undeclared}
+                scale={scale} side={side} lang={lang} noBar={undeclared <= 0} />
+
+      <p class="foot">
+        {formatPercent(undeclared, total)} % {t(lang, 'vote.undeclared').toLowerCase()}
+      </p>
+    </>
+  )}
+</div>
