@@ -1,0 +1,54 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/464/forms/52",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Union syndicale suisse (USS), Berne",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "VPOD - Verband des Personals öffentlicher Dienste",
+            "juristic_city": "Zürich",
+            "value": "181'750.00",
+            "date": "20.08.2024"
+          },
+          {
+            "juristic_name": "UNIA",
+            "juristic_city": "Bern",
+            "value": "114'250.00",
+            "date": "20.08.2024"
+          },
+          {
+            "juristic_name": "SEV",
+            "juristic_city": "Bern",
+            "value": "22'750.00",
+            "date": "20.08.2024"
+          },
+          {
+            "juristic_name": "Syndicom",
+            "juristic_city": "Bern",
+            "value": "21'250.00",
+            "date": "20.08.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "SGB - Schweizerischer Gewerkschaftsbund",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Eigene Arbeitsaufwände",
+            "value": "25'160.00",
+            "date": "20.08.2024"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "bf433b3c9f200fdc2d7fc1bcb473f4aade73768eae8d39f97347ef5139ec1a61"
+  }
+}

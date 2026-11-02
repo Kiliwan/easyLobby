@@ -1,0 +1,51 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/481/forms/38",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Oui à la troisième voie – Assurer le futur des routes nationales, Paudex",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Centre Patronal",
+            "juristic_city": "Centre Patronal, Paudex",
+            "value": "92'507.00",
+            "date": "01.06.2024"
+          },
+          {
+            "juristic_name": "FER-Genève",
+            "juristic_city": "Genève",
+            "value": "92'507.00",
+            "date": "01.06.2024"
+          },
+          {
+            "juristic_name": "CCIG",
+            "juristic_city": "Genève",
+            "value": "46'253.00",
+            "date": "15.08.2024"
+          },
+          {
+            "juristic_name": "CVCI",
+            "juristic_city": "Lausanne",
+            "value": "46'253.00",
+            "date": "01.06.2024"
+          },
+          {
+            "juristic_name": "FVE (fédération vaudoise des entrepreneurs)",
+            "juristic_city": "Tolochenaz",
+            "value": "46'253.00",
+            "date": "01.07.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "394f16d98dc7db984f7a473054c9f9cc29b665c621b713918d29abdfb2c4c456"
+  }
+}

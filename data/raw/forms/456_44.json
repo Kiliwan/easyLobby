@@ -1,0 +1,189 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/456/forms/44",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Gesundheitswesen mit Zukunft, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "FMH Verbindung der Schweizer Ärztinnen und Ärzte",
+            "juristic_city": "Bern",
+            "value": "350'000.00",
+            "date": "07.10.2024"
+          },
+          {
+            "juristic_name": "curafutura, die innovativen Krankenversicherer",
+            "juristic_city": "Bern",
+            "value": "300'000.00",
+            "date": "19.09.2024"
+          },
+          {
+            "juristic_name": "AerzteGesellschaft des Kantons Zürich AGZ",
+            "juristic_city": "Zürich",
+            "value": "150'000.00",
+            "date": "17.09.2024"
+          },
+          {
+            "juristic_name": "ARTISET / curaviva",
+            "juristic_city": "Bern",
+            "value": "100'000.00",
+            "date": "25.09.2024"
+          },
+          {
+            "juristic_name": "Spitex Schweiz",
+            "juristic_city": "Bern",
+            "value": "75'000.00",
+            "date": "17.09.2024"
+          },
+          {
+            "juristic_name": "Schweizerischer Apothekenverband (pharmaSuisse)",
+            "juristic_city": "Köniz",
+            "value": "40'000.00",
+            "date": "19.09.2024"
+          },
+          {
+            "juristic_name": "Interpharma Verband der forschenden pharmazeutischen Firmen der Schweiz",
+            "juristic_city": "Basel",
+            "value": "25'000.00",
+            "date": "06.09.2024"
+          },
+          {
+            "juristic_name": "H+ Die Schweizer Spitäler",
+            "juristic_city": "Bern",
+            "value": "35'000.00",
+            "date": "25.09.2024"
+          },
+          {
+            "juristic_name": "Bündnis Freiheitliches Gesundheitswesen",
+            "juristic_city": "Basel",
+            "value": "25'000.00",
+            "date": "07.10.2024"
+          },
+          {
+            "juristic_name": "medswissnet",
+            "juristic_city": "Bern",
+            "value": "25'000.00",
+            "date": "20.09.2024"
+          },
+          {
+            "juristic_name": "SW!SS REHA",
+            "juristic_city": "Bern",
+            "value": "25'000.00",
+            "date": "24.09.2024"
+          },
+          {
+            "juristic_name": "Der Schweizerische Versicherungsverband SVV",
+            "juristic_city": "Zürich",
+            "value": "80'000.00",
+            "date": "03.10.2024"
+          },
+          {
+            "juristic_name": "Universitäre Medizin Schweiz, Unimedsuisse",
+            "juristic_city": "Bern",
+            "value": "25'000.00",
+            "date": "25.09.2024"
+          },
+          {
+            "juristic_name": "Visana Beteiligungen AG",
+            "juristic_city": "Bern",
+            "value": "50'000.00",
+            "date": "03.10.2024"
+          },
+          {
+            "juristic_name": "Aerztegesellschaft des Kantons Bern",
+            "juristic_city": "Bern",
+            "value": "42'000.00",
+            "date": "08.10.2024"
+          },
+          {
+            "juristic_name": "Der Schweizerische Versicherungsverband SVV",
+            "juristic_city": "Zürich",
+            "value": "50'000.00",
+            "date": "14.10.2024"
+          },
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "Zürich",
+            "value": "125'000.00",
+            "date": "16.10.2024"
+          },
+          {
+            "juristic_name": "FMH Verbindung der Schweizer Ärztinnen und Ärzte",
+            "juristic_city": "Bern",
+            "value": "150'000.00",
+            "date": "31.10.2024"
+          },
+          {
+            "juristic_name": "Ärzte-Gesellschaft des Kantons Zug",
+            "juristic_city": "Zug",
+            "value": "15'000.00",
+            "date": "31.10.2024"
+          },
+          {
+            "juristic_name": "Schweizerischer Apothekenverband (pharmaSuisse)",
+            "juristic_city": "Köniz",
+            "value": "20'000.00",
+            "date": "07.11.2024"
+          },
+          {
+            "juristic_name": "Spitex Schweiz",
+            "juristic_city": "Bern",
+            "value": "25'000.00",
+            "date": "07.11.2024"
+          },
+          {
+            "juristic_name": "Intergenerika",
+            "juristic_city": "Pratteln",
+            "value": "20'000.00",
+            "date": "12.11.2024"
+          },
+          {
+            "juristic_name": "Interpharma Verband der forschenden pharmazeutischen Firmen der Schweiz",
+            "juristic_city": "Basel",
+            "value": "10'000.00",
+            "date": "14.11.2024"
+          },
+          {
+            "juristic_name": "Ärzte-Gesellschaft des Kantons Zug",
+            "juristic_city": "Zug",
+            "value": "10'000.00",
+            "date": "14.11.2024"
+          },
+          {
+            "juristic_name": "curafutura, die innovativen Krankenversicherer",
+            "juristic_city": "Bern",
+            "value": "20'000.00",
+            "date": "20.11.2024"
+          },
+          {
+            "juristic_name": "FMH Verbindung der Schweizer Ärztinnen und Ärzte",
+            "juristic_city": "Bern",
+            "value": "20'000.00",
+            "date": "20.11.2024"
+          },
+          {
+            "juristic_name": "VEDAG Verband Deutschschweizer Ärztegesellschaft",
+            "juristic_city": "Zürich",
+            "value": "50'000.00",
+            "date": "19.11.2024"
+          },
+          {
+            "juristic_name": "Société Médicale de la Suisse Romande (SMSR)",
+            "juristic_city": "Lausanne",
+            "value": "25'000.00",
+            "date": "21.11.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "0755cb3dc35214c670ce6db2f8ef39d285824754e894d02db37c3736586c9714"
+  }
+}

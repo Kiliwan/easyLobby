@@ -1,0 +1,272 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/478/forms/38",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Ja zur Sicherung der Nationalstrassen, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "TCS",
+            "juristic_city": "Vernier",
+            "value": "573'265.00",
+            "date": "31.05.2024"
+          },
+          {
+            "juristic_name": "auto schweiz",
+            "juristic_city": "Bern",
+            "value": "377'507.00",
+            "date": "31.05.2024"
+          },
+          {
+            "juristic_name": "Astag",
+            "juristic_city": "Bern",
+            "value": "278'000.00",
+            "date": "31.05.2024"
+          },
+          {
+            "juristic_name": "AGVS",
+            "juristic_city": "Bern",
+            "value": "296'250.00",
+            "date": "31.05.2024"
+          },
+          {
+            "juristic_name": "Schweizerischer Baumeisterverband",
+            "juristic_city": "Zürich",
+            "value": "277'510.00",
+            "date": "31.05.2024"
+          },
+          {
+            "juristic_name": "strasseschweiz",
+            "juristic_city": "Bern",
+            "value": "302'630.00",
+            "date": "31.05.2024"
+          },
+          {
+            "juristic_name": "Infra Suisse",
+            "juristic_city": "Zürich",
+            "value": "93'000.00",
+            "date": "31.05.2024"
+          },
+          {
+            "juristic_name": "ACS",
+            "juristic_city": "Bern",
+            "value": "75'880.00",
+            "date": "31.05.2024"
+          },
+          {
+            "juristic_name": "Les Routiers Suisses",
+            "juristic_city": "Echandes",
+            "value": "28'000.00",
+            "date": "31.05.2024"
+          },
+          {
+            "juristic_name": "Fer Genève",
+            "juristic_city": "Genève",
+            "value": "28'000.00",
+            "date": "31.05.2024"
+          },
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "Zürich",
+            "value": "278'000.00",
+            "date": "28.08.2024"
+          },
+          {
+            "juristic_name": "Centre Patronal",
+            "juristic_city": "Bern",
+            "value": "93'000.00",
+            "date": "29.07.2024"
+          },
+          {
+            "juristic_name": "Scvhweizerischer Gewerbeverband sgv",
+            "juristic_city": "Bern",
+            "value": "700'000.00",
+            "date": "02.05.2024"
+          },
+          {
+            "juristic_name": "Handelskammer beider Basel",
+            "juristic_city": "Basel",
+            "value": "45'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "Wirtschaftskammer Baselland",
+            "juristic_city": "Pratteln",
+            "value": "45'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "Bündner Gewerbeverband",
+            "juristic_city": "Chur",
+            "value": "26'600.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "Freiburger Arbeitgeberverband",
+            "juristic_city": "Fribourg",
+            "value": "18'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "Unam",
+            "juristic_city": "Neuenburg",
+            "value": "15'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "TCS Sektion Bern",
+            "juristic_city": "Bern",
+            "value": "50'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "Berner KMU",
+            "juristic_city": "Bern",
+            "value": "10'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "HIV Bern",
+            "juristic_city": "Bern",
+            "value": "10'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "HEV Bern",
+            "juristic_city": "Bern",
+            "value": "20'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "Avenergy suisse",
+            "juristic_city": "Zürich",
+            "value": "92'510.00",
+            "date": "21.10.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "TCS",
+            "juristic_city": "Vernier",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeit",
+            "value": "10'600.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "auto-schweiz",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeit",
+            "value": "6'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "ASTAG",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeit",
+            "value": "8'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "AGVS",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeit",
+            "value": "2'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "strasseschweiz",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeit",
+            "value": "5'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "ACS",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeit",
+            "value": "4'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "Schweizerischer Gewerbeverband sgv",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeit",
+            "value": "30'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "Handelskammer beider Basel",
+            "juristic_city": "Basel",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeit",
+            "value": "5'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "Wirtschaftskammer Baselland",
+            "juristic_city": "Pratteln",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeit",
+            "value": "5'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "Bündener Gewerbeverbad",
+            "juristic_city": "Chur",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeit",
+            "value": "2'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "Freiburger Arbeitgeberverband",
+            "juristic_city": "Fribourg",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeit",
+            "value": "2'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "Unam",
+            "juristic_city": "Neuenburg",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeit",
+            "value": "2'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "Berner KMU",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeit",
+            "value": "5'000.00",
+            "date": "01.12.2023"
+          },
+          {
+            "juristic_name": "HIV Bern",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeit",
+            "value": "5'000.00",
+            "date": "01.12.2023"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "287e6a76a31cf5c33bd2f61585cc33af7b62c69eecdbf920f934e609035385b8"
+  }
+}

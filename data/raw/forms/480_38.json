@@ -1,0 +1,27 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/480/forms/38",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "KMU- und Gewerbeverband Kanton Zürich, Zürich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "TCS Sektion Zürich",
+            "juristic_city": "Volketswil",
+            "value": "30'000.00",
+            "date": "21.10.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "3fc4044a4fe678cff8d74b4d9446b0d5f82803958be5111f56e8f30b35a8c3b8"
+  }
+}

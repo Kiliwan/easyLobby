@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/478/forms/57",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Ja zur Sicherung der Nationalstrassen, Bern",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 4'319'944.00",
+        "monetary_allowances": "CHF 4'176'044.00",
+        "non_monetary_allowances": "CHF 143'900.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "343d9bdcec6234d38958b54c986657bd7621b531c7278d9616069aeff91a70ab"
+  }
+}

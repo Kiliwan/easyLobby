@@ -1,0 +1,75 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/455/forms/38",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "ATE Association transports et environnement, Berne",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Carmita",
+            "natural_name": "Burkard",
+            "natural_city": "Neuenburg",
+            "living_abroad": false,
+            "value": "100'000.00",
+            "date": "13.11.2024"
+          }
+        ],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Umverkehr",
+            "juristic_city": "Zürich",
+            "value": "100'000.00",
+            "date": "17.07.2024"
+          },
+          {
+            "juristic_name": "Pro Velo Schweiz",
+            "juristic_city": "Bern",
+            "value": "20'000.00",
+            "date": "18.09.2024"
+          },
+          {
+            "juristic_name": "Pro Natura",
+            "juristic_city": "Basel",
+            "value": "50'000.00",
+            "date": "26.09.2024"
+          },
+          {
+            "juristic_name": "Asterito AG",
+            "juristic_city": "Zürich",
+            "value": "55'000.00",
+            "date": "18.10.2024"
+          },
+          {
+            "juristic_name": "Fondation Franz Weber",
+            "juristic_city": "Bern",
+            "value": "20'000.00",
+            "date": "14.11.2024"
+          },
+          {
+            "juristic_name": "WWF Schweiz",
+            "juristic_city": "Zürich",
+            "value": "30'000.00",
+            "date": "19.11.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "VCS Verkehrs-Club der Schweiz",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "eigenes Personal",
+            "value": "200'000.00",
+            "date": "01.01.2024"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "5f00ae4cc0e811d356cd6b5f239f4dd40589ff055ad744839ddd2435c309d4ad"
+  }
+}

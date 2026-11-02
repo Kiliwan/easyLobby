@@ -1,0 +1,39 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/485/forms/50",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "PLR.Les Libéraux-Radicaux, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "Zürich",
+            "value": "290'000.00",
+            "date": "12.11.2024"
+          },
+          {
+            "juristic_name": "HEV Schweiz",
+            "juristic_city": "Zürich",
+            "value": "50'000.00",
+            "date": "23.12.2024"
+          },
+          {
+            "juristic_name": "Schweizerischer Gewerbeverband sgv",
+            "juristic_city": "Bern",
+            "value": "100'000.00",
+            "date": "06.12.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "0aca0ce97ed27fdef4a467e6ddfa22093f703d4d492af0a66194f0107f316666"
+  }
+}

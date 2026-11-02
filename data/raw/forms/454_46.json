@@ -1,0 +1,29 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/454/forms/46",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Luzerner Bäuerinnen- und Bauernverband, Sursee",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Luzerner Bäuerinnen- und Bauernverband",
+            "juristic_city": "Oberkirch",
+            "service_type": "Prestation de services",
+            "service_description": "Organisation, Planung und Ausführung der Kampagne",
+            "value": "33'354.00",
+            "date": "22.09.2024"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "f5268c527969d554aa82034f997584846d41f1e1b7b2d08f1d91df726e61c6bd"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/451/forms/28",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Wirtschaftsallianz \"NEIN zur BVG-Scheinreform\", Zürich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "GastroSuisse",
+            "juristic_city": "Zürich",
+            "value": "200'000.00",
+            "date": "27.06.2024"
+          },
+          {
+            "juristic_name": "Centre Patronal",
+            "juristic_city": "Paudex",
+            "value": "80'000.00",
+            "date": "27.06.2024"
+          },
+          {
+            "juristic_name": "Verband der Tankstellenshop-Betreiber der Schweiz VTSS",
+            "juristic_city": "Zürich",
+            "value": "25'000.00",
+            "date": "27.06.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "b948f4536b9c283af8483fe0e043f3b29b16c4ab6c8dbe378de483731a6aaef9"
+  }
+}
