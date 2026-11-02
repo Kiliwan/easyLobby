@@ -1,0 +1,132 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/400/forms/20",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Union syndicale suisse (USS), Berne",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Gewerkschaft des Verkehrspersonals SEV",
+            "juristic_city": "Bern",
+            "value": "61'322.00",
+            "date": "19.01.2024"
+          },
+          {
+            "juristic_name": "Gewerkschaft syndicom",
+            "juristic_city": "Bern",
+            "value": "57'295.00",
+            "date": "04.03.2024"
+          },
+          {
+            "juristic_name": "Gewerkschaft Unia",
+            "juristic_city": "Bern",
+            "value": "301'119.00",
+            "date": "12.02.2024"
+          },
+          {
+            "juristic_name": "Verband öffentliches Personal VPOD",
+            "juristic_city": "Zürich/Lausanne",
+            "value": "58'545.00",
+            "date": "21.03.2024"
+          },
+          {
+            "juristic_name": "Syndicat interprofessionnel de travailleuses et travailleurs SIT",
+            "juristic_city": "Genève",
+            "value": "9'236.00",
+            "date": "29.01.2024"
+          },
+          {
+            "juristic_name": "PVB",
+            "juristic_city": "Bern",
+            "value": "13'585.00",
+            "date": "30.01.2024"
+          },
+          {
+            "juristic_name": "SBPV",
+            "juristic_city": "Zürich",
+            "value": "12'506.00",
+            "date": "06.09.2023"
+          },
+          {
+            "juristic_name": "garanto",
+            "juristic_city": "Bern",
+            "value": "5'438.00",
+            "date": "12.01.2024"
+          },
+          {
+            "juristic_name": "SSM",
+            "juristic_city": "Zürich",
+            "value": "5'442.00",
+            "date": "31.01.2024"
+          },
+          {
+            "juristic_name": "AvenirSocial",
+            "juristic_city": "Bern",
+            "value": "2'000.00",
+            "date": "20.12.2023"
+          },
+          {
+            "juristic_name": "Kapers",
+            "juristic_city": "Kloten",
+            "value": "4'760.00",
+            "date": "15.01.2024"
+          },
+          {
+            "juristic_name": "SMV",
+            "juristic_city": "Zürich",
+            "value": "3'310.45",
+            "date": "17.01.2024"
+          },
+          {
+            "juristic_name": "SzeneSchweiz",
+            "juristic_city": "Zürich",
+            "value": "1'286.00",
+            "date": "31.01.2024"
+          },
+          {
+            "juristic_name": "Helvetica",
+            "juristic_city": "Fribourg",
+            "value": "1'176.00",
+            "date": "15.01.2024"
+          },
+          {
+            "juristic_name": "Nautilus",
+            "juristic_city": "Basel",
+            "value": "1'054.00",
+            "date": "31.01.2024"
+          },
+          {
+            "juristic_name": "ESPA",
+            "juristic_city": "Genf",
+            "value": "534.00",
+            "date": "20.02.2024"
+          },
+          {
+            "juristic_name": "Association des Amis de Jost Steiger",
+            "juristic_city": "Lausanne",
+            "value": "18'000.00",
+            "date": "27.02.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "SGB",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Personalaufwand",
+            "value": "31'000.00",
+            "date": "04.03.2024"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "701ebefff6b8d279f85fcbd7b22e56b6961eef001fb96726cceb23a7547cee47"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/451/forms/27",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Wirtschaftsallianz \"NEIN zur BVG-Scheinreform\", Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 350'000.00",
+        "monetary_allowances": "CHF 336'000.00",
+        "non_monetary_allowances": "CHF 14'000.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "33f834225161749c59fb75ef4a9b64a38f96895c56d95940ba8d6020fa752ca9"
+  }
+}

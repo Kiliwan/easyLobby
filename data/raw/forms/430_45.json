@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/430/forms/45",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Ja zu mehr Natur, Landschaft und Baukultur, Basel",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 4'092'373.00",
+        "monetary_allowances": "CHF 3'537'895.00",
+        "non_monetary_allowances": "CHF 496'728.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 57'750.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "6be0d4908373bd6810442365b3464f526e301e34f0894f43ba1208a4df1aa980"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/406/forms/22",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Komitee Renteninitiative Ja, Zürich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Oliver",
+            "natural_name": "Ehinger",
+            "natural_city": "Arlesheim",
+            "living_abroad": false,
+            "value": "230'000.00",
+            "date": "31.10.2023"
+          }
+        ],
+        "juristic_monetary": [
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "Zürich",
+            "value": "300'000.00",
+            "date": "02.02.2024"
+          },
+          {
+            "juristic_name": "Swiss Re Management Ltd.",
+            "juristic_city": "Adliswil",
+            "value": "20'000.00",
+            "date": "21.07.2023"
+          },
+          {
+            "juristic_name": "Bonny Stiftung für Freiheit",
+            "juristic_city": "Bern",
+            "value": "40'000.00",
+            "date": "30.11.2023"
+          },
+          {
+            "juristic_name": "Freunde der FDP",
+            "juristic_city": "Bern",
+            "value": "30'000.00",
+            "date": "11.03.2024"
+          },
+          {
+            "juristic_name": "Stiftung Gambit",
+            "juristic_city": "Stans",
+            "value": "50'000.00",
+            "date": "30.01.2024"
+          },
+          {
+            "juristic_name": "Zürcher Handelskammer",
+            "juristic_city": "Zürich",
+            "value": "30'000.00",
+            "date": "17.01.2024"
+          },
+          {
+            "juristic_name": "UBS AG",
+            "juristic_city": "Zürich",
+            "value": "50'000.00",
+            "date": "12.02.2024"
+          },
+          {
+            "juristic_name": "Swiss Re Management Ltd.",
+            "juristic_city": "Adliswil",
+            "value": "10'000.00",
+            "date": "16.02.2024"
+          },
+          {
+            "juristic_name": "Arbeitgeberverband der Banken in der Schweiz",
+            "juristic_city": "Basel",
+            "value": "40'000.00",
+            "date": "21.02.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "4f216087f63947d8628828c8cf65d143404083f7458aefb09df2b1552ad48990"
+  }
+}

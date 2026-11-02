@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/429/forms/35",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Allianz gegen das Stromgesetz, Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 157'764.00",
+        "monetary_allowances": "CHF 90'264.00",
+        "non_monetary_allowances": "CHF 67'500.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "c06035bd061ce8725e5848be39ff87ee8de7edb4c2430ba8e8dc9948bd596734"
+  }
+}

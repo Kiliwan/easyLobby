@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/434/forms/25",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Union Suisse des Paysans (USP), Brugg",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 2'115'520.00",
+        "monetary_allowances": "CHF 1'000'000.00",
+        "non_monetary_allowances": "CHF 65'520.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 1'050'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "fab73d6d081d9afad2754b05e11471da67c7e62290309632c38bb5af431b2989"
+  }
+}

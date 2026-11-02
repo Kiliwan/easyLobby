@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/441/forms/27",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Union syndicale suisse (USS), Berne",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 700'000.00",
+        "monetary_allowances": "CHF 570'000.00",
+        "non_monetary_allowances": "CHF 49'033.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 80'967.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "e1a675beb831cdd0a63c48dbd983f36a06a44cf490d24d887e987a48c6612773"
+  }
+}

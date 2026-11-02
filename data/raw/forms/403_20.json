@@ -1,0 +1,130 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/403/forms/20",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Allianz \"Nein zur 13. AHV-Rente\", Zürich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Zürcher Handelskammer",
+            "juristic_city": "Zürich",
+            "value": "20'000.00",
+            "date": "04.12.2023"
+          },
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "Zürich",
+            "value": "2'400'000.00",
+            "date": "16.10.2023"
+          },
+          {
+            "juristic_name": "Schweizerischer Gewerbeverband",
+            "juristic_city": "Bern",
+            "value": "200'000.00",
+            "date": "05.12.2023"
+          },
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "Zürich",
+            "value": "250'000.00",
+            "date": "10.01.2024"
+          },
+          {
+            "juristic_name": "Schweizerischer Arbeitgeberverband",
+            "juristic_city": "Zürich",
+            "value": "250'000.00",
+            "date": "10.01.2024"
+          },
+          {
+            "juristic_name": "Fédération des entreprises romandes Genève",
+            "juristic_city": "Genève",
+            "value": "55'000.00",
+            "date": "17.01.2024"
+          },
+          {
+            "juristic_name": "Schweizerischer Gewerbeverband",
+            "juristic_city": "Bern",
+            "value": "300'000.00",
+            "date": "22.01.2024"
+          },
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "Zürich",
+            "value": "75'000.00",
+            "date": "29.01.2024"
+          },
+          {
+            "juristic_name": "Swissmem",
+            "juristic_city": "Zürich",
+            "value": "70'000.00",
+            "date": "08.02.2024"
+          },
+          {
+            "juristic_name": "Swissmem",
+            "juristic_city": "Zürich",
+            "value": "25'544.00",
+            "date": "08.03.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Zürcher Handelskammer",
+            "juristic_city": "Zürich",
+            "service_type": "Livraison de biens",
+            "service_description": "Mitgliederversand",
+            "value": "340.00",
+            "date": "04.12.2023"
+          },
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "Zürich",
+            "service_type": "Prestation de services",
+            "service_description": "Personalaufwand Kampagnenarbeit",
+            "value": "174'720.00",
+            "date": "16.11.2023"
+          },
+          {
+            "juristic_name": "Schweizerischer Arbeitgeberverband",
+            "juristic_city": "Zürich",
+            "service_type": "Prestation de services",
+            "service_description": "Personalaufwand Kampagnenarbeit",
+            "value": "26'208.00",
+            "date": "16.11.2023"
+          },
+          {
+            "juristic_name": "Schweizerischer Gewerbeverband",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Personalaufwand Kampagnenarbeit",
+            "value": "26'208.00",
+            "date": "16.11.2023"
+          },
+          {
+            "juristic_name": "Fédération des entreprises romandes Genève",
+            "juristic_city": "Genève",
+            "service_type": "Prestation de services",
+            "service_description": "Personalaufwand Kampagnenarbeit",
+            "value": "10'000.00",
+            "date": "17.01.2024"
+          },
+          {
+            "juristic_name": "Swissmem",
+            "juristic_city": "Zürich",
+            "service_type": "Prestation de services",
+            "service_description": "Personalaufwand Kampagnenarbeit",
+            "value": "5'000.00",
+            "date": "08.02.2024"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "bcc0d49ba89e49b25963746bca7fe698919f27b79025515c501e44b1a624dcde"
+  }
+}

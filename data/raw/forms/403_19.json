@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/403/forms/19",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Allianz \"Nein zur 13. AHV-Rente\", Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 3'957'605.00",
+        "monetary_allowances": "CHF 3'709'244.00",
+        "non_monetary_allowances": "CHF 248'361.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "e085b72dd086f09ea43b4906a5a926c1a9d3fa1811bbaa4d78b5cde38ca1c124"
+  }
+}

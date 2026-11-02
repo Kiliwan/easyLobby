@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/406/forms/21",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Komitee Renteninitiative Ja, Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 1'220'337.00",
+        "monetary_allowances": "CHF 1'215'082.00",
+        "non_monetary_allowances": "CHF 3'610.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 1'645.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "fb22a3d1cdbfc84805e33c58e4d7eb6b8c1dce7d96bf894c586c4f01d18aeb63"
+  }
+}

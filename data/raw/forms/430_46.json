@@ -1,0 +1,93 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/430/forms/46",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Ja zu mehr Natur, Landschaft und Baukultur, Basel",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Daniel",
+            "natural_name": "Brunner",
+            "natural_city": "Zug",
+            "living_abroad": false,
+            "value": "28'341.25",
+            "date": "20.09.2024"
+          }
+        ],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Pro Natura",
+            "juristic_city": "Basel",
+            "value": "1'775'000.00",
+            "date": "09.09.2024"
+          },
+          {
+            "juristic_name": "BirdLife Schweiz",
+            "juristic_city": "Zürich",
+            "value": "50'000.00",
+            "date": "25.03.2024"
+          },
+          {
+            "juristic_name": "Stiftung Landschaftsschutz (SL)",
+            "juristic_city": "Bern",
+            "value": "67'000.00",
+            "date": "14.03.2024"
+          },
+          {
+            "juristic_name": "Schweizer Heimatschutz (SHS)",
+            "juristic_city": "Zürich",
+            "value": "67'000.00",
+            "date": "08.07.2024"
+          },
+          {
+            "juristic_name": "Fondation Franz Weber",
+            "juristic_city": "Bern",
+            "value": "20'000.00",
+            "date": "06.09.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "BirdLife Schweiz",
+            "juristic_city": "Zürich",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeitsleistung",
+            "value": "155'873.00",
+            "date": "22.09.2024"
+          },
+          {
+            "juristic_name": "Pro Natura",
+            "juristic_city": "Basel",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeitsleistung",
+            "value": "268'594.00",
+            "date": "22.09.2024"
+          },
+          {
+            "juristic_name": "Schweizer Heimatschutz",
+            "juristic_city": "Zürich",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeitsstunden",
+            "value": "49'847.00",
+            "date": "22.09.2024"
+          },
+          {
+            "juristic_name": "Stiftung Landschaftsschutz Schweiz",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeitsstunden",
+            "value": "22'413.00",
+            "date": "22.09.2024"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "b8cebf0a2d5fb1a9fd3e4c7098df443d132b799895724e3fcf62680bbac6ee77"
+  }
+}

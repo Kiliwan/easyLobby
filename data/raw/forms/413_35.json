@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/413/forms/35",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "FONDATION FRANZ WEBER, Bern",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 599'951.25",
+        "monetary_allowances": "CHF 155'807.27",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 444'143.98"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "3b30cb06a1ed857013cd18a45c46f4da0b4b1cda17281c6cc77584424fac8cc7"
+  }
+}

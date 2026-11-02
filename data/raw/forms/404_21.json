@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/404/forms/21",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Syndicat Unia, Berne",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 16'308.00",
+        "monetary_allowances": "CHF 15'713.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 595.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "2a932e33028aed2707f8bdc6a4ca6d3ad5c77445264200a4e58f498e8f8f5a9c"
+  }
+}

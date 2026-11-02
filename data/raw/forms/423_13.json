@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/423/forms/13",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Allianz 2x Nein zu den Gesundheitsinitiativen, Bern",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 1'029'000.00",
+        "monetary_allowances": "CHF 1'020'000.00",
+        "non_monetary_allowances": "CHF 9'000.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "d0af98cd88da2cd9276eccc5e0f3e3d52d6e1f6002c739a2a8a382747aff6f0f"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/429/forms/36",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Allianz gegen das Stromgesetz, Zürich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Stiftung für bürgerliche Politik",
+            "juristic_city": "Zug",
+            "value": "50'000.00",
+            "date": "21.05.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "79b4e9b6efed2a35ccdcb1c758d70406b221707525c32f60f29dc07a6407364d"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/416/forms/29",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Sozialdemokratische Partei der Schweiz, Bern",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 1'027'023.00",
+        "monetary_allowances": "CHF 986'344.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 40'679.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "72f2e0917a5247ebe5bd876681972a26651ed9e9d00b00a2562f2bd9bf092462"
+  }
+}

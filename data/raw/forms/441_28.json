@@ -1,0 +1,45 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/441/forms/28",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Union syndicale suisse (USS), Berne",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "UNIA",
+            "juristic_city": "Bern",
+            "value": "171'000.00",
+            "date": "06.09.2023"
+          },
+          {
+            "juristic_name": "SEV",
+            "juristic_city": "Bern",
+            "value": "34'800.00",
+            "date": "06.09.2023"
+          },
+          {
+            "juristic_name": "Syndicom",
+            "juristic_city": "Bern",
+            "value": "31'550.00",
+            "date": "06.09.2023"
+          },
+          {
+            "juristic_name": "VPOD",
+            "juristic_city": "Zürich",
+            "value": "32'600.00",
+            "date": "06.09.2023"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "af28eafd5e77c1263fd90be43f9bb51574c00f6bc04006e71022555c58a845c4"
+  }
+}
