@@ -1,7 +1,7 @@
 # easyLobby
 
 A static, three-language website answering, per federal ballot object: how much money is
-behind Yes, how much behind No, and who provided it — sourced daily from the Swiss Federal
+behind Yes, how much behind No, and who provided it — sourced from the Swiss Federal
 Audit Office's (EFK/CDF) campaign-financing register.
 
 Since 23 October 2022, organisations and individuals spending more than CHF 50 000 on a
@@ -20,8 +20,7 @@ under a `User-Agent` identifying this project.
 published by the Contrôle fédéral des finances with `politikfinanzierung.efk.admin.ch` as its
 landing page, carries [`terms_open`](https://opendata.swiss/terms-of-use) on opendata.swiss —
 the most permissive of the four terms: no attribution condition, no commercial restriction.
-Read from the CKAN API (`package_show?id=politikfinanzierung`); the 403s seen during design were
-from opendata.swiss web pages, which the API does not share.
+Read from the CKAN API (`package_show?id=politikfinanzierung`).
 
 Attribution is given anyway — every figure links to its source page on the register — because
 it is the right thing for a transparency site, not because the licence demands it.
@@ -31,8 +30,8 @@ it is the right thing for a transparency site, not because the licence demands i
 Alongside the funding declarations, each object carries its official result from the **Federal
 Statistical Office**: one JSON per ballot date at `ogd-static.voteinfo-app.ch`, a static CDN with
 no relation to the EFK register. Licence on opendata.swiss is `terms_ask` — open use, but
-**commercial** use requires the owner's permission, which is stricter than whatever the EFK data
-turns out to be.
+**commercial** use requires the owner's permission, which is stricter than the EFK data's
+`terms_open`.
 
 Cheap by construction: a date whose result is fully counted is never re-fetched, so a steady-state
 run costs 1–2 requests. Only the reduced national extract is stored (`data/raw/results/<date>.json`,
@@ -46,8 +45,7 @@ and **completes normally** — a results outage must never cost a register crawl
 
 An initiative and its direct counter-project are **one object in the register** (single binary
 for/against) but **several ballot questions in the results**. Two points follow that the data
-cannot settle. Both were decided deliberately — see spec §8.2.3.1 for the full reasoning and what
-would have to change to revisit either:
+cannot settle. Both were decided deliberately:
 
 - **Declared funding is attributed to the main object** (the initiative). The register has no
   field saying which of the two questions a committee backed. Safe to hold because a third
@@ -69,7 +67,7 @@ npm run ingest
 ```
 
 Fetches the three-language tree (`de`, `fr`, `it` — the register's `en` endpoint returns
-German content byte-for-byte, so English was dropped; see spec D3 revised) plus one form per
+German content byte-for-byte, so English was dropped) plus one form per
 in-scope campaign, normalises the result, and writes `data/normalised/votes.json` and
 `data/history/`.
 
@@ -99,7 +97,7 @@ npm run from-cache --workspace ingest
 
 Rebuilds `data/normalised/votes.json` and `data/normalised/meta.json` purely from what is
 already on disk under `data/raw/` and `data/snapshots/` — no network access, no live fetch.
-`data/raw/` is committed (see spec §5.4) precisely so this works on a fresh checkout: a CI
+`data/raw/` is committed precisely so this works on a fresh checkout: a CI
 deploy step, or anyone who clones the repo, can regenerate the site's data without ever
 crawling the EFK register. It fails with a clear error if `data/raw/elections.json` is missing,
 since that means the ingest job (`npm run ingest`) has never populated the cache.
@@ -110,10 +108,11 @@ since that means the ingest job (`npm run ingest`) has never populated the cache
 npm run contract --workspace ingest
 ```
 
-A separate, live check (not part of the daily ingest) that fetches one tree, two forms and one
-ballot-result file, and asserts their shape. The API is undocumented and unversioned — this is
-expected to fail eventually, and must fail loudly rather than let a shape change silently produce
-empty pages.
+A live check, run at the start of every ingest (and on its own via the `contract` workflow),
+that fetches one tree, two forms and one ballot-result file, and asserts their shape. The API is
+undocumented and unversioned — this is expected to fail eventually, and must fail loudly rather
+than let a shape change silently produce empty pages. When it fails, the ingest stops before
+crawling, nothing is committed, and the site is not redeployed.
 
 The results file is checked here for a specific reason: because the ingest *degrades gracefully*
 when that source is unreachable, a change in its payload shape would otherwise be invisible — the
@@ -134,7 +133,7 @@ npm run typecheck --workspace site
 HTML — 3 languages × (1 index + one page per ballot object + 1 about page) + 1 root redirect.
 No JavaScript ships on any content page; core content works without it. The root page
 (`/`) is a meta-refresh to `/de/` with three visible language links, since static hosting
-cannot read `Accept-Language` without JavaScript, which the design forbids.
+cannot read `Accept-Language` without JavaScript, and the site ships none.
 
 ## Testing
 
@@ -149,4 +148,5 @@ including a page-weight report printed to the console).
 ## Deployment
 
 GitHub Actions builds and publishes the site to GitHub Pages on every push to `main`. A separate,
-manually triggered `ingest` workflow refreshes the data from the EFK register and commits it back.
+manually triggered `ingest` workflow runs the contract check, refreshes the data from the EFK
+register and commits it back; each successful ingest then redeploys the site automatically.
