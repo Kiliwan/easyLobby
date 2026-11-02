@@ -1,0 +1,45 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/556/forms/80",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Conseil Suisse de la Musique CSM, Aarau",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "SUISA",
+            "juristic_city": "Zürich",
+            "value": "230'000.00",
+            "date": "12.01.2026"
+          },
+          {
+            "juristic_name": "Fondation Suisa",
+            "juristic_city": "Lausanne",
+            "value": "50'000.00",
+            "date": "16.12.2025"
+          },
+          {
+            "juristic_name": "Schweizerische Interpretengenossenschaft",
+            "juristic_city": "Zürich",
+            "value": "70'000.00",
+            "date": "08.01.2026"
+          },
+          {
+            "juristic_name": "Stiftung Phonoproduzierende",
+            "juristic_city": "Bern",
+            "value": "20'000.00",
+            "date": "19.01.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "21be8b8908963ac4decafc4631b976f388b9a65a895d6e5c297cf10a1647314d"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/569/forms/108",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Union syndicale suisse (USS), Berne",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "SEV",
+            "juristic_city": "Bern",
+            "value": "61'399.00",
+            "date": "17.04.2026"
+          },
+          {
+            "juristic_name": "Syndicom",
+            "juristic_city": "Bern",
+            "value": "53'383.00",
+            "date": "02.06.2026"
+          },
+          {
+            "juristic_name": "Unia",
+            "juristic_city": "Bern",
+            "value": "301'410.00",
+            "date": "07.05.2026"
+          },
+          {
+            "juristic_name": "VPOD",
+            "juristic_city": "Zürich",
+            "value": "58'644.00",
+            "date": "23.04.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Schweizerischer Gewerkschaftsbund",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Kampagnenenarbeit mit internen Ressourcen",
+            "value": "93'386.00",
+            "date": "14.06.2026"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "ea854235645d963c37ee0e50470d47254e87172dc57b6937f7ee7ac93118f05a"
+  }
+}

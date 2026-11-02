@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/567/forms/105",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Allianz Sicherheit Schweiz, Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 266'651.83",
+        "monetary_allowances": "CHF 116'651.83",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 150'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "acaea2ab5c6807bd5b71da9bca4175f37f831213f93734440cd9b61d53427d52"
+  }
+}

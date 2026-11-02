@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/578/forms/107",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Alliance « NON à l'initiative du chaos », Berne",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 4'768'845.00",
+        "monetary_allowances": "CHF 4'563'858.00",
+        "non_monetary_allowances": "CHF 204'987.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "33a4f277b6686415fe328440ae6dc7024c0086c56691a271275051c42b86db42"
+  }
+}

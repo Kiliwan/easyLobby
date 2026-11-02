@@ -1,0 +1,39 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/567/forms/94",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Allianz Sicherheit Schweiz, Zürich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Verband Militärischer Gesellschaften Schweiz (VMG)",
+            "juristic_city": "Zürich",
+            "value": "50'000.00",
+            "date": "09.03.2026"
+          },
+          {
+            "juristic_name": "Swissmem",
+            "juristic_city": "Zürich",
+            "value": "25'000.00",
+            "date": "09.03.2026"
+          },
+          {
+            "juristic_name": "Bonny Stiftung für die Freiheit",
+            "juristic_city": "3001 Bern",
+            "value": "25'000.00",
+            "date": "11.04.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "8a245623bb18983d7ccf0e537f2d77a11a43035e3ad981bc0e3730ff77aadce5"
+  }
+}

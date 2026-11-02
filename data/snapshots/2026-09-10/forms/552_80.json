@@ -1,0 +1,60 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/552/forms/80",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Allianz Pro Medienvielfalt, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Therese",
+            "natural_name": "Bachmann",
+            "natural_city": "Bern",
+            "living_abroad": false,
+            "value": "20'000.00",
+            "date": "27.01.2026"
+          }
+        ],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Volkart Stiftung",
+            "juristic_city": "Winterthur",
+            "value": "100'000.00",
+            "date": "22.01.2026"
+          },
+          {
+            "juristic_name": "Stiftung für Medienvielfalt",
+            "juristic_city": "Basel",
+            "value": "20'000.00",
+            "date": "19.01.2026"
+          },
+          {
+            "juristic_name": "Trägerschaftsverein SRG Zentralschweiz",
+            "juristic_city": "Luzern",
+            "value": "30'000.00",
+            "date": "28.07.2025"
+          },
+          {
+            "juristic_name": "Kulturfonds SSA",
+            "juristic_city": "Lausanne",
+            "value": "25'000.00",
+            "date": "28.01.2026"
+          },
+          {
+            "juristic_name": "Schweizerische Gemeinnützige Gesellschaft",
+            "juristic_city": "Zürich",
+            "value": "20'000.00",
+            "date": "16.06.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "e7b9b8279c9aa3d526d8df71325271ed417f72ee01aa8bf0511fdfc052f149ab"
+  }
+}

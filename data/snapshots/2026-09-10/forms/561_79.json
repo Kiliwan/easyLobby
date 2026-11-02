@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/561/forms/79",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Associazione Pro Servizio Pubblico Radiotelevisivo, Comano",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 129'660.42",
+        "monetary_allowances": "CHF 100'670.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 28'990.42"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "027e9cd128385540229e5464820eae68a7a01d2aa023a7719238080e705a23f6"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/579/forms/92",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "IG Nachhaltigkeitsinitiative, Dübendorf",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Christoph",
+            "natural_name": "Blocher",
+            "natural_city": "Herrliberg",
+            "living_abroad": false,
+            "value": "100'000.00",
+            "date": "24.04.2026"
+          },
+          {
+            "natural_first_name": "Thomas",
+            "natural_name": "Matter",
+            "natural_city": "Meilen",
+            "living_abroad": false,
+            "value": "250'000.00",
+            "date": "29.04.2026"
+          },
+          {
+            "natural_first_name": "Philippe",
+            "natural_name": "Gaydoul",
+            "natural_city": "Küsnacht",
+            "living_abroad": false,
+            "value": "250'000.00",
+            "date": "24.06.2025"
+          },
+          {
+            "natural_first_name": "Christoph",
+            "natural_name": "Blocher",
+            "natural_city": "Herrliberg",
+            "living_abroad": false,
+            "value": "30'000.00",
+            "date": "08.05.2026"
+          }
+        ],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Schweizerische Volkspartei des Kantons Zürich",
+            "juristic_city": "Dübendorf",
+            "value": "750'000.00",
+            "date": "15.04.2026"
+          },
+          {
+            "juristic_name": "Stiftung für bürgerliche Politik",
+            "juristic_city": "Zug",
+            "value": "800'000.00",
+            "date": "30.12.2025"
+          },
+          {
+            "juristic_name": "Schweizerische Volkspartei (SVP Schweiz)",
+            "juristic_city": "Bern",
+            "value": "1'300'000.00",
+            "date": "16.04.2026"
+          },
+          {
+            "juristic_name": "Emil Frey AG",
+            "juristic_city": "Zürich",
+            "value": "100'000.00",
+            "date": "24.02.2026"
+          },
+          {
+            "juristic_name": "Schweizerische Volkspartei (SVP Schweiz)",
+            "juristic_city": "Bern",
+            "value": "1'400'000.00",
+            "date": "27.03.2026"
+          },
+          {
+            "juristic_name": "Stiftung für bürgerliche Politik",
+            "juristic_city": "Zug",
+            "value": "250'000.00",
+            "date": "29.04.2026"
+          },
+          {
+            "juristic_name": "Patinex AG",
+            "juristic_city": "Freienbach",
+            "value": "100'000.00",
+            "date": "18.05.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "313a1e4a7599eeaa2ed821eeaa452aa5773947aa8b1d544d7720482be61c7271"
+  }
+}

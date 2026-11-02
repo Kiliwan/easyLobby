@@ -1,0 +1,29 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/572/forms/108",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Syndicat Unia, Berne",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Gewerkschaft Unia",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeitsaufwand von Unia-Mitarbeitenden (bezahlt über Löhne)",
+            "value": "108'500.00",
+            "date": "14.06.2026"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "1aac49459f3e98495fe1c8207713e99b26a1337a484d9f704906d72e8298f001"
+  }
+}

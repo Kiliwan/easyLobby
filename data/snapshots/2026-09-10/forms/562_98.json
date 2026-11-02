@@ -1,0 +1,33 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/562/forms/98",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "IG Familie 3plus, Wolhusen",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Arbeitsgruppe Jugend & Familie",
+            "juristic_city": "Zürich",
+            "value": "75'000.00",
+            "date": "17.02.2026"
+          },
+          {
+            "juristic_name": "Pro Family International",
+            "juristic_city": "Bern",
+            "value": "45'000.00",
+            "date": "06.02.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "77f60f6c328a97e34f7c421117c852927571e1bd70359845d8c0cfab58a42e69"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/563/forms/99",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "SRG SSR Svizra Rumantscha (SRG.R), Chur",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 82'141.00",
+        "monetary_allowances": "CHF 20'926.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 220.00",
+        "sales": "CHF 995.00",
+        "equity": "CHF 60'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "a11d893c05f53e4105659ba6a566c75a0fda0e599388751c3a3325d2799f11a7"
+  }
+}
