@@ -2,11 +2,6 @@ name: contract
 
 on:
   workflow_dispatch:
-  # Uncomment to run unattended, daily 30 minutes before the ingest cron
-  # (once that's enabled). Only 6 requests — one tree, the elections export,
-  # two forms, and one ballot-results file.
-  # schedule:
-  #   - cron: '30 3 * * *'
 
 jobs:
   contract:
