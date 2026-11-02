@@ -1,0 +1,27 @@
+name: contract
+
+on:
+  workflow_dispatch:
+  # Uncomment to run unattended, daily 30 minutes before the ingest cron
+  # (once that's enabled). Only 6 requests — one tree, the elections export,
+  # two forms, and one ballot-results file.
+  # schedule:
+  #   - cron: '30 3 * * *'
+
+jobs:
+  contract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - run: npm ci
+
+      # Fails loudly (non-zero exit) if the register's undocumented API
+      # shape has moved. Do not add continue-on-error or swallow this.
+      - run: npm run contract --workspace ingest
