@@ -1,0 +1,50 @@
+{
+  "ballotDate": "2025-09-28",
+  "timestamp": "2026-02-27T18:34:28",
+  "objects": [
+    {
+      "vorlagenId": 6780,
+      "mainId": 6780,
+      "kind": "main",
+      "titles": {
+        "de": "Bundesbeschluss über die kantonalen Liegenschaftssteuern auf Zweitliegenschaften",
+        "fr": "Arrêté fédéral relatif à l'impôt immobilier cantonal sur les résidences secondaires",
+        "it": "Decreto federale concernente l'imposta immobiliare cantonale sulle abitazioni secondarie"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": true,
+      "doubleMajority": true,
+      "yesPct": 57.726325916,
+      "yesVotes": 1579379,
+      "noVotes": 1156598,
+      "turnoutPct": 49.532249372,
+      "cantonsYes": 14,
+      "cantonsNo": 6,
+      "cantonsYesHalf": 5,
+      "cantonsNoHalf": 1
+    },
+    {
+      "vorlagenId": 6790,
+      "mainId": 6790,
+      "kind": "main",
+      "titles": {
+        "de": "Bundesgesetz über den elektronischen Identitätsnachweis und andere elektronische Nachweise (E-ID-Gesetz, BGEID)",
+        "fr": "Loi fédérale sur l'identité électronique et d'autres moyens de preuves électroniques (Loi sur l'e-ID, LeID)",
+        "it": "Legge federale sul mezzo d'identificazione elettronico e altri mezzi di autenticazione elettronici (Legge sull'Id-e, LIdE)"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": true,
+      "doubleMajority": false,
+      "yesPct": 50.386179069,
+      "yesVotes": 1384586,
+      "noVotes": 1363362,
+      "turnoutPct": 49.581229702,
+      "cantonsYes": 7,
+      "cantonsNo": 13,
+      "cantonsYesHalf": 1,
+      "cantonsNoHalf": 5
+    }
+  ]
+}

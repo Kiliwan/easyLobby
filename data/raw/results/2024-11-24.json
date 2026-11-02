@@ -1,0 +1,94 @@
+{
+  "ballotDate": "2024-11-24",
+  "timestamp": "2026-02-27T18:34:27",
+  "objects": [
+    {
+      "vorlagenId": 6730,
+      "mainId": 6730,
+      "kind": "main",
+      "titles": {
+        "de": "Bundesbeschluss über den Ausbauschritt 2023 für die Nationalstrassen",
+        "fr": "Arrêté fédéral sur l’étape d’aménagement 2023 des routes nationales",
+        "it": "Decreto federale sulla Fase di potenziamento 2023 delle strade nazionali"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": false,
+      "doubleMajority": false,
+      "yesPct": 47.299009433,
+      "yesVotes": 1181560,
+      "noVotes": 1316505,
+      "turnoutPct": 45.061028026,
+      "cantonsYes": 7,
+      "cantonsNo": 13,
+      "cantonsYesHalf": 4,
+      "cantonsNoHalf": 2
+    },
+    {
+      "vorlagenId": 6740,
+      "mainId": 6740,
+      "kind": "main",
+      "titles": {
+        "de": "Änderung des Obligationenrechts (Mietrecht: Untermiete)",
+        "fr": "Modification du code des obligations (droit du bail: sous-location)",
+        "it": "Modifica del Codice delle obbligazioni (Diritto di locazione: sublocazione)"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": false,
+      "doubleMajority": false,
+      "yesPct": 48.418445608,
+      "yesVotes": 1196643,
+      "noVotes": 1274818,
+      "turnoutPct": 44.90358058,
+      "cantonsYes": 11,
+      "cantonsNo": 9,
+      "cantonsYesHalf": 5,
+      "cantonsNoHalf": 1
+    },
+    {
+      "vorlagenId": 6750,
+      "mainId": 6750,
+      "kind": "main",
+      "titles": {
+        "de": "Änderung des Obligationenrechts (Mietrecht: Kündigung wegen Eigenbedarfs)",
+        "fr": "Modification du code des obligations (droit du bail: résiliation pour besoin propre)",
+        "it": "Modifica del Codice delle obbligazioni (Diritto di locazione: disdetta per bisogno personale)"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": false,
+      "doubleMajority": false,
+      "yesPct": 46.16954603,
+      "yesVotes": 1141693,
+      "noVotes": 1331134,
+      "turnoutPct": 44.913927483,
+      "cantonsYes": 10,
+      "cantonsNo": 10,
+      "cantonsYesHalf": 4,
+      "cantonsNoHalf": 2
+    },
+    {
+      "vorlagenId": 6760,
+      "mainId": 6760,
+      "kind": "main",
+      "titles": {
+        "de": "Änderung des Bundesgesetzes über die Krankenversicherung (KVG) (Einheitliche Finanzierung der Leistungen)",
+        "fr": "Modification de la loi fédérale sur l’assurance-maladie (LAMal) (financement uniforme des prestations)",
+        "it": "Modifica della legge federale sull’assicurazione malattie (LAMal) (Finanziamento uniforme delle prestazioni)"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": true,
+      "doubleMajority": false,
+      "yesPct": 53.310789824,
+      "yesVotes": 1302687,
+      "noVotes": 1140884,
+      "turnoutPct": 44.888478733,
+      "cantonsYes": 14,
+      "cantonsNo": 6,
+      "cantonsYesHalf": 6,
+      "cantonsNoHalf": 0
+    }
+  ]
+}

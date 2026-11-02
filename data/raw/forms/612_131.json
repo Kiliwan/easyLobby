@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/612/forms/131",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Allianz Sicherheit Schweiz, Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 2'190'000.00",
+        "monetary_allowances": "CHF 1'470'000.00",
+        "non_monetary_allowances": "CHF 20'000.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 700'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "a366c1c678aaff812259f9bd30976de17d8cfce4a025d392f71f1846297f3b40"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/615/forms/123",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Verein für eine Einschränkung von Feuerwerk, Bern 8",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 525'000.00",
+        "monetary_allowances": "CHF 455'000.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 70'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "33d812ffb6369c17aeb21c4bdf90a70ed13ba89bfd2a6f66b6ca02d70152cc2f"
+  }
+}

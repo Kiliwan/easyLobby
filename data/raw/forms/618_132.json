@@ -1,0 +1,36 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/618/forms/132",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Référendum sur le matériel de guerre, Zurich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Gruppe für eine Schweiz ohne Armee",
+            "juristic_city": "Bern",
+            "value": "40'000.00",
+            "date": "12.10.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Gruppe für eine Schweiz ohne Armee (GSoA)",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Lohn Campaigner KMG, angestellt und bezahlt durch GSoA",
+            "value": "18'000.00",
+            "date": "11.05.2026"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "c02c3b7ec0e7945a0feafaf085ee81f006b7a8883c3be359dd4eb45f3ecce769"
+  }
+}

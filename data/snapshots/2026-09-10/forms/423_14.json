@@ -1,0 +1,54 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/423/forms/14",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Allianz 2x Nein zu den Gesundheitsinitiativen, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "8032 Zürich",
+            "value": "1'000'000.00",
+            "date": "18.04.2024"
+          },
+          {
+            "juristic_name": "Zürcher Handelskammer",
+            "juristic_city": "8021 Zürich",
+            "value": "5'000.00",
+            "date": "18.04.2024"
+          },
+          {
+            "juristic_name": "KMU- und Gewerbeverband Kanton Zürich",
+            "juristic_city": "8032 Zürich",
+            "value": "10'000.00",
+            "date": "18.04.2024"
+          },
+          {
+            "juristic_name": "F. Hoffmann-La Roche AG",
+            "juristic_city": "4070 Basel",
+            "value": "37'100.00",
+            "date": "21.05.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Zürcher Handelskammer",
+            "juristic_city": "8021 Zürich",
+            "service_type": "Livraison de biens",
+            "service_description": "Kostenübernahme für Podium (Apero, Referent, Geschenke, Raummiete, Location, Fotograf, etc.)",
+            "value": "9'000.00",
+            "date": "18.04.2024"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "c5c57a7817bd3ae916e16f8ab5d227b802f50ac0fe894e74dda71ea2cad83732"
+  }
+}

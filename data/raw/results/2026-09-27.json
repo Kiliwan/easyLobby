@@ -1,0 +1,50 @@
+{
+  "ballotDate": "2026-09-27",
+  "timestamp": "2026-10-01T09:10:20",
+  "objects": [
+    {
+      "vorlagenId": 6880,
+      "mainId": 6880,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «Wahrung der schweizerischen Neutralität (Neutralitätsinitiative)»",
+        "fr": "Initiative populaire « Sauvegarder la neutralité suisse (initiative sur la neutralité) »",
+        "it": "Iniziativa popolare «Salvaguardia della neutralità svizzera (Iniziativa sulla neutralità)»"
+      },
+      "counted": true,
+      "provisional": true,
+      "accepted": false,
+      "doubleMajority": true,
+      "yesPct": 29.844894538,
+      "yesVotes": 789082,
+      "noVotes": 1854861,
+      "turnoutPct": 47.074052376,
+      "cantonsYes": 0,
+      "cantonsNo": 20,
+      "cantonsYesHalf": 0,
+      "cantonsNoHalf": 6
+    },
+    {
+      "vorlagenId": 6890,
+      "mainId": 6890,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «Für eine sichere Ernährung – durch Stärkung einer nachhaltigen inländischen Produktion, mehr pflanzliche Lebensmittel und sauberes Trinkwasser (Ernährungsinitiative)»",
+        "fr": "Initiative populaire « Pour une alimentation sûre – grâce au renforcement de la protection indigène durable, à davantage de denrées alimentaires végétales et à une eau potable propre (initiative sur l’alimentation) »",
+        "it": "Iniziativa popolare «Per un’alimentazione sicura – mediante il rafforzamento di una produzione nazionale sostenibile, più derrate alimentari vegetali e acqua potabile pulita (Iniziativa sull’alimentazione)»"
+      },
+      "counted": true,
+      "provisional": true,
+      "accepted": false,
+      "doubleMajority": true,
+      "yesPct": 27.473127984,
+      "yesVotes": 722943,
+      "noVotes": 1908512,
+      "turnoutPct": 47.040656255,
+      "cantonsYes": 0,
+      "cantonsNo": 20,
+      "cantonsYesHalf": 0,
+      "cantonsNoHalf": 6
+    }
+  ]
+}

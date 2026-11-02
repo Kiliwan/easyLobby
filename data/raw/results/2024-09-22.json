@@ -1,0 +1,50 @@
+{
+  "ballotDate": "2024-09-22",
+  "timestamp": "2026-02-27T18:34:26",
+  "objects": [
+    {
+      "vorlagenId": 6710,
+      "mainId": 6710,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «Für die Zukunft unserer Natur und Landschaft (Biodiversitätsinitiative)»",
+        "fr": "Initiative populaire «Pour l’avenir de notre nature et de notre paysage (Initiative biodiversité)»",
+        "it": "Iniziativa popolare «Per il futuro della nostra natura e del nostro paesaggio (Iniziativa biodiversità)»"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": false,
+      "doubleMajority": true,
+      "yesPct": 36.960662152,
+      "yesVotes": 926059,
+      "noVotes": 1579467,
+      "turnoutPct": 45.193911773,
+      "cantonsYes": 1,
+      "cantonsNo": 19,
+      "cantonsYesHalf": 1,
+      "cantonsNoHalf": 5
+    },
+    {
+      "vorlagenId": 6720,
+      "mainId": 6720,
+      "kind": "main",
+      "titles": {
+        "de": "Änderung des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) (Reform der beruflichen Vorsorge)",
+        "fr": "Modification de la loi fédérale sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP) (Réforme de la prévoyance professionnelle)",
+        "it": "Modifica della legge federale sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP) (Riforma della previdenza professionale)"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": false,
+      "doubleMajority": false,
+      "yesPct": 32.868696175,
+      "yesVotes": 810569,
+      "noVotes": 1655513,
+      "turnoutPct": 45.043946231,
+      "cantonsYes": 0,
+      "cantonsNo": 20,
+      "cantonsYesHalf": 0,
+      "cantonsNoHalf": 6
+    }
+  ]
+}

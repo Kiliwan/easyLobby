@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/406/forms/8",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Komitee Renteninitiative Ja, Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 897'000.00",
+        "monetary_allowances": "CHF 885'000.00",
+        "non_monetary_allowances": "CHF 10'000.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 2'000.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "2a999b23f23a89df85ece954d7c04e96e5efe91be9edd6330e6b5c0391f5c475"
+  }
+}

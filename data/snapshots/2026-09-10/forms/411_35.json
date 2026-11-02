@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/411/forms/35",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Allianz für eine sichere Stromversorgung, Bern",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 2'317'691.00",
+        "monetary_allowances": "CHF 2'125'159.00",
+        "non_monetary_allowances": "CHF 192'532.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "189a7714459e894dbad914686f34a5902bd82e3ff16504eb4cf74ee030ce51f6"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/619/forms/124",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Pro Feuerwerk, Neudorf",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Schweizerische Koordinationsstelle Feuerwerk",
+            "juristic_city": "Herisau",
+            "value": "20'000.00",
+            "date": "10.07.2026"
+          },
+          {
+            "juristic_name": "Bugano AG",
+            "juristic_city": "Beromünster",
+            "value": "25'000.00",
+            "date": "30.09.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "8842309c05f0d5d6374a564c3de91d9a094a3465303ceb781fe927bbac0eae9b"
+  }
+}

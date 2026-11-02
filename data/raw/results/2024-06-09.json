@@ -1,0 +1,94 @@
+{
+  "ballotDate": "2024-06-09",
+  "timestamp": "2026-02-27T18:34:26",
+  "objects": [
+    {
+      "vorlagenId": 6670,
+      "mainId": 6670,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «Maximal 10% des Einkommens für die Krankenkassenprämien (Prämien-Entlastungs-Initiative)» ",
+        "fr": "Initiative populaire « Maximum 10% du revenu pour les primes d’assurance-maladie (initiative d’allègement des primes) »",
+        "it": "Iniziativa popolare «Al massimo il 10 per cento del reddito per i premi delle casse malati (Iniziativa per premi meno onerosi)»"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": false,
+      "doubleMajority": true,
+      "yesPct": 44.528129659,
+      "yesVotes": 1117095,
+      "noVotes": 1391645,
+      "turnoutPct": 45.453546982,
+      "cantonsYes": 7,
+      "cantonsNo": 13,
+      "cantonsYesHalf": 1,
+      "cantonsNoHalf": 5
+    },
+    {
+      "vorlagenId": 6680,
+      "mainId": 6680,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «Für tiefere Prämien – Kostenbremse im Gesundheitswesen (Kostenbremse-Initiative)» ",
+        "fr": "Initiative populaire « Pour des primes plus basses. Frein aux coûts dans le système de santé (initiative pour un frein aux coûts) »",
+        "it": "Iniziativa popolare «Per premi più bassi – Freno ai costi nel settore sanitario (Iniziativa per un freno ai costi)»"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": false,
+      "doubleMajority": true,
+      "yesPct": 37.227149655,
+      "yesVotes": 927386,
+      "noVotes": 1563769,
+      "turnoutPct": 45.404845892,
+      "cantonsYes": 5,
+      "cantonsNo": 15,
+      "cantonsYesHalf": 0,
+      "cantonsNoHalf": 6
+    },
+    {
+      "vorlagenId": 6690,
+      "mainId": 6690,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «Für Freiheit und körperliche Unversehrtheit»",
+        "fr": "Initiative populaire «Pour la liberté et l’intégrité physique»",
+        "it": "Iniziativa popolare «Per la libertà e l’integrità fisica»"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": false,
+      "doubleMajority": true,
+      "yesPct": 26.268903533,
+      "yesVotes": 655106,
+      "noVotes": 1838740,
+      "turnoutPct": 45.37377149,
+      "cantonsYes": 0,
+      "cantonsNo": 20,
+      "cantonsYesHalf": 0,
+      "cantonsNoHalf": 6
+    },
+    {
+      "vorlagenId": 6700,
+      "mainId": 6700,
+      "kind": "main",
+      "titles": {
+        "de": "Bundesgesetz über eine sichere Stromversorgung mit erneuerbaren Energien (Änderung des Energiegesetzes und des Stromversorgungsgesetzes)",
+        "fr": "Loi fédérale relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables (modification de la loi sur l’énergie et de la loi sur l’approvisionnement en électricité)",
+        "it": "Legge federale su un approvvigionamento elettrico sicuro con le energie rinnovabili (Modifica della legge federale sull’energia e della legge sull’approvvigionamento elettrico)"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": true,
+      "doubleMajority": false,
+      "yesPct": 68.720278081,
+      "yesVotes": 1717607,
+      "noVotes": 781811,
+      "turnoutPct": 45.422669027,
+      "cantonsYes": 20,
+      "cantonsNo": 0,
+      "cantonsYesHalf": 6,
+      "cantonsNoHalf": 0
+    }
+  ]
+}

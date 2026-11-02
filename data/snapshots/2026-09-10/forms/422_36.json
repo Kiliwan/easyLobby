@@ -1,0 +1,66 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/422/forms/36",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Fondation Suisse de l'Energie, Zurich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "WWF Schweiz",
+            "juristic_city": "Zürich",
+            "value": "357'500.00",
+            "date": "08.03.2024"
+          },
+          {
+            "juristic_name": "Volkart Stiftung",
+            "juristic_city": "Winterthur",
+            "value": "150'000.00",
+            "date": "03.04.2024"
+          },
+          {
+            "juristic_name": "Clima Now",
+            "juristic_city": "Zürich",
+            "value": "100'000.00",
+            "date": "08.04.2024"
+          },
+          {
+            "juristic_name": "Oak Foundation",
+            "juristic_city": "Cointrin",
+            "value": "75'000.00",
+            "date": "05.04.2024"
+          },
+          {
+            "juristic_name": "Greenpeace",
+            "juristic_city": "Zürich",
+            "value": "20'000.00",
+            "date": "08.03.2024"
+          },
+          {
+            "juristic_name": "Solarspar",
+            "juristic_city": "Sissach",
+            "value": "20'000.00",
+            "date": "08.03.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Schweizerische Energiestiftung",
+            "juristic_city": "Zürich",
+            "service_type": "Prestation de services",
+            "service_description": "Eigenleistungen Personal SES zugunsten Kampagne",
+            "value": "134'000.00",
+            "date": "25.04.2024"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "b6d4f0a4b7707e8b33aeec057d29cfe5b8e6088fbfda5217e03211f4ae784bed"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ballotDate": "2025-02-09",
+  "timestamp": "2026-02-27T18:34:28",
+  "objects": [
+    {
+      "vorlagenId": 6770,
+      "mainId": 6770,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «Für eine verantwortungsvolle Wirtschaft innerhalb der planetaren Grenzen (Umweltverantwortungsinitiative)»",
+        "fr": "Initiative populaire «Pour une économie responsable respectant les limites planétaires (initiative pour la responsabilité environnementale)»",
+        "it": "Iniziativa popolare «Per un’economia responsabile entro i limiti del pianeta (Iniziativa per la responsabilità ambientale)»"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": false,
+      "doubleMajority": true,
+      "yesPct": 30.24827056,
+      "yesVotes": 639005,
+      "noVotes": 1473529,
+      "turnoutPct": 38.052586848,
+      "cantonsYes": 0,
+      "cantonsNo": 20,
+      "cantonsYesHalf": 0,
+      "cantonsNoHalf": 6
+    }
+  ]
+}

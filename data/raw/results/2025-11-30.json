@@ -1,0 +1,50 @@
+{
+  "ballotDate": "2025-11-30",
+  "timestamp": "2026-02-27T18:34:29",
+  "objects": [
+    {
+      "vorlagenId": 6800,
+      "mainId": 6800,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «Für eine engagierte Schweiz (Service-citoyen-Initiative)»",
+        "fr": "Initiative populaire « Pour une suisse qui s’engage (initiative service citoyen) »",
+        "it": "Iniziativa popolare «Per una Svizzera che si impegna (Iniziativa Servizio civico)»"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": false,
+      "doubleMajority": true,
+      "yesPct": 15.854424512,
+      "yesVotes": 379638,
+      "noVotes": 2014886,
+      "turnoutPct": 42.94406305,
+      "cantonsYes": 0,
+      "cantonsNo": 20,
+      "cantonsYesHalf": 0,
+      "cantonsNoHalf": 6
+    },
+    {
+      "vorlagenId": 6810,
+      "mainId": 6810,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «Für eine soziale Klimapolitik – steuerlich gerecht finanziert (Initiative für eine Zukunft)»",
+        "fr": "Initiative populaire « Pour une politique climatique sociale financée de manière juste fiscalement (initiative pour l’avenir) »",
+        "it": "Iniziativa popolare «Per una politica climatica sociale finanziata in modo fiscalmente equo (Iniziativa per il futuro)»"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": false,
+      "doubleMajority": true,
+      "yesPct": 21.723894267,
+      "yesVotes": 520173,
+      "noVotes": 1874301,
+      "turnoutPct": 42.954950202,
+      "cantonsYes": 0,
+      "cantonsNo": 20,
+      "cantonsYesHalf": 0,
+      "cantonsNoHalf": 6
+    }
+  ]
+}

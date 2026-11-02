@@ -1,0 +1,50 @@
+{
+  "ballotDate": "2026-06-14",
+  "timestamp": "2026-06-23T15:50:54",
+  "objects": [
+    {
+      "vorlagenId": 6860,
+      "mainId": 6860,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative)»",
+        "fr": "Initiative populaire «Pas de Suisse à 10 millions ! (initiative pour la durabilité)»",
+        "it": "Iniziativa popolare «No a una Svizzera da 10 milioni! (Iniziativa per la sostenibilità)»"
+      },
+      "counted": true,
+      "provisional": true,
+      "accepted": false,
+      "doubleMajority": true,
+      "yesPct": 45.209280268,
+      "yesVotes": 1492857,
+      "noVotes": 1809246,
+      "turnoutPct": 58.859948637,
+      "cantonsYes": 8,
+      "cantonsNo": 12,
+      "cantonsYesHalf": 4,
+      "cantonsNoHalf": 2
+    },
+    {
+      "vorlagenId": 6870,
+      "mainId": 6870,
+      "kind": "main",
+      "titles": {
+        "de": "Änderung des Bundesgesetzes über den zivilen Ersatzdienst (Zivildienstgesetz, ZDG)",
+        "fr": "Modification de la loi fédérale sur le service civil (LSC)",
+        "it": "Modifica della legge federale sul servizio civile sostitutivo (Legge sul servizio civile, LSC)"
+      },
+      "counted": true,
+      "provisional": true,
+      "accepted": true,
+      "doubleMajority": false,
+      "yesPct": 52.458466009,
+      "yesVotes": 1690622,
+      "noVotes": 1532160,
+      "turnoutPct": 58.264493934,
+      "cantonsYes": 15,
+      "cantonsNo": 5,
+      "cantonsYesHalf": 5,
+      "cantonsNoHalf": 1
+    }
+  ]
+}

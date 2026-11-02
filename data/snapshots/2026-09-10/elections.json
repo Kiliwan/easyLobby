@@ -1,0 +1,27 @@
+{
+  "data": {
+    "tree_roots": [
+      {
+        "id": 1,
+        "label": "22.10.2023 Élections au Conseil national 2023",
+        "type": "campaign_financing",
+        "header_text": "2023"
+      },
+      {
+        "id": 2,
+        "label": "22.10.2023 Élections au Conseil des États 2023",
+        "type": "campaign_financing"
+      },
+      {
+        "id": 22,
+        "label": "29.06.2025 Élection au Conseil des États (Schaffhouse)",
+        "type": "campaign_financing"
+      },
+      {
+        "id": 27,
+        "label": "08.03.2026 Élection au Conseil national (Appenzell Rhodes-Extérieures)",
+        "type": "campaign_financing"
+      }
+    ]
+  }
+}

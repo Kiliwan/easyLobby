@@ -1,0 +1,258 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/411/forms/36",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Allianz für eine sichere Stromversorgung, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Alpiq SA",
+            "juristic_city": "Lausanne",
+            "value": "250'000.00",
+            "date": "20.12.2023"
+          },
+          {
+            "juristic_name": "Groupe E SA",
+            "juristic_city": "Granges-Paccot",
+            "value": "50'000.00",
+            "date": "20.12.2023"
+          },
+          {
+            "juristic_name": "Romande Energie SA",
+            "juristic_city": "Morges",
+            "value": "50'000.00",
+            "date": "21.12.2023"
+          },
+          {
+            "juristic_name": "Ville de Lausanne",
+            "juristic_city": "Lausanne",
+            "value": "25'000.00",
+            "date": "22.12.2023"
+          },
+          {
+            "juristic_name": "Electricita svizzera italiana",
+            "juristic_city": "Bellinzona",
+            "value": "50'000.00",
+            "date": "14.02.2024"
+          },
+          {
+            "juristic_name": "Verband Schweizerischer Elektrizitätsunternehmen VSE",
+            "juristic_city": "Aarau",
+            "value": "250'000.00",
+            "date": "05.03.2024"
+          },
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "Zürich",
+            "value": "50'000.00",
+            "date": "12.03.2024"
+          },
+          {
+            "juristic_name": "Schweizerisch-Lichtensteinischer Gebäudetechnikerverband (suissetec)",
+            "juristic_city": "Zürich",
+            "value": "30'000.00",
+            "date": "05.03.2024"
+          },
+          {
+            "juristic_name": "EBL (Genossenschaft Elektra Baselland)",
+            "juristic_city": "Liestal",
+            "value": "25'000.00",
+            "date": "12.03.2024"
+          },
+          {
+            "juristic_name": "FMV SA",
+            "juristic_city": "Sion",
+            "value": "20'000.00",
+            "date": "12.03.2024"
+          },
+          {
+            "juristic_name": "Axpo Holding AG",
+            "juristic_city": "Baden",
+            "value": "250'000.00",
+            "date": "12.03.2024"
+          },
+          {
+            "juristic_name": "auto-schweiz Vereinigung Schweizer Automobil-Importeure",
+            "juristic_city": "Bern",
+            "value": "30'000.00",
+            "date": "12.03.2024"
+          },
+          {
+            "juristic_name": "enalpin AG",
+            "juristic_city": "Visp",
+            "value": "15'000.00",
+            "date": "12.03.2024"
+          },
+          {
+            "juristic_name": "Avenergy Suisse",
+            "juristic_city": "Zürich",
+            "value": "50'000.00",
+            "date": "12.03.2024"
+          },
+          {
+            "juristic_name": "Suisse Eole",
+            "juristic_city": "Saint-George",
+            "value": "30'000.00",
+            "date": "12.03.2024"
+          },
+          {
+            "juristic_name": "Swisspower AG",
+            "juristic_city": "Bern",
+            "value": "65'000.00",
+            "date": "14.03.2024"
+          },
+          {
+            "juristic_name": "Service Industriels de Genève",
+            "juristic_city": "Genf",
+            "value": "25'000.00",
+            "date": "14.03.2024"
+          },
+          {
+            "juristic_name": "BKW Management AG",
+            "juristic_city": "Bern",
+            "value": "250'000.00",
+            "date": "27.03.2024"
+          },
+          {
+            "juristic_name": "EKZ Elektrizitätswerke des Kantons Zürich",
+            "juristic_city": "Zürich",
+            "value": "50'000.00",
+            "date": "27.03.2024"
+          },
+          {
+            "juristic_name": "Primeo Energie AG",
+            "juristic_city": "Münchenstein",
+            "value": "50'000.00",
+            "date": "27.03.2024"
+          },
+          {
+            "juristic_name": "St. Gallisch-Appenzellische Kraftwerke AG",
+            "juristic_city": "St. Gallen",
+            "value": "25'000.00",
+            "date": "03.04.2024"
+          },
+          {
+            "juristic_name": "aeesuisse",
+            "juristic_city": "Bern",
+            "value": "100'000.00",
+            "date": "03.04.2024"
+          },
+          {
+            "juristic_name": "Repower",
+            "juristic_city": "Poschiavo",
+            "value": "35'000.00",
+            "date": "10.04.2024"
+          },
+          {
+            "juristic_name": "Avenergy Suisse",
+            "juristic_city": "Zürich",
+            "value": "50'000.00",
+            "date": "22.04.2024"
+          },
+          {
+            "juristic_name": "Swissolar – Schweizerischer Fachverband für Sonnenenergie",
+            "juristic_city": "Zürich",
+            "value": "141'000.00",
+            "date": "26.04.2024"
+          },
+          {
+            "juristic_name": "Grand Dixence SA",
+            "juristic_city": "Sion",
+            "value": "20'000.00",
+            "date": "03.05.2024"
+          },
+          {
+            "juristic_name": "aeesuisse",
+            "juristic_city": "Bern",
+            "value": "25'000.00",
+            "date": "13.05.2024"
+          },
+          {
+            "juristic_name": "Swisscleantech",
+            "juristic_city": "Zürich",
+            "value": "20'000.00",
+            "date": "08.05.2024"
+          },
+          {
+            "juristic_name": "Zürcher Handelskammer",
+            "juristic_city": "Zürich",
+            "value": "18'501.00",
+            "date": "13.05.2024"
+          },
+          {
+            "juristic_name": "Energiedienst Holding AG",
+            "juristic_city": "Laufenburg",
+            "value": "18'501.00",
+            "date": "28.05.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Axpo Services AG",
+            "juristic_city": "Baden",
+            "service_type": "Prestation de services",
+            "service_description": "Unterstützung Kampagnenkommunikation",
+            "value": "7'760.00",
+            "date": "26.06.2024"
+          },
+          {
+            "juristic_name": "Verband Schweizerischer Elektrizitätsunternehmen VSE",
+            "juristic_city": "Aarau",
+            "service_type": "Prestation de services",
+            "service_description": "Unterstützung Kampagnenkommunikation",
+            "value": "68'000.00",
+            "date": "09.06.2024"
+          },
+          {
+            "juristic_name": "Alpiq AG",
+            "juristic_city": "Olten",
+            "service_type": "Prestation de services",
+            "service_description": "Unterstützung Kampagnenkommunikation",
+            "value": "12'172.00",
+            "date": "21.06.2024"
+          },
+          {
+            "juristic_name": "aeesuisse",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Unterstützung Kampagnenkommunikation",
+            "value": "88'400.00",
+            "date": "30.06.2024"
+          },
+          {
+            "juristic_name": "BKW Management AG",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Unterstützung Kampagnenkommunikation",
+            "value": "7'700.00",
+            "date": "25.06.2024"
+          },
+          {
+            "juristic_name": "Romande Energie SA",
+            "juristic_city": "Morges",
+            "service_type": "Prestation de services",
+            "service_description": "Unterstützung Kampagnenkommunikation",
+            "value": "5'500.00",
+            "date": "19.06.2024"
+          },
+          {
+            "juristic_name": "Schweizerisch-Lichtensteinischer Gebäudetechnikerverband (suissetec)",
+            "juristic_city": "Zürich",
+            "service_type": "Prestation de services",
+            "service_description": "Unterstützung Kampagnenkommunikation",
+            "value": "3'000.00",
+            "date": "27.06.2024"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "8dd94b6226fe7736ee1260f95447079d3013fb4f0d4b4c32e0572fee7c5facb8"
+  }
+}

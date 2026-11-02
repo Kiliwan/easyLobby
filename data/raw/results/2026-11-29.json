@@ -1,0 +1,94 @@
+{
+  "ballotDate": "2026-11-29",
+  "timestamp": "2026-10-26T09:34:17",
+  "objects": [
+    {
+      "vorlagenId": 6900,
+      "mainId": 6900,
+      "kind": "main",
+      "titles": {
+        "de": "Bundesbeschluss über die Zusatzfinanzierung der AHV durch eine Erhöhung der Mehrwertsteuer",
+        "fr": "Arrêté fédéral sur le financement additionnel de l’AVS par le biais d’un relèvement de la TVA",
+        "it": "Decreto federale sul finanziamento supplementare dell’AVS mediante l’aumento dell’imposta sul valore aggiunto"
+      },
+      "counted": false,
+      "provisional": true,
+      "accepted": null,
+      "doubleMajority": true,
+      "yesPct": null,
+      "yesVotes": null,
+      "noVotes": null,
+      "turnoutPct": null,
+      "cantonsYes": null,
+      "cantonsNo": null,
+      "cantonsYesHalf": null,
+      "cantonsNoHalf": null
+    },
+    {
+      "vorlagenId": 6910,
+      "mainId": 6910,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «Für eine Einschränkung von Feuerwerk»",
+        "fr": "Initiative populaire « Pour une limitation des feux d’artifice »",
+        "it": "Iniziativa popolare «Per una limitazione dei fuochi d’artificio»"
+      },
+      "counted": false,
+      "provisional": true,
+      "accepted": null,
+      "doubleMajority": true,
+      "yesPct": null,
+      "yesVotes": null,
+      "noVotes": null,
+      "turnoutPct": null,
+      "cantonsYes": null,
+      "cantonsNo": null,
+      "cantonsYesHalf": null,
+      "cantonsNoHalf": null
+    },
+    {
+      "vorlagenId": 6920,
+      "mainId": 6920,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «Ja zu fairen Bundessteuern auch für Ehepaare – Diskriminierung der Ehe endlich abschaffen!»",
+        "fr": "Initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés – Pour enfin en finir avec la discrimination du mariage ! »",
+        "it": "Iniziativa popolare «Sì a imposte federali eque anche per i coniugi – Basta con la discriminazione del matrimonio!»"
+      },
+      "counted": false,
+      "provisional": true,
+      "accepted": null,
+      "doubleMajority": true,
+      "yesPct": null,
+      "yesVotes": null,
+      "noVotes": null,
+      "turnoutPct": null,
+      "cantonsYes": null,
+      "cantonsNo": null,
+      "cantonsYesHalf": null,
+      "cantonsNoHalf": null
+    },
+    {
+      "vorlagenId": 6930,
+      "mainId": 6930,
+      "kind": "main",
+      "titles": {
+        "de": "Änderung des Bundesgesetzes über das Kriegsmaterial (KMG)",
+        "fr": "Modification de la loi fédérale sur le matériel de guerre (LFMG)",
+        "it": "Modifica della legge federale sul materiale bellico (LMB)"
+      },
+      "counted": false,
+      "provisional": true,
+      "accepted": null,
+      "doubleMajority": false,
+      "yesPct": null,
+      "yesVotes": null,
+      "noVotes": null,
+      "turnoutPct": null,
+      "cantonsYes": null,
+      "cantonsNo": null,
+      "cantonsYesHalf": null,
+      "cantonsNoHalf": null
+    }
+  ]
+}

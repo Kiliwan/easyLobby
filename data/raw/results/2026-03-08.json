@@ -1,0 +1,138 @@
+{
+  "ballotDate": "2026-03-08",
+  "timestamp": "2026-03-25T16:53:24",
+  "objects": [
+    {
+      "vorlagenId": 6821,
+      "mainId": 6821,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «Ja zu einer unabhängigen, freien Schweizer Währung mit Münzen oder Banknoten (Bargeld ist Freiheit)»",
+        "fr": "Initiative populaire « Oui à une monnaie suisse libre et indépendante sous forme de pièces ou de billets (l'argent liquide, c'est la liberté) »",
+        "it": "Iniziativa popolare «Sì a una valuta svizzera indipendente e libera con monete o banconote (Il denaro contante è libertà)»"
+      },
+      "counted": true,
+      "provisional": true,
+      "accepted": false,
+      "doubleMajority": true,
+      "yesPct": 45.613427317,
+      "yesVotes": 1381191,
+      "noVotes": 1646845,
+      "turnoutPct": 55.396472811,
+      "cantonsYes": 9,
+      "cantonsNo": 11,
+      "cantonsYesHalf": 0,
+      "cantonsNoHalf": 6
+    },
+    {
+      "vorlagenId": 6822,
+      "mainId": 6821,
+      "kind": "counterProject",
+      "titles": {
+        "de": "Bundesbeschluss über die schweizerische Währung und die Bargeldversorgung (Gegenvorschlag zur Bargeldinitiative)",
+        "fr": "Arrêté fédéral sur la monnaie suisse et l’approvisionnement en numéraire (contre-projet à l'initiative pour l’argent liquide)",
+        "it": "Decreto federale concernente l’unità monetaria svizzera e l’approvvigionamento in numerario (controprogetto all'iniziativa denaro contante)"
+      },
+      "counted": true,
+      "provisional": true,
+      "accepted": true,
+      "doubleMajority": true,
+      "yesPct": 73.409654272,
+      "yesVotes": 2169303,
+      "noVotes": 785762,
+      "turnoutPct": 55.396472811,
+      "cantonsYes": 20,
+      "cantonsNo": 0,
+      "cantonsYesHalf": 6,
+      "cantonsNoHalf": 0
+    },
+    {
+      "vorlagenId": 6823,
+      "mainId": 6821,
+      "kind": "subsidiary",
+      "titles": {
+        "de": "Bargeldinitiative und Gegenvorschlag: Stichfrage",
+        "fr": "Initiative pour l’argent liquide et contre-projet: question subsidiaire",
+        "it": "Iniziativa denaro contante e controprogetto: domanda sussidiaria"
+      },
+      "counted": true,
+      "provisional": true,
+      "accepted": false,
+      "doubleMajority": true,
+      "yesPct": 37.364269145,
+      "yesVotes": 1098341,
+      "noVotes": 1841208,
+      "turnoutPct": 55.396472811,
+      "cantonsYes": 2,
+      "cantonsNo": 18,
+      "cantonsYesHalf": 0,
+      "cantonsNoHalf": 6
+    },
+    {
+      "vorlagenId": 6830,
+      "mainId": 6830,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «200 Franken sind genug! (SRG-Initiative)»",
+        "fr": "Initiative populaire « 200 francs, ça suffit ! (initiative SSR) »",
+        "it": "Iniziativa popolare «200 franchi bastano! (Iniziativa SSR)»"
+      },
+      "counted": true,
+      "provisional": true,
+      "accepted": false,
+      "doubleMajority": true,
+      "yesPct": 38.051655985,
+      "yesVotes": 1188459,
+      "noVotes": 1934819,
+      "turnoutPct": 55.823386684,
+      "cantonsYes": 0,
+      "cantonsNo": 20,
+      "cantonsYesHalf": 0,
+      "cantonsNoHalf": 6
+    },
+    {
+      "vorlagenId": 6840,
+      "mainId": 6840,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «Für eine gerechte Energie- und Klimapolitik: Investieren für Wohlstand, Arbeit und Umwelt (Klimafonds-Initiative)»",
+        "fr": "Initiative populaire « Pour une politique énergétique et climatique équitable : investir pour la prospérité, le travail et l'environnement (initiative pour un fonds climat) »",
+        "it": "Iniziativa popolare «Per una politica energetica e climatica equa: investire per la prosperità, il lavoro e l’ambiente (Iniziativa per un fondo per il clima)»"
+      },
+      "counted": true,
+      "provisional": true,
+      "accepted": false,
+      "doubleMajority": true,
+      "yesPct": 29.294471868,
+      "yesVotes": 897355,
+      "noVotes": 2165868,
+      "turnoutPct": 55.577195618,
+      "cantonsYes": 0,
+      "cantonsNo": 20,
+      "cantonsYesHalf": 0,
+      "cantonsNoHalf": 6
+    },
+    {
+      "vorlagenId": 6850,
+      "mainId": 6850,
+      "kind": "main",
+      "titles": {
+        "de": "Bundesgesetz über die Individualbesteuerung",
+        "fr": "Loi fédérale sur l’imposition individuelle",
+        "it": "Legge federale sull’imposizione individuale"
+      },
+      "counted": true,
+      "provisional": true,
+      "accepted": true,
+      "doubleMajority": false,
+      "yesPct": 54.261947341,
+      "yesVotes": 1662477,
+      "noVotes": 1401322,
+      "turnoutPct": 55.685537367,
+      "cantonsYes": 9,
+      "cantonsNo": 11,
+      "cantonsYesHalf": 2,
+      "cantonsNoHalf": 4
+    }
+  ]
+}

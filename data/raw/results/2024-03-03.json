@@ -1,0 +1,50 @@
+{
+  "ballotDate": "2024-03-03",
+  "timestamp": "2026-02-27T18:34:25",
+  "objects": [
+    {
+      "vorlagenId": 6650,
+      "mainId": 6650,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «Für ein besseres Leben im Alter (Initiative für eine 13. AHV-Rente)»",
+        "fr": "Initiative populaire «Mieux vivre à la retraite (initiative pour une 13e rente AVS)»",
+        "it": "Iniziativa popolare «Vivere meglio la pensione (Iniziativa per una 13esima mensilità AVS)»"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": true,
+      "doubleMajority": true,
+      "yesPct": 58.247813268,
+      "yesVotes": 1884096,
+      "noVotes": 1350525,
+      "turnoutPct": 58.363775667,
+      "cantonsYes": 14,
+      "cantonsNo": 6,
+      "cantonsYesHalf": 2,
+      "cantonsNoHalf": 4
+    },
+    {
+      "vorlagenId": 6660,
+      "mainId": 6660,
+      "kind": "main",
+      "titles": {
+        "de": "Volksinitiative «Für eine sichere und nachhaltige Altersvorsorge (Renteninitiative)»",
+        "fr": "Initiative populaire «Pour une prévoyance vieillesse sûre et pérenne (initiative sur les rentes)»",
+        "it": "Iniziativa popolare «Per una previdenza vecchiaia sicura e sostenibile (Iniziativa sulle pensioni)»"
+      },
+      "counted": true,
+      "provisional": false,
+      "accepted": false,
+      "doubleMajority": true,
+      "yesPct": 25.248274165,
+      "yesVotes": 808578,
+      "noVotes": 2393930,
+      "turnoutPct": 58.125483104,
+      "cantonsYes": 0,
+      "cantonsNo": 20,
+      "cantonsYesHalf": 0,
+      "cantonsNoHalf": 6
+    }
+  ]
+}

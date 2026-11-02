@@ -1,0 +1,105 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/409/forms/32",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Gesundheitswesen mit Zukunft, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "FMH Verbindung der Schweizer Ärztinnen und Ärzte",
+            "juristic_city": "Bern",
+            "value": "500'000.00",
+            "date": "02.04.2024"
+          },
+          {
+            "juristic_name": "Ärztenetz Nordwest AG",
+            "juristic_city": "Basel",
+            "value": "15'000.00",
+            "date": "16.04.2024"
+          },
+          {
+            "juristic_name": "medswissnet",
+            "juristic_city": "Bern",
+            "value": "15'000.00",
+            "date": "28.03.2024"
+          },
+          {
+            "juristic_name": "ospita",
+            "juristic_city": "Bern",
+            "value": "15'000.00",
+            "date": "26.04.2024"
+          },
+          {
+            "juristic_name": "AerzteGesellschaft des Kantons Zürich AGZ",
+            "juristic_city": "Zürich",
+            "value": "200'000.00",
+            "date": "07.05.2024"
+          },
+          {
+            "juristic_name": "Aargauischer Ärzteverband",
+            "juristic_city": "Baden-Dättwil",
+            "value": "108'282.25",
+            "date": "14.05.2024"
+          },
+          {
+            "juristic_name": "FMH Verbindung der Schweizer Ärztinnen und Ärzte",
+            "juristic_city": "Bern",
+            "value": "500'000.00",
+            "date": "14.05.2024"
+          },
+          {
+            "juristic_name": "AerzteGesellschaft des Kantons Zürich AGZ",
+            "juristic_city": "Zürich",
+            "value": "150'000.00",
+            "date": "25.06.2024"
+          },
+          {
+            "juristic_name": "Verband Schweizerischer Assistenz- und Oberärztinnen und -ärzte VSAO",
+            "juristic_city": "Bern",
+            "value": "20'000.00",
+            "date": "14.06.2024"
+          },
+          {
+            "juristic_name": "Ärzte-Gesellschaft des Kantons Zug",
+            "juristic_city": "Zug",
+            "value": "30'000.00",
+            "date": "27.05.2024"
+          },
+          {
+            "juristic_name": "Schweizerischer Apothekenverband (pharmaSuisse)",
+            "juristic_city": "Köniz",
+            "value": "39'700.00",
+            "date": "27.06.2024"
+          },
+          {
+            "juristic_name": "FMH Verbindung der Schweizer Ärztinnen und Ärzte",
+            "juristic_city": "Bern",
+            "value": "200'000.00",
+            "date": "24.06.2024"
+          },
+          {
+            "juristic_name": "Société Médicale de la Suisse Romande (SMSR)",
+            "juristic_city": "Lausanne",
+            "value": "20'000.00",
+            "date": "02.07.2024"
+          },
+          {
+            "juristic_name": "FMH Verbindung der Schweizer Ärztinnen und Ärzte",
+            "juristic_city": "Bern",
+            "value": "60'000.00",
+            "date": "12.08.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "3ec6d692037712843d76c54b6d93aac5bd788fdf5ec3aaf0ce1bbf965358c3b9"
+  }
+}
