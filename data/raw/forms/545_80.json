@@ -1,0 +1,72 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/545/forms/80",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "IG SRG-Initiative «200 Franken sind genug!», Dübendorf",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Hermann Ernst",
+            "natural_name": "Hess",
+            "natural_city": "Amriswil",
+            "living_abroad": false,
+            "value": "20'000.00",
+            "date": "25.06.2025"
+          }
+        ],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Stiftung für bürgerliche Politik",
+            "juristic_city": "Zug",
+            "value": "100'000.00",
+            "date": "21.11.2025"
+          },
+          {
+            "juristic_name": "Schweizerische Volkspartei",
+            "juristic_city": "Bern",
+            "value": "50'000.00",
+            "date": "29.08.2025"
+          },
+          {
+            "juristic_name": "Avenergy Suisse",
+            "juristic_city": "Zürich",
+            "value": "75'000.00",
+            "date": "19.09.2025"
+          },
+          {
+            "juristic_name": "Meutel 2000 SA",
+            "juristic_city": "Lugano",
+            "value": "150'000.00",
+            "date": "07.01.2026"
+          },
+          {
+            "juristic_name": "Schweizerischer Gewerbeverband",
+            "juristic_city": "Bern",
+            "value": "300'000.00",
+            "date": "13.01.2026"
+          },
+          {
+            "juristic_name": "Schweizerischer Gewerbeverband",
+            "juristic_city": "Bern",
+            "value": "380'000.00",
+            "date": "23.12.2025"
+          },
+          {
+            "juristic_name": "BFG HALTER KLG",
+            "juristic_city": "Schlieren",
+            "value": "100'000.00",
+            "date": "02.02.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "775cf087d7ffc7ee4c408c9ac06320e3a8c8ae055a7dd4146586f3764a2ed0c2"
+  }
+}

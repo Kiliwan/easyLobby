@@ -1,0 +1,39 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/555/forms/82",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Komitee Klimafonds-Initiative, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "GRÜNE Schweiz",
+            "juristic_city": "Bern",
+            "value": "60'000.00",
+            "date": "14.10.2025"
+          },
+          {
+            "juristic_name": "SP Schweiz",
+            "juristic_city": "Bern",
+            "value": "60'000.00",
+            "date": "14.10.2025"
+          },
+          {
+            "juristic_name": "Pro Natura",
+            "juristic_city": "Basel",
+            "value": "50'000.00",
+            "date": "05.02.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "60c51e73cab1647671ca97f73760163ce18c514c25692b1c6d715f59616bb5e6"
+  }
+}

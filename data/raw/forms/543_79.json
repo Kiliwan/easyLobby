@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/543/forms/79",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Souveräne Medien Schweiz, Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 1'312'852.67",
+        "monetary_allowances": "CHF 1'280'000.00",
+        "non_monetary_allowances": "CHF 32'852.67",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "aa27a210b874407e77246bd3076e1705fe5275cc0761cf888abdc9ec4e448ace"
+  }
+}

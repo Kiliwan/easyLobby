@@ -1,0 +1,51 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/546/forms/100",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Union suisse des arts et métiers, Berne",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Meutel 2000 SA",
+            "juristic_city": "Lugano",
+            "value": "69'380.20",
+            "date": "16.12.2025"
+          },
+          {
+            "juristic_name": "Meutel 2000 SA",
+            "juristic_city": "Lugano",
+            "value": "69'380.20",
+            "date": "07.01.2026"
+          },
+          {
+            "juristic_name": "Centre Patronal",
+            "juristic_city": "Bern",
+            "value": "30'000.00",
+            "date": "23.02.2026"
+          },
+          {
+            "juristic_name": "GastroSuisse",
+            "juristic_city": "Zürich",
+            "value": "50'000.00",
+            "date": "11.02.2026"
+          },
+          {
+            "juristic_name": "Schweizerischer Baumeisterverband SBV",
+            "juristic_city": "Zürich",
+            "value": "20'000.00",
+            "date": "05.02.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "0e35cbb93a7fe7b83d8862c179abd1f89a4dfde07dbb68055266e0008fb33a4a"
+  }
+}

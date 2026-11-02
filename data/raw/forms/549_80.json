@@ -1,0 +1,56 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/549/forms/80",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Sportkomitee gegen die Halbierungsinitiative, Gstaad",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "SwissTopSport",
+            "juristic_city": "Gstaad",
+            "value": "150'000.00",
+            "date": "01.10.2025"
+          },
+          {
+            "juristic_name": "Swiss Olympic",
+            "juristic_city": "Ittigen bei Bern",
+            "value": "25'000.00",
+            "date": "01.12.2025"
+          },
+          {
+            "juristic_name": "Swiss Olympic",
+            "juristic_city": "Ittigen bei Bern",
+            "value": "25'000.00",
+            "date": "20.02.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "SwissTopSport",
+            "juristic_city": "Gstaad",
+            "service_type": "Prestation de services",
+            "service_description": "Unterstützende Arbeiten für die Kampagne durch Verein",
+            "value": "12'000.00",
+            "date": "01.10.2025"
+          },
+          {
+            "juristic_name": "Swiss Olympic",
+            "juristic_city": "Ittigen bei Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Unterstützende Arbeiten für die Kampagne durch Mitarbeiter/-innen",
+            "value": "32'000.00",
+            "date": "01.10.2025"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "12b1d711ad75b8dfd45e74fac1b0c9c8710b7f7c90fb51679247dbe9c5ec6e14"
+  }
+}

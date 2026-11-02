@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/556/forms/99",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Conseil Suisse de la Musique CSM, Aarau",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 392'500.00",
+        "monetary_allowances": "CHF 392'500.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "40fc1c3a6a8fc1c3fe66e9afedf8b57d001732ef54bec000f7e8234053eedc1f"
+  }
+}

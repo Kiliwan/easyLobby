@@ -1,0 +1,27 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/540/forms/98",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Le Centre, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Schweizerische Volkspartei SVP",
+            "juristic_city": "Bern",
+            "value": "28'000.00",
+            "date": "16.01.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "dfcc86cf621c933be1ec4d64e1244213f19e2651f9534666cb890e8d8ff658c9"
+  }
+}

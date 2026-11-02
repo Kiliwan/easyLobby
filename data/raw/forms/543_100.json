@@ -1,0 +1,140 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/543/forms/100",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Souveräne Medien Schweiz, Zürich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Daniel und Martin",
+            "natural_name": "Meili",
+            "natural_city": "Zürich",
+            "living_abroad": false,
+            "value": "50'000.00",
+            "date": "13.11.2025"
+          },
+          {
+            "natural_first_name": "Oliver",
+            "natural_name": "Rihs",
+            "natural_city": "Berlin",
+            "living_abroad": true,
+            "value": "50'000.00",
+            "date": "28.10.2025"
+          },
+          {
+            "natural_first_name": "Rudolf Ernst",
+            "natural_name": "Gerber",
+            "natural_city": "Zürich",
+            "living_abroad": false,
+            "value": "100'000.00",
+            "date": "05.11.2025"
+          },
+          {
+            "natural_first_name": "Alfred",
+            "natural_name": "Gantner",
+            "natural_city": "Meggen",
+            "living_abroad": false,
+            "value": "20'000.00",
+            "date": "16.01.2026"
+          },
+          {
+            "natural_first_name": "Daniel",
+            "natural_name": "Brunner",
+            "natural_city": "Zug",
+            "living_abroad": false,
+            "value": "26'020.00",
+            "date": "16.02.2026"
+          }
+        ],
+        "juristic_monetary": [
+          {
+            "juristic_name": "GENOSSENSCHAFT SRG REGION BASEL",
+            "juristic_city": "Basel",
+            "value": "85'000.00",
+            "date": "11.12.2025"
+          },
+          {
+            "juristic_name": "Schweizerischer Verband der FilmproduzentInnen",
+            "juristic_city": "Bern",
+            "value": "75'000.00",
+            "date": "12.02.2026"
+          },
+          {
+            "juristic_name": "Schweizer Syndikat Medienschaffender SSM",
+            "juristic_city": "Zürich",
+            "value": "250'000.00",
+            "date": "23.10.2025"
+          },
+          {
+            "juristic_name": "SRG Ostschweiz",
+            "juristic_city": "St.Gallen",
+            "value": "20'000.00",
+            "date": "05.12.2025"
+          },
+          {
+            "juristic_name": "Radio- und Fernsehgenossenschaft Zürich Schaffhausen (RFZ)",
+            "juristic_city": "Zürich",
+            "value": "180'000.00",
+            "date": "09.02.2026"
+          },
+          {
+            "juristic_name": "Kulturfonds Société Suisse des Auteurs (SSA)",
+            "juristic_city": "Lausanne",
+            "value": "57'000.00",
+            "date": "23.02.2026"
+          },
+          {
+            "juristic_name": "Trägerschaft SRG Aargau Solothurn",
+            "juristic_city": "Aarau",
+            "value": "30'000.00",
+            "date": "11.09.2025"
+          },
+          {
+            "juristic_name": "Suisseimage",
+            "juristic_city": "Bern",
+            "value": "50'000.00",
+            "date": "05.01.2026"
+          },
+          {
+            "juristic_name": "SWISSPERFORM",
+            "juristic_city": "Zürich",
+            "value": "80'000.00",
+            "date": "23.12.2025"
+          },
+          {
+            "juristic_name": "TRfinanz Holding AG",
+            "juristic_city": "Pfäffikon",
+            "value": "100'000.00",
+            "date": "24.10.2025"
+          },
+          {
+            "juristic_name": "Genossenschaft SRG Bern Freiburg Wallis",
+            "juristic_city": "Bern",
+            "value": "40'000.00",
+            "date": "02.02.2026"
+          },
+          {
+            "juristic_name": "SUISA Genossenschaft der Urheber und Verleger von Musik",
+            "juristic_city": "Zürich",
+            "value": "60'000.00",
+            "date": "12.02.2026"
+          },
+          {
+            "juristic_name": "Radio- und Fernsehgenossenschaft Zürich Schaffhausen (RFZ)",
+            "juristic_city": "Zürich",
+            "value": "32'852.67",
+            "date": "15.09.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "26902da5ef03744405bfe292dd6f7f4ca05af24cdd28663a750245fd14c23b69"
+  }
+}

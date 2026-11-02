@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/553/forms/79",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Sozialdemokratische Partei der Schweiz, Bern",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 1'599'000.00",
+        "monetary_allowances": "CHF 1'593'000.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 6'000.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "e1c5a27eda42e8c6f6b4f4a2747b24e2f8ea28eac5bb71cfc57799f9819381ca"
+  }
+}

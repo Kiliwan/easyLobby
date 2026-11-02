@@ -1,0 +1,170 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/552/forms/100",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Allianz Pro Medienvielfalt, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Therese & Patrick",
+            "natural_name": "Bachmann & Fust",
+            "natural_city": "Bern",
+            "living_abroad": false,
+            "value": "20'000.00",
+            "date": "27.01.2026"
+          }
+        ],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Volkart Stiftung",
+            "juristic_city": "Winterthur",
+            "value": "145'000.00",
+            "date": "22.01.2026"
+          },
+          {
+            "juristic_name": "Stiftung für Medienvielfalt",
+            "juristic_city": "Basel",
+            "value": "20'000.00",
+            "date": "19.01.2026"
+          },
+          {
+            "juristic_name": "Trägerschaftsverein SRG Zentralschweiz",
+            "juristic_city": "Luzern",
+            "value": "30'000.00",
+            "date": "28.07.2025"
+          },
+          {
+            "juristic_name": "Schweizerische Gemeinnützige Gesellschaft",
+            "juristic_city": "Zürich",
+            "value": "20'000.00",
+            "date": "16.06.2025"
+          },
+          {
+            "juristic_name": "European Broadcasting Union",
+            "juristic_city": "Le Grand Saconnex",
+            "value": "20'000.00",
+            "date": "21.01.2026"
+          },
+          {
+            "juristic_name": "Demokratie Stiftung Basel",
+            "juristic_city": "Basel",
+            "value": "20'000.00",
+            "date": "23.01.2026"
+          },
+          {
+            "juristic_name": "Genossenschaft SRG Bern Fribourg Wallis",
+            "juristic_city": "Bern",
+            "value": "25'000.00",
+            "date": "02.03.2026"
+          },
+          {
+            "juristic_name": "Kulturfonds SSA",
+            "juristic_city": "Lausanne",
+            "value": "25'000.00",
+            "date": "28.01.2026"
+          },
+          {
+            "juristic_name": "Schweizerische Interpreten Gesellschaft SIG",
+            "juristic_city": "Zürich",
+            "value": "25'000.00",
+            "date": "16.02.2026"
+          },
+          {
+            "juristic_name": "Bewegung Courage Civil",
+            "juristic_city": "Bern",
+            "value": "80'000.00",
+            "date": "04.03.2026"
+          }
+        ],
+        "natural_non_monetary": [
+          {
+            "natural_first_name": "Joachim",
+            "natural_name": "Eder",
+            "natural_city": "Unterägeri",
+            "living_abroad": false,
+            "service_type": "Prestation de services",
+            "service_description": "Mitarbeit Leitungsteam",
+            "value": "22'500.00",
+            "date": "01.03.2026"
+          },
+          {
+            "natural_first_name": "Mark",
+            "natural_name": "Balsiger",
+            "natural_city": "Bern",
+            "living_abroad": false,
+            "service_type": "Prestation de services",
+            "service_description": "Geschäftsführung Allianz - 12 Monate",
+            "value": "135'000.00",
+            "date": "01.03.2026"
+          },
+          {
+            "natural_first_name": "Maximilian",
+            "natural_name": "Hauser",
+            "natural_city": "Ins",
+            "living_abroad": false,
+            "service_type": "Prestation de services",
+            "service_description": "Mitarbeit im Leitungsteam",
+            "value": "15'000.00",
+            "date": "01.03.2026"
+          },
+          {
+            "natural_first_name": "Regula",
+            "natural_name": "Rytz",
+            "natural_city": "Bern",
+            "living_abroad": false,
+            "service_type": "Prestation de services",
+            "service_description": "Mitarbeit im Leitungsteam",
+            "value": "22'500.00",
+            "date": "01.03.2026"
+          },
+          {
+            "natural_first_name": "Christina",
+            "natural_name": "Leutwyler",
+            "natural_city": "Bern",
+            "living_abroad": false,
+            "service_type": "Prestation de services",
+            "service_description": "Medienmonitoring",
+            "value": "27'000.00",
+            "date": "01.03.2026"
+          },
+          {
+            "natural_first_name": "Peter",
+            "natural_name": "Gysi",
+            "natural_city": "Hinterkappelen",
+            "living_abroad": false,
+            "service_type": "Prestation de services",
+            "service_description": "Datenbank, Mitgliederpflege, Buchhaltung",
+            "value": "37'500.00",
+            "date": "01.03.2026"
+          },
+          {
+            "natural_first_name": "Ursula",
+            "natural_name": "Henzi",
+            "natural_city": "Oberbalm",
+            "living_abroad": false,
+            "service_type": "Prestation de services",
+            "service_description": "Finanzen, Buchhaltung",
+            "value": "30'000.00",
+            "date": "01.03.2026"
+          }
+        ],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Border Crossing AG",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Kampagnenführung",
+            "value": "52'000.00",
+            "date": "01.03.2026"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "2d3e0058db09542d18473b01ebc6dceb1e2e59b4b551860f3802eb17de69dbbe"
+  }
+}

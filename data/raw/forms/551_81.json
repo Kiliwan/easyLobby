@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/551/forms/81",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Les VERT-E-S suisses, Berne",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 90'000.00",
+        "monetary_allowances": "CHF 80'000.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 10'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "81c98caefbf3d8cc08386c51e0397b58448e47fa39c08f45152e58b512b8f6af"
+  }
+}

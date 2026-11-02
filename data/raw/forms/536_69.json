@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/536/forms/69",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "economiesuisse, Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 300'000.00",
+        "monetary_allowances": "CHF 0.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 300'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "96ff2192228b877f17ab7d8248924d73e34618756afb1626a954b7c3410b72b3"
+  }
+}

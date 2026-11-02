@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/540/forms/97",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Le Centre, Bern",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 186'895.48",
+        "monetary_allowances": "CHF 60'250.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 126'645.48"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "36b6d5f88c409467f042183eaafb704828c9e53b64348fb779f4d2622cb9a25f"
+  }
+}

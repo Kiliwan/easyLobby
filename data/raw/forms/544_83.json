@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/544/forms/83",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Union Démocratique du Centre (UDC), Bern",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 200'000.00",
+        "monetary_allowances": "CHF 10'050.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 10'810.00",
+        "equity": "CHF 179'140.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "68abcdc82c481864756b8fe3a67905fcabc388267f89a323bb5c9d45b97ed5e7"
+  }
+}

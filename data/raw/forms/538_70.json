@@ -1,0 +1,27 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/538/forms/70",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Union suisse des arts et métiers, Berne",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Gemeinnützige Stiftung Gambit",
+            "juristic_city": "Stans",
+            "value": "50'000.00",
+            "date": "31.10.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "75b4a488a6e2bb444efc3c4cd91c1e95e957bec27373ed553ebb48b8e8e1b336"
+  }
+}
