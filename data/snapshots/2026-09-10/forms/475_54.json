@@ -1,0 +1,29 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/475/forms/54",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "ASLOCA Association suisse des locataires, Berne",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "SMV Schweizerischer Mieterinnen- und Mieterverband",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Nicht durch das Kampagnenbudget bezahlte Überstunden des Teams des Mieterverbandes Schweiz (Überstunden weren im Rahmen des normalen Pensums kompensiert)",
+            "value": "12'320.00",
+            "date": "24.11.2024"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "c19ca52d59ccc13c0ca85ca582e05ecb4224f33c64bd102312d2d6d768f846a2"
+  }
+}

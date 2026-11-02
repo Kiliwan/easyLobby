@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/478/forms/37",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Ja zur Sicherung der Nationalstrassen, Bern",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 3'922'770.00",
+        "monetary_allowances": "CHF 3'831'170.00",
+        "non_monetary_allowances": "CHF 91'600.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "293363b5c8c0f568eb363c6997bb77509f21abec4dd07a6c3690be0f10e1f9a2"
+  }
+}

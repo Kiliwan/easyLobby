@@ -1,0 +1,27 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/508/forms/64",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Kantonales Komitee «JA zur Abschaffung des Eigenmietwerts» (HEV Basel-Stadt), Basel",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Hauseigentümerverband Basel-Stadt",
+            "juristic_city": "Basel",
+            "value": "60'000.00",
+            "date": "17.07.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "d6b653afa2d2d9c2347ae4aa928cc1370b3f80440ea89aa950c58a504ecb5445"
+  }
+}

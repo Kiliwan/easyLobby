@@ -1,0 +1,27 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/502/forms/64",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Hauseigentümerverband Kanton Luzern, Luzern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Hauseigentümerverband Schweiz",
+            "juristic_city": "Zürich",
+            "value": "45'000.00",
+            "date": "16.06.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "8e6f981ccf17a9bea6fb48a26829f6a1320c977c1e4c5b9b2aa44f842ba154c6"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/514/forms/73",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Allianz Pro e-ID, Bern",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 559'963.25",
+        "monetary_allowances": "CHF 347'278.25",
+        "non_monetary_allowances": "CHF 212'685.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "48aeeef0665d21b74152dfe8b66a4ddcaa922e164640204748afff117e6e95a1"
+  }
+}

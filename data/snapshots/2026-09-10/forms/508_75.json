@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/508/forms/75",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Kantonales Komitee «JA zur Abschaffung des Eigenmietwerts» (HEV Basel-Stadt), Basel",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 62'576.19",
+        "monetary_allowances": "CHF 62'576.19",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "3e8b58edd4367133fa769aed8a3312b3d651d8c4ae8ea32cc8e354286aebacd3"
+  }
+}

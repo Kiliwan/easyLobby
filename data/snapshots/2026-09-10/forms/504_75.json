@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/504/forms/75",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Hauseigentümerverband Aargau, Baden",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 244'668.32",
+        "monetary_allowances": "CHF 30'600.00",
+        "non_monetary_allowances": "CHF 6'000.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 208'068.32"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "6d3d4585b5e3bd91263b4cb857b41c7068f581072b8e86341073efe684a2e932"
+  }
+}

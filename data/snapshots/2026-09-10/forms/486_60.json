@@ -1,0 +1,36 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/486/forms/60",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Jeunes Vert-e-s Suisse, Berne",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "GRÜNE Schweiz",
+            "juristic_city": "Bern",
+            "value": "30'000.00",
+            "date": "17.01.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Junge Grüne Schweiz",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Lohnarbeit durch Mitarbeitende an Kampagne",
+            "value": "16'520.00",
+            "date": "01.11.2024"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "7ea9033adf0e18984a2e6d990da03681f182df0e7bf087b10c68fcbb53ff564a"
+  }
+}

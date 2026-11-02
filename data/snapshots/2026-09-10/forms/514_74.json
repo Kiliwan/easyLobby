@@ -1,0 +1,80 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/514/forms/74",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Allianz Pro e-ID, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "digitalswitzerland",
+            "juristic_city": "Zürich",
+            "value": "150'000.00",
+            "date": "07.08.2025"
+          },
+          {
+            "juristic_name": "Swiss Cigarette",
+            "juristic_city": "Bern",
+            "value": "40'810.00",
+            "date": "16.09.2025"
+          },
+          {
+            "juristic_name": "digitalswitzerland",
+            "juristic_city": "Zürich",
+            "value": "5'107.50",
+            "date": "13.11.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "digitalswitzerland",
+            "juristic_city": "Zürich",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeitsstunden Sekretariat",
+            "value": "28'800.00",
+            "date": "24.06.2025"
+          },
+          {
+            "juristic_name": "Ringier AG",
+            "juristic_city": "Zofingen",
+            "service_type": "Livraison de biens",
+            "service_description": "Media Space",
+            "value": "85'000.00",
+            "date": "24.09.2025"
+          },
+          {
+            "juristic_name": "TX Group AG",
+            "juristic_city": "Zürich",
+            "service_type": "Livraison de biens",
+            "service_description": "Media Space",
+            "value": "78'075.00",
+            "date": "26.09.2025"
+          },
+          {
+            "juristic_name": "Ringier AG",
+            "juristic_city": "Zofingen",
+            "service_type": "Livraison de biens",
+            "service_description": "Mediaspace",
+            "value": "7'650.00",
+            "date": "13.11.2025"
+          },
+          {
+            "juristic_name": "digitalswitzerland",
+            "juristic_city": "Zürich",
+            "service_type": "Prestation de services",
+            "service_description": "Arbeitsstunden",
+            "value": "1'200.00",
+            "date": "04.11.2025"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "bdb585a320df6e6818a9657acc1e5f27c53985f3028e31118e60226ac6ae70b5"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/480/forms/57",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "KMU- und Gewerbeverband Kanton Zürich, Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 90'000.00",
+        "monetary_allowances": "CHF 60'000.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 30'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "6f801ef7d840c55df7e4456f98a215b6c632fb3fecc4c7e33ec4b88cc8099626"
+  }
+}

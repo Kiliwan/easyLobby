@@ -1,0 +1,68 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/507/forms/76",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "aeesuisse - Dachverband der Wirtschaft für erneuerbare Energien und Energieeffizienz, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Schweizerisch-Liechtensteinischer Gebäudetechnikverband (suissetec)",
+            "juristic_city": "Zürich",
+            "value": "46'253.45",
+            "date": "04.08.2025"
+          },
+          {
+            "juristic_name": "constructionromande",
+            "juristic_city": "Petit-Lancy",
+            "value": "75'896.45",
+            "date": "28.09.2025"
+          },
+          {
+            "juristic_name": "Centre Patronal",
+            "juristic_city": "Paudex",
+            "value": "25'000.00",
+            "date": "20.10.2025"
+          },
+          {
+            "juristic_name": "Union suisse des professionnels de l'immobilier Vaud (USPI Vaud)",
+            "juristic_city": "Paudex",
+            "value": "20'000.00",
+            "date": "13.10.2025"
+          },
+          {
+            "juristic_name": "Union suisse des professionnels de l'immobilier Suisse (USPI Suisse)",
+            "juristic_city": "Paudex",
+            "value": "30'000.00",
+            "date": "13.10.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "aeesuisse – Dachorganisation der Wirtschaft für erneuerbare Energien und Energieeffizienz",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Leitung der Kampagne",
+            "value": "16'000.00",
+            "date": "30.06.2025"
+          },
+          {
+            "juristic_name": "cR Kommunikation AG",
+            "juristic_city": "Zürich",
+            "service_type": "Prestation de services",
+            "service_description": "Kampagnenführung",
+            "value": "16'729.85",
+            "date": "30.11.2025"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "c1e933e27f1f31ae749e2e94490deadae66ab2c0ad18c512146567d5e1c226c3"
+  }
+}
