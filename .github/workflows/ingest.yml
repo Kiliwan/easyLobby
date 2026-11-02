@@ -2,13 +2,8 @@ name: ingest
 
 on:
   workflow_dispatch:
-  # Uncomment to run unattended, daily at 06:00 CEST / 05:00 CET. The reuse
-  # licence is settled (EFK data is opendata.swiss `terms_open`, verified
-  # 2026-09-15), so this is unblocked. It still means
-  # an unattended daily crawl of a federal government server: enable it
-  # deliberately, and leave the politeness limits in ingest/src/config.ts alone.
-  # schedule:
-  #   - cron: '0 4 * * *'
+  schedule:
+    - cron: '0 4 * * *'
 
 permissions:
   contents: write
