@@ -1,4 +1,4 @@
-# Swiss campaign finance
+# easyLobby
 
 A static, three-language website answering, per federal ballot object: how much money is
 behind Yes, how much behind No, and who provided it — sourced daily from the Swiss Federal
