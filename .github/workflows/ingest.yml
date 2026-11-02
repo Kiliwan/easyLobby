@@ -1,0 +1,43 @@
+name: ingest
+
+on:
+  workflow_dispatch:
+  # Uncomment to run unattended, daily at 06:00 CEST / 05:00 CET. The reuse
+  # licence is settled (EFK data is opendata.swiss `terms_open`, verified
+  # 2026-09-15), so this is unblocked.
+  # schedule:
+  #   - cron: '0 4 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    # A normal run is ~165 requests at 1.5s apart; a cold first run against
+    # all ~490 in-scope forms is ~20 minutes. This ceiling is generous
+    # headroom over that, not an expected duration.
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm run ingest
+
+      - name: Commit and push archive if it changed
+        run: |
+          git config user.name "ingest bot"
+          git config user.email "actions@github.com"
+          git add data/snapshots data/history data/ralagen.json
+          git diff --staged --quiet || git commit -m $(date -u +%F)"
+          git push
