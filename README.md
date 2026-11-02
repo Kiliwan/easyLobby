@@ -148,6 +148,5 @@ including a page-weight report printed to the console).
 
 ## Deployment
 
-GitHub Actions builds and publishes to GitHub Pages; a separate manual-only workflow refreshes
-the data. See `DEPLOY.md` for the setup checklist, including values that still need to be
-confirmed before the repo goes public.
+GitHub Actions builds and publishes the site to GitHub Pages on every push to `main`. A separate,
+manually triggered `ingest` workflow refreshes the data from the EFK register and commits it back.
