@@ -1,0 +1,66 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/545/forms/100",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "IG SRG-Initiative «200 Franken sind genug!», Dübendorf",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Hermann Ernst",
+            "natural_name": "Hess",
+            "natural_city": "Amriswil",
+            "living_abroad": false,
+            "value": "20'000.00",
+            "date": "25.06.2025"
+          }
+        ],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Stiftung für bürgerliche Politik",
+            "juristic_city": "Zug",
+            "value": "100'000.00",
+            "date": "21.11.2025"
+          },
+          {
+            "juristic_name": "Schweizerische Volkspartei",
+            "juristic_city": "Bern",
+            "value": "50'000.00",
+            "date": "29.08.2025"
+          },
+          {
+            "juristic_name": "Avenergy Suisse",
+            "juristic_city": "Zürich",
+            "value": "75'000.00",
+            "date": "19.09.2025"
+          },
+          {
+            "juristic_name": "Meutel 2000 SA",
+            "juristic_city": "Lugano",
+            "value": "150'000.00",
+            "date": "07.01.2026"
+          },
+          {
+            "juristic_name": "Schweizerischer Gewerbeverband",
+            "juristic_city": "Bern",
+            "value": "680'000.00",
+            "date": "25.03.2026"
+          },
+          {
+            "juristic_name": "BFG HALTER KLG",
+            "juristic_city": "Schlieren",
+            "value": "100'000.00",
+            "date": "02.02.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "78aac022288ed20d879d79a7e2a0ae36e8a362f90b8493af61106e7a5151ca7c"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/528/forms/87",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Jeunesse Socialiste Suisse, Bern",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 432'722.57",
+        "monetary_allowances": "CHF 313'199.22",
+        "non_monetary_allowances": "CHF 2'310.00",
+        "events": "CHF 1'589.97",
+        "sales": "CHF 18'034.63",
+        "equity": "CHF 97'588.75"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "757eb08c9366e6b0e85e58d48bcbd12cd6f078849f7969a9df268af33914387a"
+  }
+}

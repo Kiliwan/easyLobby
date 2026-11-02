@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/540/forms/83",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Le Centre, Bern",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 188'000.00",
+        "monetary_allowances": "CHF 64'700.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 123'300.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "e2c20ff44fc832cb56d626174914e5c049fa9acf98bfa24cd4876ac3b14b57ec"
+  }
+}

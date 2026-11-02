@@ -1,0 +1,52 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/532/forms/68",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Association suisse pour la promotion de l'engagement de milice, Genève",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Leopold",
+            "natural_name": "Brügger",
+            "natural_city": "Männedorf (ZH)",
+            "living_abroad": false,
+            "value": "30'000.00",
+            "date": "28.07.2025"
+          },
+          {
+            "natural_first_name": "Pascal",
+            "natural_name": "Gueissaz",
+            "natural_city": "Lausanne (VD)",
+            "living_abroad": false,
+            "value": "15'000.00",
+            "date": "16.09.2025"
+          },
+          {
+            "natural_first_name": "Claude Pascal",
+            "natural_name": "Angéloz",
+            "natural_city": "Zürich",
+            "living_abroad": false,
+            "value": "25'000.00",
+            "date": "15.10.2025"
+          }
+        ],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Bonny Stiftung für Freiheit",
+            "juristic_city": "Berne (BE)",
+            "value": "25'000.00",
+            "date": "11.09.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "dfaf27166dda6148b8a6e3a3e659e91bc770f26d1ea2f69f6beb9fdde1438412"
+  }
+}

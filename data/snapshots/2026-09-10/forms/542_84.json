@@ -1,0 +1,72 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/542/forms/84",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "JA zur Individualbesteuerung, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Simon",
+            "natural_name": "Michel",
+            "natural_city": "Solothurn",
+            "living_abroad": false,
+            "value": "25'000.00",
+            "date": "23.02.2026"
+          }
+        ],
+        "juristic_monetary": [
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "Zürich",
+            "value": "300'000.00",
+            "date": "12.11.2025"
+          },
+          {
+            "juristic_name": "Sulzer Management AG",
+            "juristic_city": "Winterthur",
+            "value": "25'000.00",
+            "date": "13.11.2025"
+          },
+          {
+            "juristic_name": "Müller-Möhl Foundation",
+            "juristic_city": "Zürich",
+            "value": "150'000.00",
+            "date": "01.12.2025"
+          },
+          {
+            "juristic_name": "Bonny Stiftung für Freiheit",
+            "juristic_city": "Bern",
+            "value": "15'000.00",
+            "date": "22.12.2025"
+          },
+          {
+            "juristic_name": "Zürcher Handelskammer",
+            "juristic_city": "Zürich",
+            "value": "50'000.00",
+            "date": "24.12.2025"
+          },
+          {
+            "juristic_name": "FDP.Die Liberalen Schweiz",
+            "juristic_city": "Bern",
+            "value": "50'000.00",
+            "date": "23.02.2026"
+          },
+          {
+            "juristic_name": "Müller-Möhl Foundation",
+            "juristic_city": "Zürich",
+            "value": "25'000.00",
+            "date": "20.02.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "b8c9bccec3f2fb1a22b21e3502f3e1c368950e1fe2944c841f88da023d6d086e"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/541/forms/99",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Union Démocratique Fédérale Suisse (UDF Suisse), Thoune",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 118'337.72",
+        "monetary_allowances": "CHF 39'446.70",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 78'891.02"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "cb0cf797f67e1be92169f6319bf511428a6bba6b7015d4744a636665b09eac4b"
+  }
+}

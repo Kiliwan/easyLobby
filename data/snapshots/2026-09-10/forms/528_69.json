@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/528/forms/69",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Jeunesse Socialiste Suisse, Bern",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 395'700.00",
+        "monetary_allowances": "CHF 341'000.00",
+        "non_monetary_allowances": "CHF 2'310.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 24'390.00",
+        "equity": "CHF 28'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "16e53504f7807a63a83de20e47e782a5774dcb0e0fa89ee0802ee528e5abf044"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/528/forms/70",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Jeunesse Socialiste Suisse, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Beat",
+            "natural_name": "Weber",
+            "natural_city": "Winterthur",
+            "living_abroad": false,
+            "value": "16'205.00",
+            "date": "30.09.2025"
+          }
+        ],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Sozialdemokratische Partei der Schweiz",
+            "juristic_city": "Bern",
+            "value": "45'000.00",
+            "date": "20.06.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "281de200ac63679d5477c5aa900ff02c44ad66f4bafe2c9d53392900f1f48fa3"
+  }
+}

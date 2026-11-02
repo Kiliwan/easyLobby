@@ -1,0 +1,37 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/533/forms/68",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Amicale Populaire et Patriotique pour un Service Citoyen, Villarzel",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Leopold",
+            "natural_name": "Brügger",
+            "natural_city": "Männedorf (ZH)",
+            "living_abroad": false,
+            "value": "100'000.00",
+            "date": "08.10.2025"
+          },
+          {
+            "natural_first_name": "Leopold",
+            "natural_name": "Brügger",
+            "natural_city": "Männedorf",
+            "living_abroad": false,
+            "value": "125'000.00",
+            "date": "29.10.2025"
+          }
+        ],
+        "juristic_monetary": [],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "d26c0e6616ff9f94ba7a8b91d9994289d24c06980ecf1e9656154d8d2472f7b8"
+  }
+}

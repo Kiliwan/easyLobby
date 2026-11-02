@@ -1,0 +1,42 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/550/forms/82",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Allianz \"NEIN zum Klima-Schuldenfonds\", Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "8032 Zürich",
+            "value": "1'200'000.00",
+            "date": "26.11.2025"
+          },
+          {
+            "juristic_name": "Avenergy Suisse",
+            "juristic_city": "8001 Zürich",
+            "value": "150'000.00",
+            "date": "11.12.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "8032 Zürich",
+            "service_type": "Prestation de services",
+            "service_description": "Löhne",
+            "value": "16'380.00",
+            "date": "21.01.2026"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "af99942ced875dfc45f855c35266070d047455d9c6c3b05a7e252245fa9eb420"
+  }
+}

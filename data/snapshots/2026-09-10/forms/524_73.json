@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/524/forms/73",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Referendumskomitee E-ID 2.0, Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 120'900.45",
+        "monetary_allowances": "CHF 120'900.45",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "7baf3b7d3fbfbb68b27fb353cfe2b70d058454ace993ce1ee8330254670be6b5"
+  }
+}

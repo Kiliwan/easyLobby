@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/520/forms/67",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Parti Pirate Suisse, Berne",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 10'000.00",
+        "monetary_allowances": "CHF 5'000.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 5'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "c91fb0e8b62b7f7cc86ecfe293eff504c31c0336720a3c4c48904e05194a6273"
+  }
+}

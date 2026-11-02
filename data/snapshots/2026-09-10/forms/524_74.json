@@ -1,0 +1,29 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/524/forms/74",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Referendumskomitee E-ID 2.0, Zürich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Stephan",
+            "natural_name": "Kocher",
+            "natural_city": "Bremgarten AG",
+            "living_abroad": false,
+            "value": "90'000.00",
+            "date": "02.09.2025"
+          }
+        ],
+        "juristic_monetary": [],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "714bb8a75f0f9e70233c4f97619e632fde2d5ccf844985f29593e7856941e216"
+  }
+}

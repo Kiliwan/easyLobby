@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/542/forms/97",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "JA zur Individualbesteuerung, Bern",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 746'677.50",
+        "monetary_allowances": "CHF 724'677.50",
+        "non_monetary_allowances": "CHF 20'000.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "5cd4247743b4ccea856e6ad36f9401a0272b85bda539c744638346570fb0ffb9"
+  }
+}

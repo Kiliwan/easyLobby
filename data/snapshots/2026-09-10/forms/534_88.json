@@ -1,0 +1,45 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/534/forms/88",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Allianz \"Nein zur extremen Juso-Initiative\", Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "Zürich",
+            "value": "1'000'000.00",
+            "date": "19.09.2025"
+          },
+          {
+            "juristic_name": "Handelskammer beider Basel",
+            "juristic_city": "Basel",
+            "value": "20'000.00",
+            "date": "24.09.2025"
+          },
+          {
+            "juristic_name": "Verein Mehrwert Schweiz",
+            "juristic_city": "Bern",
+            "value": "100'000.00",
+            "date": "09.10.2025"
+          },
+          {
+            "juristic_name": "Zürcher Handelskammer",
+            "juristic_city": "Zürich",
+            "value": "20'000.00",
+            "date": "25.11.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "eb77701f0d569a70a479963a44ed1cdf1000f7d40fe382ae4e78a6144e441491"
+  }
+}

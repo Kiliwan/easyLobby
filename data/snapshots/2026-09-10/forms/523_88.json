@@ -1,0 +1,29 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/523/forms/88",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Swissmem, Zürich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "swissmem",
+            "juristic_city": "zürich",
+            "service_type": "Prestation de services",
+            "service_description": "arbeit an der kampagne",
+            "value": "17'300.00",
+            "date": "30.11.2025"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "b97392472c24bf2fda9f7fb59db1b52ba1ea7ac868cd2bca34c34ce163b6458f"
+  }
+}

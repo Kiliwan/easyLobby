@@ -1,0 +1,39 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/537/forms/86",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Allianz Sicherheit Schweiz, Zürich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Verband Militärischer Gesellschaften VMG",
+            "juristic_city": "Zürich",
+            "value": "25'000.00",
+            "date": "18.11.2025"
+          },
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "Zürich",
+            "value": "125'000.00",
+            "date": "03.11.2025"
+          },
+          {
+            "juristic_name": "Swissmem",
+            "juristic_city": "Zürich",
+            "value": "25'000.00",
+            "date": "13.10.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "ddd61ea8f108b62a46f262a9c3897989a2dd265b3a6b7522c35c89b79b570965"
+  }
+}

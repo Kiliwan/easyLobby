@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/538/forms/87",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Union suisse des arts et métiers, Berne",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 250'050.00",
+        "monetary_allowances": "CHF 50'050.00",
+        "non_monetary_allowances": "CHF 30'000.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 170'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "0ca7afddc23d3e7c76f6a9660717106569ed7a06be987eb637edf5028b284b8d"
+  }
+}
