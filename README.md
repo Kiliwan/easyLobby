@@ -11,10 +11,6 @@ the numbers hidden a click deep. This project republishes the vote-campaign subs
 screen per ballot object: a full-width Yes/No bar on the index, a mirrored donor breakdown on
 the detail page.
 
-Full design reasoning lives in the spec:
-`docs/superpowers/specs/2026-09-09-swiss-campaign-finance-design.md`. The implementation plan
-is under `.superpowers/sdd/2026-09-09-swiss-campaign-finance/`.
-
 ## Data source and licence
 
 Data comes from the EFK's undocumented JSON API. It requires no authentication and is fetched
