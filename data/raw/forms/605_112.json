@@ -1,0 +1,27 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/605/forms/112",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Überparteiliches Komitee Nein zur Neutralitätsinitiative, Zürich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "economiesuisse Verband der Schweizer Unternehmen",
+            "juristic_city": "Zürich",
+            "value": "1'200'000.00",
+            "date": "20.05.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "d5394e8d0ff0814298680b1f2d222367d95ab91c640e1e95d83df5273301bd28"
+  }
+}

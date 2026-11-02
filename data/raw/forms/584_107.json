@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/584/forms/107",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Organisation suisse d'aide aux réfugiés OSAR, Berne",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 303'000.00",
+        "monetary_allowances": "CHF 10'000.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 293'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "5f30b69bca08e658145a2171ecacb453fa7483e4bd64ecbb8bd17243ce5396f3"
+  }
+}

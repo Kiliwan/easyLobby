@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/606/forms/131",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Swissmem, Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 750'000.00",
+        "monetary_allowances": "CHF 250'000.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 500'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "b21a3be90b98830d3beb3d05831011557a27d30abd3d271acf96d47d8d5617e8"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/608/forms/111",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Jeune Union démocratique du centre, Oberwil im Simmental",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 51'263.95",
+        "monetary_allowances": "CHF 42'000.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 9'263.95"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "b66b41ab66ab19d4e71e51d6966d3a957d89a5d9a1436c3dcdda79795a80775c"
+  }
+}

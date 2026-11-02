@@ -1,0 +1,78 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/597/forms/114",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Union Suisse des Paysans (USP), Brugg",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "BO Milch",
+            "juristic_city": "Bern",
+            "value": "100'000.00",
+            "date": "23.04.2026"
+          },
+          {
+            "juristic_name": "Vereinigung der Schweizerischen Milchindustrie",
+            "juristic_city": "Bern",
+            "value": "60'000.00",
+            "date": "06.07.2026"
+          },
+          {
+            "juristic_name": "Fromarte",
+            "juristic_city": "Bern",
+            "value": "40'000.00",
+            "date": "21.04.2026"
+          },
+          {
+            "juristic_name": "Schweizer Milchproduzenten",
+            "juristic_city": "Bern",
+            "value": "350'000.00",
+            "date": "02.04.2026"
+          },
+          {
+            "juristic_name": "Gastrosuisse",
+            "juristic_city": "Zürich",
+            "value": "120'000.00",
+            "date": "02.04.2026"
+          },
+          {
+            "juristic_name": "Gallosuisse",
+            "juristic_city": "Zollikofen",
+            "value": "58'500.00",
+            "date": "28.05.2026"
+          },
+          {
+            "juristic_name": "Proviande",
+            "juristic_city": "Bern",
+            "value": "600'000.00",
+            "date": "29.06.2026"
+          },
+          {
+            "juristic_name": "Arbeitsgemeinschaft Schweizerischer Rinderzüchter",
+            "juristic_city": "Zollikofen",
+            "value": "15'000.00",
+            "date": "21.01.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Schweizer Bauernverband",
+            "juristic_city": "Brugg",
+            "service_type": "Livraison de biens",
+            "service_description": "Arbeitsaufwand",
+            "value": "150'000.00",
+            "date": "11.08.2026"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "69562fb0752dde3635391dd497aa033cda9d7f9fb184ec95e9dbdff2cf875136"
+  }
+}

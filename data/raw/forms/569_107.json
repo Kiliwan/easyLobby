@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/569/forms/107",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Union syndicale suisse (USS), Berne",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 938'329.00",
+        "monetary_allowances": "CHF 844'943.00",
+        "non_monetary_allowances": "CHF 93'386.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "e48de75dd939d8e6afe4ef555463c3b51e6e16d5b1f6d59631416f68c5c221af"
+  }
+}

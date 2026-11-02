@@ -1,0 +1,42 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/604/forms/114",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Verein Sauberes Wasser für alle, Wiedlisbach",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Walter",
+            "natural_name": "Kummer",
+            "natural_city": "4539 Rumsiberg",
+            "living_abroad": false,
+            "value": "275'000.00",
+            "date": "21.07.2026"
+          }
+        ],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Visempio Stiftung",
+            "juristic_city": "8805 Richterswil",
+            "value": "205'000.00",
+            "date": "21.07.2026"
+          },
+          {
+            "juristic_name": "Visempio Stiftung",
+            "juristic_city": "8805 Richterswil",
+            "value": "200'000.00",
+            "date": "11.08.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "ddee6489d745daf4d73aab08c6463fb0fef13d4890a588ba7b496d8af0b3377a"
+  }
+}

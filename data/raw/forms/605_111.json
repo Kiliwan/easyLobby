@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/605/forms/111",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Überparteiliches Komitee Nein zur Neutralitätsinitiative, Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 1'200'000.00",
+        "monetary_allowances": "CHF 1'200'000.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "9e7c7f824a82c1962a48b54cd4410a9471734befe6c0b94b38b5e0f71f1e327c"
+  }
+}

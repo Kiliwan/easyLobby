@@ -1,0 +1,37 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/580/forms/108",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Sozialdemokratische Partei der Schweiz, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Sabine und Dominik",
+            "natural_name": "Brändlin",
+            "natural_city": "Liestal",
+            "living_abroad": false,
+            "value": "20'000.00",
+            "date": "12.05.2026"
+          },
+          {
+            "natural_first_name": "Urs und Theresa",
+            "natural_name": "Murbach und Nussbaum",
+            "natural_city": "Au",
+            "living_abroad": false,
+            "value": "40'000.00",
+            "date": "06.05.2026"
+          }
+        ],
+        "juristic_monetary": [],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "2dc23d0ef56e2be66561fefd0eecacd8fa579448409f223a3dc93bc08d5ec008"
+  }
+}

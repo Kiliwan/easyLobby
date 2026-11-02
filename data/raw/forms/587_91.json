@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/587/forms/91",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Société Suisse des hôteliers (SSH), Berne",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 110'000.00",
+        "monetary_allowances": "CHF 0.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 110'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "c0b74c8bbc6a8c989f2f6ffb37d1959b5b7e22cb7954b233f53a7067491aedd6"
+  }
+}

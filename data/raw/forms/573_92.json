@@ -1,0 +1,45 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/573/forms/92",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Comité du tourisme, Berne",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Schweizer Tourismus-Verband",
+            "juristic_city": "Bern",
+            "value": "50'000.00",
+            "date": "16.03.2026"
+          },
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "Zürich",
+            "value": "50'000.00",
+            "date": "24.03.2026"
+          },
+          {
+            "juristic_name": "HotellerieSuisse",
+            "juristic_city": "Bern",
+            "value": "15'000.00",
+            "date": "19.03.2026"
+          },
+          {
+            "juristic_name": "GastroSuisse",
+            "juristic_city": "Zürich",
+            "value": "15'000.00",
+            "date": "05.03.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "b519096ef076f7ad2d8a43c8e76fb10eb49a21149f4747a0cc0d1484905720b3"
+  }
+}

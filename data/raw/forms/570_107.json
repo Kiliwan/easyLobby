@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/570/forms/107",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Schweizerische Volkspartei des Kantons Zürich, Dübendorf",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 428'460.74",
+        "monetary_allowances": "CHF 108'460.74",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 320'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "532229a4e3916fbd7f76c0eb155c8264cb4012d89738d638db89e1ee8a5162d9"
+  }
+}
