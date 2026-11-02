@@ -1,0 +1,27 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/617/forms/132",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Offiziersgesellschaft des Kantons St.Gallen, St. Gallen",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Kantonale St.Gallische Winkelriedstiftung",
+            "juristic_city": "St. Gallen",
+            "value": "100'000.00",
+            "date": "28.09.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "67e58f0f3ee87568e0fadf9d6ad0a20173ae57bddd7a871d5537c31af9b16bf8"
+  }
+}

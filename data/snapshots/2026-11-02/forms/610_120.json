@@ -1,0 +1,29 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/610/forms/120",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Union syndicale suisse (USS), Berne",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Schweizerischer Gewerkschaftsbund",
+            "juristic_city": "Bern",
+            "service_type": "Prestation de services",
+            "service_description": "Kampagnenenarbeit mit internen Ressourcen",
+            "value": "25'000.00",
+            "date": "20.08.2026"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "17b5871f5665bd346df50aa83ff907cf118dea86e585e34768685f90279d0e6a"
+  }
+}

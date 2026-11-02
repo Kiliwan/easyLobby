@@ -1,0 +1,33 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/615/forms/124",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Verein für eine Einschränkung von Feuerwerk, Bern 8",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Schweizer Tierschutz STS",
+            "juristic_city": "Basel",
+            "value": "150'000.00",
+            "date": "01.10.2026"
+          },
+          {
+            "juristic_name": "VIER PFOTEN",
+            "juristic_city": "Zürich",
+            "value": "210'000.00",
+            "date": "01.10.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "1966cf716bb1c8cf5f4af21bf6f199b754eb1b9a14b09ffa83c4bf0ed92d7444"
+  }
+}

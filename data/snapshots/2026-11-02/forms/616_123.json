@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/616/forms/123",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Protection Suisse des Animaux PSA, Bâle",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 350'000.00",
+        "monetary_allowances": "CHF 150'000.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 200'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "c8f93382428db080e733ca72d241d5714ee45ac15a0a8a207a41bba215a526a6"
+  }
+}

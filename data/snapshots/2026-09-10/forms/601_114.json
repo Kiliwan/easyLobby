@@ -1,0 +1,33 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/601/forms/114",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Agri Médias Sàrl, Lausanne",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Prométerre",
+            "juristic_city": "Lausanne",
+            "value": "50'000.00",
+            "date": "05.06.2026"
+          },
+          {
+            "juristic_name": "AgorA",
+            "juristic_city": "Lausanne",
+            "value": "50'000.00",
+            "date": "05.06.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "39f7050db6ac83afb9a383d838c187e1284fabea3193990f926927238fedbf80"
+  }
+}

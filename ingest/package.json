@@ -1,0 +1,20 @@
+{
+  "name": "ingest",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/run.ts",
+    "contract": "tsx src/contract.ts",
+    "fixture-data": "tsx scripts/build-fixture-data.ts",
+    "from-cache": "tsx scripts/build-from-cache.ts",
+    "fetch-results": "tsx scripts/fetch-results.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "vitest": "^4.1.11"
+  }
+}

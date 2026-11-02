@@ -1,0 +1,83 @@
+{
+  "data": {
+    "tree_roots": [
+      {
+        "id": 27,
+        "label": "08.03.2026 Élection au Conseil national (Appenzell Rhodes-Extérieures)",
+        "type": "campaign_financing",
+        "header_text": "2026",
+        "children": [
+          {
+            "id": 2,
+            "label": "Recettes et libéralités budgétées",
+            "type": "download",
+            "download_path": "/api/frontend/latest/fr/downloads/financings/27?with_budget=true",
+            "children": []
+          },
+          {
+            "id": 3,
+            "label": "Décompte final des recettes et des libéralités",
+            "type": "download",
+            "download_path": "/api/frontend/latest/fr/downloads/financings/27?with_budget=false",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "label": "29.06.2025 Élection au Conseil des États (Schaffhouse)",
+        "type": "campaign_financing",
+        "header_text": "2025",
+        "children": [
+          {
+            "id": 2,
+            "label": "Décompte final des recettes et des libéralités",
+            "type": "download",
+            "download_path": "/api/frontend/latest/fr/downloads/financings/22?with_budget=false",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "label": "22.10.2023 Élections au Conseil national 2023",
+        "type": "campaign_financing",
+        "header_text": "2023",
+        "children": [
+          {
+            "id": 2,
+            "label": "Recettes et libéralités budgétées",
+            "type": "download",
+            "download_path": "/api/frontend/latest/fr/downloads/financings/1?with_budget=true",
+            "children": []
+          },
+          {
+            "id": 3,
+            "label": "Décompte final des recettes et des libéralités",
+            "type": "download",
+            "download_path": "/api/frontend/latest/fr/downloads/financings/1?with_budget=false",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "label": "22.10.2023 Élections au Conseil des États 2023",
+        "type": "campaign_financing",
+        "children": [
+          {
+            "id": 2,
+            "label": "Décompte final des recettes et des libéralités",
+            "type": "download",
+            "download_path": "/api/frontend/latest/fr/downloads/financings/2?with_budget=false",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "be0ed54a3f09b3e17be679cdf21005402525a70cd3239f8140954ffae0594bc2"
+  }
+}
