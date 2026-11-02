@@ -4,7 +4,9 @@ on:
   workflow_dispatch:
   # Uncomment to run unattended, daily at 06:00 CEST / 05:00 CET. The reuse
   # licence is settled (EFK data is opendata.swiss `terms_open`, verified
-  # 2026-09-15), so this is unblocked.
+  # 2026-09-15), so this is unblocked. It still means
+  # an unattended daily crawl of a federal government server: enable it
+  # deliberately, and leave the politeness limits in ingest/src/config.ts alone.
   # schedule:
   #   - cron: '0 4 * * *'
 
@@ -38,6 +40,6 @@ jobs:
         run: |
           git config user.name "ingest bot"
           git config user.email "actions@github.com"
-          git add data/snapshots data/history data/ralagen.json
-          git diff --staged --quiet || git commit -m $(date -u +%F)"
+          git add data/snapshots data/history data/raw data/slugs.json data/vorlagen.json
+          git diff --staged --quiet || git commit -m "chore: register snapshot $(date -u +%F)"
           git push

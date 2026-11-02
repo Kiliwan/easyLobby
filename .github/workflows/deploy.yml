@@ -33,21 +33,7 @@ jobs:
 
       - run: npm ci
 
-      # data/normalised/ is gitignored, so votes.json
-      # fresh checkout. This regenerates it from the
-      # data/snapshots/ caches — no network access, n
-      - run: npm run from-cache --workspace ingest
-
-      - run: npm test --workspaces
-
-      - run: npm run build --workspace site
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-
-      - run: npm ci
-
-      # data/normalised/ is gitignored, so votes.json
+      # data/normalised/ is gitignored, so votes.json does not exist in a
       # fresh checkout. This regenerates it from the committed data/raw/ and
       # data/snapshots/ caches — no network access, no live fetch.
       - run: npm run from-cache --workspace ingest
