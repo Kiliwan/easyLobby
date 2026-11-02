@@ -1,0 +1,27 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/513/forms/64",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Hauseigentümerverband Thurgau, Kreuzlingen",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "HEV Schweiz",
+            "juristic_city": "Zürich",
+            "value": "50'000.00",
+            "date": "22.05.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "450c1188e82d354bfd6e0752f1e0f3f11e0008e02fcb2aa25a555f1c5171a9a6"
+  }
+}

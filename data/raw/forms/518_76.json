@@ -1,0 +1,33 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/518/forms/76",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Hauseigentümerverband Kanton Bern, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Hauseigentümerverband Schweiz",
+            "juristic_city": "Zürich",
+            "value": "75'000.00",
+            "date": "16.06.2025"
+          },
+          {
+            "juristic_name": "Hauseigentümerverband Bern und Umgebung",
+            "juristic_city": "Bern",
+            "value": "20'000.00",
+            "date": "30.05.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "982b10696da4afdf4f5db82c734820849d9102d9d92249f807a982628c78158e"
+  }
+}

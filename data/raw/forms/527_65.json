@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/527/forms/65",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Union Démocratique Fédérale Suisse (UDF Suisse), Thoune",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 150'000.00",
+        "monetary_allowances": "CHF 70'000.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 80'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "d1ab96faca1ae1d0cdbade4200dbd8648b6feb0d68954455197153640acaeef7"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/512/forms/74",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Wirtschaftskomitee Schweizer e-ID, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "Zürich",
+            "value": "220'000.00",
+            "date": "08.08.2025"
+          },
+          {
+            "juristic_name": "Swisscom",
+            "juristic_city": "Bern",
+            "value": "32'430.00",
+            "date": "01.10.2025"
+          },
+          {
+            "juristic_name": "Schweizerischer Versicherungsverband SVV",
+            "juristic_city": "Zürich",
+            "value": "50'000.00",
+            "date": "19.09.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "b273baff359d7c0103d404b57a9381a4f6626d428308b6e0ddb221952d7b8502"
+  }
+}

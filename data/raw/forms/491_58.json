@@ -1,0 +1,39 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/491/forms/58",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Union suisse des arts et métiers, Berne",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "economiesuisse",
+            "juristic_city": "Zürich",
+            "value": "9'250.75",
+            "date": "10.12.2024"
+          },
+          {
+            "juristic_name": "strasseschweiz",
+            "juristic_city": "Zürich",
+            "value": "23'126.75",
+            "date": "12.12.2024"
+          },
+          {
+            "juristic_name": "Bund für mehr Wohnraum",
+            "juristic_city": "Zürich",
+            "value": "10'500.00",
+            "date": "03.12.2024"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "f5a1769ef1be01fda7579e17bcccd1ec2398ec3a990a819d973d7ab26ca9b6cb"
+  }
+}

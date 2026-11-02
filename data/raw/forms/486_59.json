@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/486/forms/59",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Jeunes Vert-e-s Suisse, Berne",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 187'751.84",
+        "monetary_allowances": "CHF 120'680.64",
+        "non_monetary_allowances": "CHF 23'072.70",
+        "events": "CHF 0.00",
+        "sales": "CHF 2'594.61",
+        "equity": "CHF 41'403.89"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "44d12fe682d88e8b7933b8b85176c7b2212a3eff8f98fbde34ecb34fc8d66fa8"
+  }
+}

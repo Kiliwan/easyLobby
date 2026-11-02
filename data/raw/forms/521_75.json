@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/521/forms/75",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Association suisse de l'économie immobilière SVIT (\"SVIT Suisse\"), Zurich",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 61'000.00",
+        "monetary_allowances": "CHF 0.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 61'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "b035025dd798217e63315ed2709109a3ad382f9cf79fe1bf66ea7d1ef2fe2037"
+  }
+}

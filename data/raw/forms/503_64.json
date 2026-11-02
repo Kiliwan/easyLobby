@@ -1,0 +1,33 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/503/forms/64",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Hauseigentümer-Verband Kanton St. Gallen, St. Gallen",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Hauseigentümerverband Schweiz (HEV Schweiz)",
+            "juristic_city": "Zürich",
+            "value": "75'000.00",
+            "date": "16.07.2025"
+          },
+          {
+            "juristic_name": "Kantonaler Gewerbeverband St.Gallen",
+            "juristic_city": "St.Gallen",
+            "value": "20'000.00",
+            "date": "22.07.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "21774e0303f20e9cd6b4974da644b29fe4133bfc322f579c38c36db70ffaa9cb"
+  }
+}

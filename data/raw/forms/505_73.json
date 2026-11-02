@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/505/forms/73",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "MASS-VOLL!, Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 186'928.03",
+        "monetary_allowances": "CHF 159'219.52",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 8'814.00",
+        "equity": "CHF 18'894.51"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "6c47088ddbb12a205346c4cfd3a2001a00e4873d1091353e495d1029c6c5631c"
+  }
+}

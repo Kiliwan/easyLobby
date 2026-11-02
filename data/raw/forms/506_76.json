@@ -1,0 +1,44 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/506/forms/76",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Überparteiliches Komitee JA zur Abschaffung des Eigenmietwerts (HEV Schweiz), Zürich",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Hauseigentümerverband (HEV) Schweiz",
+            "juristic_city": "Zürich",
+            "value": "4'972'939.51",
+            "date": "21.08.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Hauseigentümerverband (HEV) Schweiz",
+            "juristic_city": "Zürich",
+            "service_type": "Prestation de services",
+            "service_description": "Kampagnenführung und Inserate in der Verbandszeitung",
+            "value": "212'160.00",
+            "date": "28.02.2025"
+          },
+          {
+            "juristic_name": "Hauseigentümerverband (HEV) Schweiz",
+            "juristic_city": "Zürich",
+            "service_type": "Livraison de biens",
+            "service_description": "Inserate in der Verbandszeitung",
+            "value": "71'116.00",
+            "date": "01.09.2025"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "b18db90d46d4c5d5c9e130747835932c866fbfa9a719e29b0bcbfee8398984e8"
+  }
+}

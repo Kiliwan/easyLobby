@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/526/forms/69",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Chambre de commerce, d'industrie et des services de Genève, Genève",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 135'000.00",
+        "monetary_allowances": "CHF 55'000.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 80'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "9179f743b021d261edc64c073e21c4d2f097adf9fd94338af1167b4fc439369f"
+  }
+}

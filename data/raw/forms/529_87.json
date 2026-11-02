@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/529/forms/87",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Industrie und Handelskammer St. Gallen-Appenzell, St. Gallen",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 93'653.71",
+        "monetary_allowances": "CHF 66'125.56",
+        "non_monetary_allowances": "CHF 8'000.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 19'528.15"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "f0913f0819d99e60817a0ad8a262a1c9c5334c88bf0ef146a183217268c5af40"
+  }
+}

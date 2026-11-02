@@ -1,0 +1,39 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/526/forms/70",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Chambre de commerce, d'industrie et des services de Genève, Genève",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Association de Banques Privées Suisses",
+            "juristic_city": "Genève",
+            "value": "25'000.00",
+            "date": "22.07.2025"
+          },
+          {
+            "juristic_name": "Parti Libéral-Radical Genève",
+            "juristic_city": "Genève",
+            "value": "10'000.00",
+            "date": "01.10.2025"
+          },
+          {
+            "juristic_name": "Fédération des entreprises romandes Genève (FER Genève)",
+            "juristic_city": "Genève",
+            "value": "20'000.00",
+            "date": "02.10.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "0c035a45b48835da7f9529eb9818aea14e104be436dabaa880392f0f465454bd"
+  }
+}

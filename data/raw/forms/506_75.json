@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/506/forms/75",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Überparteiliches Komitee JA zur Abschaffung des Eigenmietwerts (HEV Schweiz), Zürich",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Adoption de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 5'256'215.51",
+        "monetary_allowances": "CHF 4'972'939.51",
+        "non_monetary_allowances": "CHF 283'276.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 0.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "e33e2aae8d6d9a333aeb55ab2c32d23b356e6cdd7a3557e4964c61288eb45b2d"
+  }
+}

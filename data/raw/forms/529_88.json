@@ -1,0 +1,36 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs (décompte final)",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/529/forms/88",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "Industrie und Handelskammer St. Gallen-Appenzell, St. Gallen",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Industrie- und Handelskammer Thurgau (IHK Thurgau)",
+            "juristic_city": "Weinfelden",
+            "value": "19'625.56",
+            "date": "04.12.2025"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Industrie- und Handelskammer Thurgau (IHK Thurgau)",
+            "juristic_city": "Weinfelden",
+            "service_type": "Prestation de services",
+            "service_description": "Koordinationsaufgaben zur Erstellung von Plakaten und Buchung der Plakatwände für den Kanton Thurgau.",
+            "value": "8'000.00",
+            "date": "06.01.2026"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "ff33e49bfabd088e1cbb484c6208e719278191189ccae2395a535a6f8b9db5b5"
+  }
+}
