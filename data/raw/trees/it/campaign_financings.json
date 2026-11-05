@@ -36,7 +36,7 @@
               },
               {
                 "id": 43,
-                "label": "PLR.I Liberali Radicali, Bern",
+                "label": "PLR.I Liberali Radicali, Berna",
                 "type": "actor",
                 "children": [
                   {
@@ -1232,7 +1232,7 @@
               },
               {
                 "id": 43,
-                "label": "PLR.I Liberali Radicali, Bern",
+                "label": "PLR.I Liberali Radicali, Berna",
                 "type": "actor",
                 "children": [
                   {
@@ -2626,7 +2626,7 @@
               },
               {
                 "id": 43,
-                "label": "PLR.I Liberali Radicali, Bern",
+                "label": "PLR.I Liberali Radicali, Berna",
                 "type": "actor",
                 "children": [
                   {
@@ -3211,7 +3211,7 @@
               },
               {
                 "id": 43,
-                "label": "PLR.I Liberali Radicali, Bern",
+                "label": "PLR.I Liberali Radicali, Berna",
                 "type": "actor",
                 "children": [
                   {
@@ -4395,7 +4395,7 @@
               },
               {
                 "id": 43,
-                "label": "PLR.I Liberali Radicali, Bern",
+                "label": "PLR.I Liberali Radicali, Berna",
                 "type": "actor",
                 "children": [
                   {
@@ -12089,7 +12089,7 @@
               },
               {
                 "id": 242,
-                "label": "FDP.Die Liberalen Frauen Schweiz, St. Gallen",
+                "label": "FDP.Die Liberalen Frauen Schweiz, Bern",
                 "type": "actor",
                 "children": [
                   {
@@ -15369,7 +15369,7 @@
               },
               {
                 "id": 43,
-                "label": "PLR.I Liberali Radicali, Bern",
+                "label": "PLR.I Liberali Radicali, Berna",
                 "type": "actor",
                 "children": [
                   {
@@ -18744,6 +18744,6 @@
   },
   "meta": {
     "powered_by": "Sitrox",
-    "data_checksum_sha256": "84b6e612b1d76ea4ac6b300d1ed63143937ebbe89084740abd9666dd88cf3d22"
+    "data_checksum_sha256": "7c1bdafa97938ccbdddcd42d0f218f4b66db7aa4839759642a1b92076ade0839"
   }
 }

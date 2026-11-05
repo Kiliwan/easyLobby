@@ -3,7 +3,7 @@
     "label": "Déclaration du décompte final des recettes",
     "download_path": "/api/frontend/latest/fr/downloads/campaigns/577/forms/107",
     "form_label": "Déclaration du décompte final des recettes.",
-    "actor_label": "PLR.Les Libéraux-Radicaux, Bern",
+    "actor_label": "PLR.Les Libéraux-Radicaux, Berne",
     "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
     "form_data": {
       "totals": {
@@ -18,6 +18,6 @@
   },
   "meta": {
     "powered_by": "Sitrox",
-    "data_checksum_sha256": "b9d86ab3d2916caf7c460b8934e6c9a538584b9fe13dc33b1c89bd2c1a47df7e"
+    "data_checksum_sha256": "a39901c788b963368341566eb651cdf2cd5ff520225864fc7173cf1938cdceb8"
   }
 }

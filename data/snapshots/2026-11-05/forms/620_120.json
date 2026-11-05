@@ -1,0 +1,87 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/620/forms/120",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "PLR.Les Libéraux-Radicaux, Berne",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Philip",
+            "natural_name": "Mosimann",
+            "natural_city": "9010 St. Gallen",
+            "living_abroad": false,
+            "value": "25'000.00",
+            "date": "31.08.2026"
+          }
+        ],
+        "juristic_monetary": [
+          {
+            "juristic_name": "Zürcher Handelskammer",
+            "juristic_city": "8021 Zürich",
+            "value": "40'000.00",
+            "date": "15.09.2026"
+          },
+          {
+            "juristic_name": "Buru Holding AG",
+            "juristic_city": "6330 Cham",
+            "value": "25'000.00",
+            "date": "25.09.2026"
+          },
+          {
+            "juristic_name": "Swissmem",
+            "juristic_city": "8005 Zürich",
+            "value": "50'000.00",
+            "date": "11.09.2026"
+          },
+          {
+            "juristic_name": "Bonny Stiftung für die Freiheit",
+            "juristic_city": "3001 Bern",
+            "value": "40'000.00",
+            "date": "16.09.2026"
+          },
+          {
+            "juristic_name": "Swiss Life AG",
+            "juristic_city": "8002 Zürich",
+            "value": "25'000.00",
+            "date": "09.10.2026"
+          },
+          {
+            "juristic_name": "Aktionskomitee für Freiheit und Verantwortung",
+            "juristic_city": "3011 Bern",
+            "value": "250'000.00",
+            "date": "12.10.2026"
+          },
+          {
+            "juristic_name": "Swiss Life AG",
+            "juristic_city": "8002 Zürich",
+            "value": "50'000.00",
+            "date": "28.09.2026"
+          },
+          {
+            "juristic_name": "auto-schweiz",
+            "juristic_city": "3006 Bern",
+            "value": "40'000.00",
+            "date": "15.10.2026"
+          }
+        ],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": [
+          {
+            "juristic_name": "Birkhäuser+GBC AG",
+            "juristic_city": "4153 Reinach",
+            "service_type": "Livraison de biens",
+            "service_description": "Sponsoring Flyer/Hauswurf (Druck und Lieferung)",
+            "value": "40'000.00",
+            "date": "14.10.2026"
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "0ffc3704fcc327be1c34e63509381269197c14177bf3482ede6d54d6de190af7"
+  }
+}

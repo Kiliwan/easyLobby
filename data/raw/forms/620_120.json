@@ -3,7 +3,7 @@
     "label": "Déclaration de libéralités supérieures à 15 000 francs",
     "download_path": "/api/frontend/latest/fr/downloads/campaigns/620/forms/120",
     "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
-    "actor_label": "PLR.Les Libéraux-Radicaux, Bern",
+    "actor_label": "PLR.Les Libéraux-Radicaux, Berne",
     "form_data": {
       "allowances": {
         "natural_monetary": [
@@ -82,6 +82,6 @@
   },
   "meta": {
     "powered_by": "Sitrox",
-    "data_checksum_sha256": "8458ef1b65361a9706ebf72a20dbbdf3bb1c25e6b8517b688a417707886ea4c7"
+    "data_checksum_sha256": "0ffc3704fcc327be1c34e63509381269197c14177bf3482ede6d54d6de190af7"
   }
 }

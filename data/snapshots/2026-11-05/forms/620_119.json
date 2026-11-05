@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/620/forms/119",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "PLR.Les Libéraux-Radicaux, Berne",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 889'590.00",
+        "monetary_allowances": "CHF 549'590.00",
+        "non_monetary_allowances": "CHF 40'000.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 300'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "4f6ccb93ae9396d948a7d8d1a2a9c9e07c1f0ce44ccb882eb5062aa89f04b37e"
+  }
+}

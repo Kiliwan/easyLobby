@@ -3,7 +3,7 @@
     "label": "Déclaration des recettes budgétées",
     "download_path": "/api/frontend/latest/fr/downloads/campaigns/559/forms/83",
     "form_label": "Déclaration des recettes budgétées.",
-    "actor_label": "PLR.Les Libéraux-Radicaux, Bern",
+    "actor_label": "PLR.Les Libéraux-Radicaux, Berne",
     "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Adoption de l'objet de la votation populaire.",
     "form_data": {
       "totals": {
@@ -18,6 +18,6 @@
   },
   "meta": {
     "powered_by": "Sitrox",
-    "data_checksum_sha256": "230553870270bb98e2dde5f5cfe4a21021f9fb13fb17f4ad628e7af4c64a36c6"
+    "data_checksum_sha256": "107fee27e75888ca00b3aa382346e1cb91b59e109a8e9202b8803804c0a96db0"
   }
 }
