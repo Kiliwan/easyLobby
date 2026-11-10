@@ -279,6 +279,36 @@
                 ]
               },
               {
+                "id": 242,
+                "label": "FDP.Die Liberalen Frauen Schweiz, Bern",
+                "type": "actor",
+                "children": [
+                  {
+                    "id": 624,
+                    "label": "Rifiuto dell'oggetto della votazione popolare",
+                    "type": "campaign",
+                    "children": [
+                      {
+                        "id": 127,
+                        "label": "Comunicazione delle entrate preventivate",
+                        "type": "form",
+                        "campaign_id": 624,
+                        "download_path": "/api/frontend/latest/it/downloads/campaigns/624/forms/127",
+                        "children": []
+                      },
+                      {
+                        "id": 128,
+                        "label": "Comunicazione di liberalità superiori a 15 000 franchi",
+                        "type": "form",
+                        "campaign_id": 624,
+                        "download_path": "/api/frontend/latest/it/downloads/campaigns/624/forms/128",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
                 "id": 439,
                 "label": "JA zur Individualbesteuerung, Bern",
                 "type": "actor",
@@ -18744,6 +18774,6 @@
   },
   "meta": {
     "powered_by": "Sitrox",
-    "data_checksum_sha256": "7c1bdafa97938ccbdddcd42d0f218f4b66db7aa4839759642a1b92076ade0839"
+    "data_checksum_sha256": "4d01234948fd94dc586602dc9a5407493966806f6bf427cb7c76e72d4a73603a"
   }
 }

@@ -279,6 +279,36 @@
                 ]
               },
               {
+                "id": 242,
+                "label": "FDP.Die Liberalen Frauen Schweiz, Bern",
+                "type": "actor",
+                "children": [
+                  {
+                    "id": 624,
+                    "label": "Ablehnung der Abstimmungsvorlage",
+                    "type": "campaign",
+                    "children": [
+                      {
+                        "id": 127,
+                        "label": "Offenlegung der budgetierten Einnahmen",
+                        "type": "form",
+                        "campaign_id": 624,
+                        "download_path": "/api/frontend/latest/de/downloads/campaigns/624/forms/127",
+                        "children": []
+                      },
+                      {
+                        "id": 128,
+                        "label": "Offenlegung von Zuwendungen über 15 000 Franken",
+                        "type": "form",
+                        "campaign_id": 624,
+                        "download_path": "/api/frontend/latest/de/downloads/campaigns/624/forms/128",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
                 "id": 439,
                 "label": "JA zur Individualbesteuerung, Bern",
                 "type": "actor",
@@ -18744,6 +18774,6 @@
   },
   "meta": {
     "powered_by": "Sitrox",
-    "data_checksum_sha256": "2e8eab34390310bdd86e5c47d26f6e64e5a0e4d8a761e38b51ec4fa63b437a8f"
+    "data_checksum_sha256": "a2462a9e6e83f0bd0672a994283a5060c6a4a5c93a3420335140600e4c750c79"
   }
 }

@@ -257,6 +257,36 @@
             "type": "actor_category",
             "children": [
               {
+                "id": 242,
+                "label": "FDP.Die Liberalen Frauen Schweiz, Bern",
+                "type": "actor",
+                "children": [
+                  {
+                    "id": 624,
+                    "label": "Rejet de l'objet de la votation populaire",
+                    "type": "campaign",
+                    "children": [
+                      {
+                        "id": 127,
+                        "label": "Déclaration des recettes budgétées",
+                        "type": "form",
+                        "campaign_id": 624,
+                        "download_path": "/api/frontend/latest/fr/downloads/campaigns/624/forms/127",
+                        "children": []
+                      },
+                      {
+                        "id": 128,
+                        "label": "Déclaration de libéralités supérieures à 15 000 francs",
+                        "type": "form",
+                        "campaign_id": 624,
+                        "download_path": "/api/frontend/latest/fr/downloads/campaigns/624/forms/128",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
                 "id": 439,
                 "label": "JA zur Individualbesteuerung, Bern",
                 "type": "actor",
@@ -18744,6 +18774,6 @@
   },
   "meta": {
     "powered_by": "Sitrox",
-    "data_checksum_sha256": "63b04bc880783dc85b9782b55e86f5544e51c2749f24f88b975e822595bc947e"
+    "data_checksum_sha256": "203e867e9f7d58cf866df4a800942e0be09b497e16a915233652e8933108d892"
   }
 }

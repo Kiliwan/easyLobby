@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/624/forms/127",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "FDP.Die Liberalen Frauen Schweiz, Bern",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 151'000.00",
+        "monetary_allowances": "CHF 150'000.00",
+        "non_monetary_allowances": "CHF 0.00",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 1'000.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "203f846e57cc0722e94badfeb710c69fdf11b7156471c10e9a67fe257ef39167"
+  }
+}

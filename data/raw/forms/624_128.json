@@ -1,0 +1,29 @@
+{
+  "data": {
+    "label": "Déclaration de libéralités supérieures à 15 000 francs",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/624/forms/128",
+    "form_label": "Déclaration de libéralités supérieures à 15 000 francs par donatrice ou par donateur.",
+    "actor_label": "FDP.Die Liberalen Frauen Schweiz, Bern",
+    "form_data": {
+      "allowances": {
+        "natural_monetary": [
+          {
+            "natural_first_name": "Carolina",
+            "natural_name": "Mülller-Möhl",
+            "natural_city": "Ebmatingen",
+            "living_abroad": false,
+            "value": "150'000.00",
+            "date": "28.10.2026"
+          }
+        ],
+        "juristic_monetary": [],
+        "natural_non_monetary": [],
+        "juristic_non_monetary": []
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "ba53361ae793f33d6f4a7dd355f6b0eaae068a12c18a6c12b8c83db166920c31"
+  }
+}
