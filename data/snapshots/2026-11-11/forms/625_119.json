@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration des recettes budgétées",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/625/forms/119",
+    "form_label": "Déclaration des recettes budgétées.",
+    "actor_label": "Syndicat suisse des services publics (SSP), Zurich",
+    "campaign_label": "Par les charges, le résultat de votation suivant est soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 54'221.27",
+        "monetary_allowances": "CHF 1'000.00",
+        "non_monetary_allowances": "CHF 19'077.27",
+        "events": "CHF 0.00",
+        "sales": "CHF 0.00",
+        "equity": "CHF 34'144.00"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "7d458d4cf7e616c625e7968c4ea753527bcc9963e35a48f0d87c7f6d13dd91b3"
+  }
+}

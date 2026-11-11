@@ -87,6 +87,28 @@
                 ]
               },
               {
+                "id": 408,
+                "label": "Syndicat suisse des services publics (SSP), Zurich",
+                "type": "actor",
+                "children": [
+                  {
+                    "id": 625,
+                    "label": "Rejet de l'objet de la votation populaire",
+                    "type": "campaign",
+                    "children": [
+                      {
+                        "id": 119,
+                        "label": "Déclaration des recettes budgétées",
+                        "type": "form",
+                        "campaign_id": 625,
+                        "download_path": "/api/frontend/latest/fr/downloads/campaigns/625/forms/119",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
                 "id": 42,
                 "label": "Union Démocratique du Centre (UDC), Bern",
                 "type": "actor",
@@ -18774,6 +18796,6 @@
   },
   "meta": {
     "powered_by": "Sitrox",
-    "data_checksum_sha256": "203e867e9f7d58cf866df4a800942e0be09b497e16a915233652e8933108d892"
+    "data_checksum_sha256": "81e4522aedde5497bf1c5aa892deae004e0cbd79b7bdf2a22ad50406a4b4860e"
   }
 }

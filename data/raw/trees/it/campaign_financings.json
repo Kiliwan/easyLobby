@@ -65,6 +65,28 @@
                 ]
               },
               {
+                "id": 408,
+                "label": "Sindacato svizzero dei servizi pubblici (SSP), Zurigo",
+                "type": "actor",
+                "children": [
+                  {
+                    "id": 625,
+                    "label": "Rifiuto dell'oggetto della votazione popolare",
+                    "type": "campaign",
+                    "children": [
+                      {
+                        "id": 119,
+                        "label": "Comunicazione delle entrate preventivate",
+                        "type": "form",
+                        "campaign_id": 625,
+                        "download_path": "/api/frontend/latest/it/downloads/campaigns/625/forms/119",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
                 "id": 8,
                 "label": "Sozialdemokratische Partei der Schweiz, Bern",
                 "type": "actor",
@@ -18774,6 +18796,6 @@
   },
   "meta": {
     "powered_by": "Sitrox",
-    "data_checksum_sha256": "4d01234948fd94dc586602dc9a5407493966806f6bf427cb7c76e72d4a73603a"
+    "data_checksum_sha256": "a00edea3e9309dbef6eeed315139fb5356f42a96e97b5dd7968882eae342a0fa"
   }
 }

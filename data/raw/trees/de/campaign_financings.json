@@ -125,6 +125,28 @@
                 ]
               },
               {
+                "id": 408,
+                "label": "Schweizerischer Verband des Personals öffentlicher Dienste (V.P.O.D.), Zürich",
+                "type": "actor",
+                "children": [
+                  {
+                    "id": 625,
+                    "label": "Ablehnung der Abstimmungsvorlage",
+                    "type": "campaign",
+                    "children": [
+                      {
+                        "id": 119,
+                        "label": "Offenlegung der budgetierten Einnahmen",
+                        "type": "form",
+                        "campaign_id": 625,
+                        "download_path": "/api/frontend/latest/de/downloads/campaigns/625/forms/119",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
                 "id": 8,
                 "label": "Sozialdemokratische Partei der Schweiz, Bern",
                 "type": "actor",
@@ -18774,6 +18796,6 @@
   },
   "meta": {
     "powered_by": "Sitrox",
-    "data_checksum_sha256": "a2462a9e6e83f0bd0672a994283a5060c6a4a5c93a3420335140600e4c750c79"
+    "data_checksum_sha256": "6e9af25c8dc4985b56c7227f061d931cac8bad382e56ce6df6f58dab86c8f403"
   }
 }
