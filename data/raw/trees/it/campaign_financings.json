@@ -3171,7 +3171,7 @@
               },
               {
                 "id": 93,
-                "label": "Gioventù Socialista Svizzera, Bern",
+                "label": "Gioventù Socialista Svizzera, Berna",
                 "type": "actor",
                 "children": [
                   {
@@ -12749,7 +12749,7 @@
               },
               {
                 "id": 93,
-                "label": "Gioventù Socialista Svizzera, Bern",
+                "label": "Gioventù Socialista Svizzera, Berna",
                 "type": "actor",
                 "children": [
                   {
@@ -18796,6 +18796,6 @@
   },
   "meta": {
     "powered_by": "Sitrox",
-    "data_checksum_sha256": "a00edea3e9309dbef6eeed315139fb5356f42a96e97b5dd7968882eae342a0fa"
+    "data_checksum_sha256": "f46a1787064ca8adec20b6429f4a00ceb977d409eaa987b2dcfb28ffeb0d0dc2"
   }
 }
