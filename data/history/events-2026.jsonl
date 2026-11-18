@@ -529,3 +529,4 @@
 {"ts":"2026-11-10T12:08:45.928Z","event":"form_first_seen","voteId":35,"campaignId":624,"formId":127,"checksum":"203f846e57cc0722e94badfeb710c69fdf11b7156471c10e9a67fe257ef39167","total":15100000}
 {"ts":"2026-11-10T12:08:45.928Z","event":"form_first_seen","voteId":35,"campaignId":624,"formId":128,"checksum":"ba53361ae793f33d6f4a7dd355f6b0eaae068a12c18a6c12b8c83db166920c31","total":null}
 {"ts":"2026-11-11T11:42:13.965Z","event":"form_first_seen","voteId":33,"campaignId":625,"formId":119,"checksum":"7d458d4cf7e616c625e7968c4ea753527bcc9963e35a48f0d87c7f6d13dd91b3","total":5422127}
+{"ts":"2026-11-18T12:41:28.148Z","event":"form_changed","voteId":36,"campaignId":618,"formId":132,"checksum":"16655b11b40ef1cad8c922a988d7dbeb9ec18831572020223ed4cc499baa12db","previousChecksum":"c02c3b7ec0e7945a0feafaf085ee81f006b7a8883c3be359dd4eb45f3ecce769","total":null,"previousTotal":null}

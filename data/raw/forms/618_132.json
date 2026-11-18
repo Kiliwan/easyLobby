@@ -13,6 +13,12 @@
             "juristic_city": "Bern",
             "value": "40'000.00",
             "date": "12.10.2026"
+          },
+          {
+            "juristic_name": "Gruppe für eine Schweiz ohne Armee",
+            "juristic_city": "Bern",
+            "value": "72'000.00",
+            "date": "07.11.2026"
           }
         ],
         "natural_non_monetary": [],
@@ -31,6 +37,6 @@
   },
   "meta": {
     "powered_by": "Sitrox",
-    "data_checksum_sha256": "c02c3b7ec0e7945a0feafaf085ee81f006b7a8883c3be359dd4eb45f3ecce769"
+    "data_checksum_sha256": "16655b11b40ef1cad8c922a988d7dbeb9ec18831572020223ed4cc499baa12db"
   }
 }
