@@ -621,6 +621,14 @@
                         "campaign_id": 600,
                         "download_path": "/api/frontend/latest/fr/downloads/campaigns/600/forms/111",
                         "children": []
+                      },
+                      {
+                        "id": 117,
+                        "label": "Déclaration du décompte final des recettes",
+                        "type": "form",
+                        "campaign_id": 600,
+                        "download_path": "/api/frontend/latest/fr/downloads/campaigns/600/forms/117",
+                        "children": []
                       }
                     ]
                   }
@@ -18796,6 +18804,6 @@
   },
   "meta": {
     "powered_by": "Sitrox",
-    "data_checksum_sha256": "f8fa1a42467032e68bce45bb906eb078833fc03077955ac6a93be2095544b43f"
+    "data_checksum_sha256": "545c86977afb86f9204f018c5aa0240880407714c77b00ddfb4e82b68c14b86d"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "label": "Déclaration du décompte final des recettes",
+    "download_path": "/api/frontend/latest/fr/downloads/campaigns/600/forms/117",
+    "form_label": "Déclaration du décompte final des recettes.",
+    "actor_label": "Operation Libero, Bern",
+    "campaign_label": "Par les charges, le résultat de votation suivant a été soutenu : Rejet de l'objet de la votation populaire.",
+    "form_data": {
+      "totals": {
+        "total": "CHF 127'454.40",
+        "monetary_allowances": "CHF 103'103.15",
+        "non_monetary_allowances": "CHF 7'900.00",
+        "events": "CHF 3'030.00",
+        "sales": "CHF 4'234.50",
+        "equity": "CHF 9'186.75"
+      }
+    }
+  },
+  "meta": {
+    "powered_by": "Sitrox",
+    "data_checksum_sha256": "c1d73f54516d8b18db9c45afddea22d66be9c3f51dd6b617cabdd0d7e059bcea"
+  }
+}

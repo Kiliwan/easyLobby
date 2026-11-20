@@ -621,6 +621,14 @@
                         "campaign_id": 600,
                         "download_path": "/api/frontend/latest/de/downloads/campaigns/600/forms/111",
                         "children": []
+                      },
+                      {
+                        "id": 117,
+                        "label": "Offenlegung der Schlussrechnung über die Einnahmen",
+                        "type": "form",
+                        "campaign_id": 600,
+                        "download_path": "/api/frontend/latest/de/downloads/campaigns/600/forms/117",
+                        "children": []
                       }
                     ]
                   }
@@ -18796,6 +18804,6 @@
   },
   "meta": {
     "powered_by": "Sitrox",
-    "data_checksum_sha256": "6e9af25c8dc4985b56c7227f061d931cac8bad382e56ce6df6f58dab86c8f403"
+    "data_checksum_sha256": "f7eb3f349b299e690cfad6b69a182e141c8511d27ed1a79680e73d8a34bd6526"
   }
 }
